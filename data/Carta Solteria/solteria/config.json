@@ -1,0 +1,24 @@
+{
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "data": {
+        "shortid": "Sy5S19ncg"
+    },
+    "name": "solteria",
+    "chrome": {
+        "printBackground": true,
+        "marginTop": "1cm",
+        "marginRight": "1cm",
+        "marginBottom": "1cm",
+        "marginLeft": "1cm"
+    },
+    "creationDate": {
+        "$$date": 1596605974098
+    },
+    "modificationDate": {
+        "$$date": 1597014647555
+    },
+    "shortid": "essg43Z",
+    "_id": "rkqQdKIgw7xipSn8",
+    "$entitySet": "templates"
+}
