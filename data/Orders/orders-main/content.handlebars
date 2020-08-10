@@ -49,31 +49,6 @@ Note: This example requires jsreport to be configured with
             // which gets afterwards interpreted in chrome into object
             var data = {{{toJSON accumulated}}}
 
-            Chart.defaults.global.legend.display = false;
-
-            new Chart(orders{{country}}.getContext("2d"), {
-                type: 'bar',
-                data: {
-                    labels: Object.keys(data),
-                    datasets: [{
-                        fillColor: 'blue',
-                        label: "Orders in time",
-                        backgroundColor: "rgba(27,161,226,0.2)",
-                        borderColor: "rgba(27,161,226,1)",
-                        borderWidth: 1,
-                        hoverBackgroundColor: "rgba(27,161,226,0.4)",
-                        hoverBorderColor: "rgba(27,161,226,1)",
-                        data: Object.keys(data).map(function (o) {
-                            return data[o].value;
-                        })
-                    }]
-                },
-                options: {
-                    animation: {
-                        duration: 0
-                    }
-                }
-            });
         </script>
         <div style='page-break-after: always;'>
         </div>
