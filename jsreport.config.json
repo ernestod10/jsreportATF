@@ -21,6 +21,9 @@
     },
     "fs-store": {
       "syncModifications": false
+    },
+    "scripts": {
+      "allowedModules": ["pg"]
     }
   }
 }
