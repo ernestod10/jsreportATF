@@ -148,3 +148,28 @@ undefined
     at IncomingMessage.emit (events.js:315:20)
     at endReadableNT (_stream_readable.js:1224:12)
     at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-12T18:48:31.811Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected token ] in JSON at position 1479, stack: SyntaxError: Unexpected token ] in JSON at position 1479
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-12T18:50:09.610Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected token ] in JSON at position 1517, stack: SyntaxError: Unexpected token ] in JSON at position 1517
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-12T18:50:47.286Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-12T18:51:17.818Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-12T18:58:40.920Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-12T18:58:42.425Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-12T19:01:41.045Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined

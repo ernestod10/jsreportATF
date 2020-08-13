@@ -3953,3 +3953,128 @@ Expecting 'EOF', got 'OPEN_ENDBLOCK'
 2020-08-12T18:15:25.344Z - info: Initializing jsreport@2.9.0 in development mode using configuration file: jsreport.config.json
 2020-08-12T18:15:25.346Z - info: Searching for available extensions in C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\
 2020-08-12T18:15:25.353Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\
+2020-08-12T18:15:25.382Z - info: Found 35 extensions
+2020-08-12T18:15:25.633Z - debug: Writing extension locations cache to C:\Users\TOMASE~1\AppData\Local\Temp\jsreport\core\locations.json
+2020-08-12T18:15:25.634Z - debug: Discovered 35 extensions
+2020-08-12T18:15:25.682Z - info: Setting dedicated-process (process based) strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2020-08-12T18:15:25.688Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2020-08-12T18:15:25.688Z - info: Using extension cli@2.2.4
+2020-08-12T18:15:25.691Z - info: Using extension debug@2.1.3
+2020-08-12T18:15:25.693Z - info: Using extension express@2.7.0
+2020-08-12T18:15:25.876Z - info: Using extension freeze@2.0.0
+2020-08-12T18:15:25.879Z - info: Using extension handlebars@2.1.0
+2020-08-12T18:15:25.883Z - info: Using extension import-export@2.0.0
+2020-08-12T18:15:25.945Z - info: Using extension jsrender@2.1.1
+2020-08-12T18:15:25.947Z - info: Using extension tags@2.4.0
+2020-08-12T18:15:25.949Z - info: Using extension templates@2.4.0
+2020-08-12T18:15:25.952Z - info: Using extension authorization@2.4.0
+2020-08-12T18:15:25.959Z - debug: Extension authorization@2.4.0 was disabled
+2020-08-12T18:15:25.960Z - info: Using extension base@2.0.2
+2020-08-12T18:15:25.963Z - info: Using extension browser-client@2.2.2
+2020-08-12T18:15:25.968Z - info: Using extension child-templates@1.4.0
+2020-08-12T18:15:25.975Z - info: Using extension chrome-pdf@1.8.0
+2020-08-12T18:15:26.063Z - debug: Chrome strategy is dedicated-process
+2020-08-12T18:15:26.065Z - info: Using extension data@2.3.0
+2020-08-12T18:15:26.068Z - info: Using extension docx@2.7.0
+2020-08-12T18:15:26.073Z - info: Using extension fs-store@2.8.0
+2020-08-12T18:15:26.235Z - info: Using extension licensing@2.2.2
+2020-08-12T18:15:26.243Z - info: Using extension pdf-utils@1.8.0
+2020-08-12T18:15:26.330Z - info: Using extension pptx@0.7.0
+2020-08-12T18:15:26.337Z - info: Using extension reports@2.4.0
+2020-08-12T18:15:26.341Z - info: Using extension static-pdf@0.4.0
+2020-08-12T18:15:26.346Z - info: Using extension studio@2.9.0
+2020-08-12T18:15:26.418Z - debug: studio request logs are enabled (flush interval: 2000)
+2020-08-12T18:15:26.420Z - info: Using extension text@2.0.0
+2020-08-12T18:15:26.422Z - info: Using extension version-control@1.5.0
+2020-08-12T18:15:26.522Z - info: Using extension assets@1.6.0
+2020-08-12T18:15:26.538Z - info: Using extension html-to-xlsx@2.7.0
+2020-08-12T18:15:26.946Z - info: html-to-xlsx detected chrome as available html engine
+2020-08-12T18:15:26.947Z - info: Using extension scheduling@2.4.0
+2020-08-12T18:15:26.977Z - info: Using extension scripts@2.5.0
+2020-08-12T18:15:26.981Z - info: Using extension studio-theme-dark@0.3.0
+2020-08-12T18:15:26.983Z - info: Using extension xlsx@2.4.0
+2020-08-12T18:15:27.186Z - info: Using extension public-templates@2.1.0
+2020-08-12T18:15:27.188Z - debug: Extension public-templates@2.1.0 was disabled
+2020-08-12T18:15:27.189Z - info: Using extension resources@2.1.0
+2020-08-12T18:15:27.191Z - info: Using extension sample-template@2.5.1
+2020-08-12T18:15:27.193Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2020-08-12T18:15:27.194Z - info: Using fs provider for template store.
+2020-08-12T18:15:27.198Z - info: fs store is persisting using fs
+2020-08-12T18:15:27.200Z - info: fs store sync is disabled
+2020-08-12T18:15:27.201Z - info: fs store underlying changes synchronization with studio is disabled
+2020-08-12T18:15:27.206Z - info: fs store is loading data
+2020-08-12T18:15:27.244Z - info: fs store is initialized successfully
+2020-08-12T18:15:27.248Z - debug: studio default theme is: light
+2020-08-12T18:15:27.254Z - info: Creating default express app.
+2020-08-12T18:15:27.289Z - info: jsreport server successfully started on http port: 5488
+2020-08-12T18:15:27.291Z - info: Verifying license key free
+2020-08-12T18:15:27.292Z - info: Using free license
+2020-08-12T18:15:27.297Z - info: reporter initialized
+2020-08-12T18:16:45.146Z - debug: OData query on templates
+2020-08-12T18:16:45.150Z - debug: OData query on folders
+2020-08-12T18:16:45.155Z - debug: OData query on tags
+2020-08-12T18:16:45.156Z - debug: OData query on data
+2020-08-12T18:16:45.158Z - debug: OData query on assets
+2020-08-12T18:16:45.160Z - debug: OData query on scripts
+2020-08-12T18:16:45.166Z - debug: OData query on xlsxTemplates
+2020-08-12T18:16:45.170Z - debug: OData query on schedules
+2020-08-12T18:16:45.177Z - debug: OData query on settings
+2020-08-12T18:16:45.325Z - debug: OData query on templates
+2020-08-12T18:16:45.338Z - debug: OData query on settings
+2020-08-12T18:17:07.457Z - debug: OData query on templates
+2020-08-12T18:17:20.403Z - debug: OData query on data
+2020-08-12T18:17:53.533Z - info: Starting rendering request 1 (user: null)
+2020-08-12T18:17:53.535Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-08-12T18:17:53.537Z - debug: Inline data specified.
+2020-08-12T18:17:53.538Z - debug: Resources not defined for this template.
+2020-08-12T18:17:53.540Z - debug: Base url not specified, skipping its injection.
+2020-08-12T18:17:53.546Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-12T18:17:53.547Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-12T18:17:53.847Z - debug: Compiled template not found in the cache, compiling
+2020-08-12T18:17:53.849Z - debug: Executing recipe chrome-pdf
+2020-08-12T18:17:54.285Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-12T18:17:54.607Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/65d98253-ba34-4ddf-8996-165acbb2c2ec-chrome-pdf.html
+2020-08-12T18:17:54.625Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/65d98253-ba34-4ddf-8996-165acbb2c2ec-chrome-pdf.html
+2020-08-12T18:17:54.694Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-12T18:17:55.177Z - debug: Skipping storing report.
+2020-08-12T18:17:55.178Z - info: Rendering request 1 finished in 1646 ms
+2020-08-12T18:48:31.811Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected token ] in JSON at position 1479, stack: SyntaxError: Unexpected token ] in JSON at position 1479
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-12T18:50:09.610Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected token ] in JSON at position 1517, stack: SyntaxError: Unexpected token ] in JSON at position 1517
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-12T18:50:47.286Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-12T18:51:17.818Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-12T18:58:40.920Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-12T18:58:42.425Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-12T19:01:41.045Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-12T19:26:15.070Z - info: Starting rendering request 2 (user: null)
+2020-08-12T19:26:15.072Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-08-12T19:26:15.073Z - debug: Inline data specified.
+2020-08-12T19:26:15.075Z - debug: Resources not defined for this template.
+2020-08-12T19:26:15.077Z - debug: Base url not specified, skipping its injection.
+2020-08-12T19:26:15.080Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-12T19:26:15.081Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-12T19:26:15.280Z - debug: Compiled template not found in the cache, compiling
+2020-08-12T19:26:15.283Z - debug: Executing recipe chrome-pdf
+2020-08-12T19:26:18.293Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-12T19:26:18.453Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/05ae080c-2812-4766-9dd6-767b7d1e8ecb-chrome-pdf.html
+2020-08-12T19:26:18.459Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/05ae080c-2812-4766-9dd6-767b7d1e8ecb-chrome-pdf.html
+2020-08-12T19:26:18.493Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-12T19:26:19.020Z - debug: Skipping storing report.
+2020-08-12T19:26:19.021Z - info: Rendering request 2 finished in 3950 ms
