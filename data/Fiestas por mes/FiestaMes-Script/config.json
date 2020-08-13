@@ -1,0 +1,13 @@
+{
+    "shortid": "Skgp1x2WzP",
+    "name": "FiestaMes-Script",
+    "creationDate": {
+        "$$date": 1597255664880
+    },
+    "modificationDate": {
+        "$$date": 1597275944484
+    },
+    "_id": "AzISIo3LOpEAyzRT",
+    "$entitySet": "scripts",
+    "isGlobal": false
+}
