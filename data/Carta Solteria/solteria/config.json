@@ -2,7 +2,7 @@
     "recipe": "chrome-pdf",
     "engine": "handlebars",
     "data": {
-        "shortid": "Sy5S19ncg"
+        "shortid": "r1gtOgdeGw"
     },
     "name": "solteria",
     "chrome": {
@@ -16,9 +16,10 @@
         "$$date": 1596605974098
     },
     "modificationDate": {
-        "$$date": 1597014647555
+        "$$date": 1597178836423
     },
     "shortid": "essg43Z",
     "_id": "rkqQdKIgw7xipSn8",
-    "$entitySet": "templates"
+    "$entitySet": "templates",
+    "scripts": []
 }

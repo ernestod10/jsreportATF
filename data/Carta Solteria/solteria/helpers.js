@@ -8,3 +8,6 @@ function nowPlus20Days() {
     return date.toLocaleDateString();
 }
 
+function cedula(value) {
+    return value.toString().replace(/\d{1,3}(?=(\d{3})+(?!\d))/g, "$&.");
+}

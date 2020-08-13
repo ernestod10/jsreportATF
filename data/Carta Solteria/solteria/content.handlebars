@@ -16,12 +16,26 @@ incoming API request.
     </head>
     <body>
         <div class="invoice-box">
-            <p>Yo, {{name}}, de nacionalidad Venezolana, mayor de edad, civilmente hábil, de este domicilio, soltero y titular de la cédula de Identidad V-{{$randomPhoneNumber}}, comparezco por ante su competente autoridad con motivo al matrimonio civil que he decidido contraer, a objeto de solicitarle se sirva interrogar a los testigos que oportunamente presentaré, sobre los siguientes particulares:</p>
-            <p>PRIMERO Si me conocen suficientemente de vista, trato y comunicación desde hace varios años.</p>
-            <p>SEGUNDO: Si por ese conocimiento que de mi tienen, saben y les consta que nací en Caracas, el día {{dia}} de {{mes}} de {{año}}, y que soy hijo de {{papa}} Y {{mama}}.</p>
+            <h1 style="text-align: center">CARTA DE SOLTERÍA</h1>
+            <p>Yo, <strong class="uppercase">{{primer_nombre_solicitante}} {{segundo_nombre_solicitante}} {{primer_apellido_solicitante}} {{segundo_apellido_solicitante}}</strong>,
+            de nacionalidad Venezolana, mayor de edad, civilmente hábil, de este domicilio, soltero y titular de la cédula de Identidad V-{{cedula cedula_solicitante}}, comparezco por ante su competente autoridad con motivo al matrimonio civil que he decidido contraer, a objeto de solicitarle se sirva interrogar a los testigos que oportunamente presentaré, sobre los siguientes particulares:</p>
+            <p>PRIMERO: Si me conocen suficientemente de vista, trato y comunicación desde hace varios años.</p>
+            <p>SEGUNDO: Si por ese conocimiento que de mi tienen, saben y les consta que nací en Caracas, el día <strong>{{dia_nacimiento}}</strong> de <strong>{{mes_nacimiento}}</strong> de <strong>{{año_nacimiento}}</strong>, y que soy hijo de 
+            <strong class="uppercase">{{primer_nombre_padre}} {{segundo_nombre_padre}} {{primer_apellido_padre}} {{segundo_apellido_padre}}</strong> Y 
+            <strong class="uppercase">{{primer_nombre_madre}} {{segundo_nombre_madre}} {{primer_apellido_madre}} {{segundo_apellido_madre}}</strong>.</p>
             <p>TERCERO: Si por el conocimiento que de mi tienen, saben y les consta que soy soltero(a) y no tengo impedimento alguno para contraer matrimonio.</p>
             <p>Por último solicito que una vez evacuadas las presentes actuaciones se sirva devolvérmelas en original con sus resultas. Es Justicia que espero a la fecha de su presentación. Los testigos contestaron afirmativamente a las anteriores preguntas y en consecuencia estampan sus firmas a continuación</p>
-    
+            <div class="testigos-container">
+                {{#each testigos}}
+                <p class="testigo">
+                    {{this.primer_nombre_testigo}} 
+                    {{this.segundo_nombre_testigo}} 
+                    {{this.primer_apellido_testigo}} 
+                    {{this.segundo_apellido_testigo}}<br>
+                    V-{{cedula this.cedula_testigo}}
+                </p>
+                {{/each}}
+            </div>
         </div>
     </body>
 </html>

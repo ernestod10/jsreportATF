@@ -3087,3 +3087,869 @@ Expecting 'EOF', got 'OPEN_ENDBLOCK'
 2020-08-10T21:53:42.795Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
 2020-08-10T21:53:43.216Z - debug: Skipping storing report.
 2020-08-10T21:53:43.217Z - info: Rendering request 14 finished in 1304 ms
+2020-08-11T19:14:09.829Z - info: Initializing jsreport@2.9.0 in development mode using configuration file: jsreport.config.json
+2020-08-11T19:14:09.831Z - info: Searching for available extensions in C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\
+2020-08-11T19:14:09.837Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\
+2020-08-11T19:14:09.859Z - info: Found 35 extensions
+2020-08-11T19:14:10.001Z - debug: Writing extension locations cache to C:\Users\TOMASE~1\AppData\Local\Temp\jsreport\core\locations.json
+2020-08-11T19:14:10.004Z - debug: Discovered 35 extensions
+2020-08-11T19:14:10.046Z - info: Setting dedicated-process (process based) strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2020-08-11T19:14:10.052Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2020-08-11T19:14:10.053Z - info: Using extension cli@2.2.4
+2020-08-11T19:14:10.056Z - info: Using extension debug@2.1.3
+2020-08-11T19:14:10.058Z - info: Using extension express@2.7.0
+2020-08-11T19:14:10.201Z - info: Using extension freeze@2.0.0
+2020-08-11T19:14:10.204Z - info: Using extension handlebars@2.1.0
+2020-08-11T19:14:10.207Z - info: Using extension import-export@2.0.0
+2020-08-11T19:14:10.248Z - info: Using extension jsrender@2.1.1
+2020-08-11T19:14:10.249Z - info: Using extension tags@2.4.0
+2020-08-11T19:14:10.252Z - info: Using extension templates@2.4.0
+2020-08-11T19:14:10.255Z - info: Using extension authorization@2.4.0
+2020-08-11T19:14:10.259Z - debug: Extension authorization@2.4.0 was disabled
+2020-08-11T19:14:10.259Z - info: Using extension base@2.0.2
+2020-08-11T19:14:10.261Z - info: Using extension browser-client@2.2.2
+2020-08-11T19:14:10.263Z - info: Using extension child-templates@1.4.0
+2020-08-11T19:14:10.267Z - info: Using extension chrome-pdf@1.8.0
+2020-08-11T19:14:10.326Z - debug: Chrome strategy is dedicated-process
+2020-08-11T19:14:10.327Z - info: Using extension data@2.3.0
+2020-08-11T19:14:10.329Z - info: Using extension docx@2.7.0
+2020-08-11T19:14:10.332Z - info: Using extension fs-store@2.8.0
+2020-08-11T19:14:10.437Z - info: Using extension licensing@2.2.2
+2020-08-11T19:14:10.444Z - info: Using extension pdf-utils@1.8.0
+2020-08-11T19:14:10.505Z - info: Using extension pptx@0.7.0
+2020-08-11T19:14:10.509Z - info: Using extension reports@2.4.0
+2020-08-11T19:14:10.513Z - info: Using extension static-pdf@0.4.0
+2020-08-11T19:14:10.516Z - info: Using extension studio@2.9.0
+2020-08-11T19:14:10.566Z - debug: studio request logs are enabled (flush interval: 2000)
+2020-08-11T19:14:10.568Z - info: Using extension text@2.0.0
+2020-08-11T19:14:10.570Z - info: Using extension version-control@1.5.0
+2020-08-11T19:14:10.636Z - info: Using extension assets@1.6.0
+2020-08-11T19:14:10.645Z - info: Using extension html-to-xlsx@2.7.0
+2020-08-11T19:14:10.884Z - info: html-to-xlsx detected chrome as available html engine
+2020-08-11T19:14:10.887Z - info: Using extension scheduling@2.4.0
+2020-08-11T19:14:10.909Z - info: Using extension scripts@2.5.0
+2020-08-11T19:14:10.912Z - info: Using extension studio-theme-dark@0.3.0
+2020-08-11T19:14:10.913Z - info: Using extension xlsx@2.4.0
+2020-08-11T19:14:11.032Z - info: Using extension public-templates@2.1.0
+2020-08-11T19:14:11.034Z - debug: Extension public-templates@2.1.0 was disabled
+2020-08-11T19:14:11.036Z - info: Using extension resources@2.1.0
+2020-08-11T19:14:11.038Z - info: Using extension sample-template@2.5.1
+2020-08-11T19:14:11.040Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2020-08-11T19:14:11.040Z - info: Using fs provider for template store.
+2020-08-11T19:14:11.045Z - info: fs store is persisting using fs
+2020-08-11T19:14:11.046Z - info: fs store sync is disabled
+2020-08-11T19:14:11.047Z - info: fs store underlying changes synchronization with studio is disabled
+2020-08-11T19:14:11.052Z - info: fs store is loading data
+2020-08-11T19:14:11.085Z - info: fs store is initialized successfully
+2020-08-11T19:14:11.090Z - debug: studio default theme is: light
+2020-08-11T19:14:11.096Z - info: Creating default express app.
+2020-08-11T19:14:11.112Z - info: jsreport server successfully started on http port: 5488
+2020-08-11T19:14:11.114Z - info: Verifying license key free
+2020-08-11T19:14:11.116Z - info: Using free license
+2020-08-11T19:14:11.120Z - info: reporter initialized
+2020-08-11T19:14:19.992Z - debug: OData query on templates
+2020-08-11T19:14:20.000Z - debug: OData query on folders
+2020-08-11T19:14:20.004Z - debug: OData query on tags
+2020-08-11T19:14:20.006Z - debug: OData query on data
+2020-08-11T19:14:20.008Z - debug: OData query on assets
+2020-08-11T19:14:20.010Z - debug: OData query on scripts
+2020-08-11T19:14:20.016Z - debug: OData query on xlsxTemplates
+2020-08-11T19:14:20.019Z - debug: OData query on schedules
+2020-08-11T19:14:20.025Z - debug: OData query on settings
+2020-08-11T19:14:20.234Z - debug: OData query on templates
+2020-08-11T19:14:20.246Z - debug: OData query on settings
+2020-08-11T19:14:23.806Z - debug: OData query on templates
+2020-08-11T19:14:25.142Z - info: Starting rendering request 1 (user: null)
+2020-08-11T19:14:25.146Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T19:14:25.148Z - debug: Adding sample data Sy5S19ncg
+2020-08-11T19:14:25.149Z - debug: Resources not defined for this template.
+2020-08-11T19:14:25.152Z - debug: Base url not specified, skipping its injection.
+2020-08-11T19:14:25.157Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T19:14:25.158Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T19:14:25.338Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T19:14:25.340Z - debug: Executing recipe chrome-pdf
+2020-08-11T19:14:30.449Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T19:14:31.535Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/9af26d7b-8485-4f2a-919d-f856b5a48c98-chrome-pdf.html
+2020-08-11T19:14:31.541Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/9af26d7b-8485-4f2a-919d-f856b5a48c98-chrome-pdf.html
+2020-08-11T19:14:31.569Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T19:14:33.041Z - debug: Skipping storing report.
+2020-08-11T19:14:33.043Z - info: Rendering request 1 finished in 7901 ms
+2020-08-11T19:15:19.496Z - debug: OData query on templates
+2020-08-11T19:15:22.300Z - info: Starting rendering request 2 (user: null)
+2020-08-11T19:15:22.302Z - info: Rendering template { name: factura, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T19:15:22.304Z - debug: Adding sample data Sy5S19ncg
+2020-08-11T19:15:22.308Z - debug: Resources not defined for this template.
+2020-08-11T19:15:22.309Z - debug: Base url not specified, skipping its injection.
+2020-08-11T19:15:22.313Z - debug: Replaced assets ["invoice-styles.css","invoice-logo.png"]
+2020-08-11T19:15:22.315Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T19:15:22.492Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T19:15:22.494Z - debug: Calculating item undefined; you should see this message in debug run
+2020-08-11T19:15:22.494Z - debug: Calculating item undefined; you should see this message in debug run
+2020-08-11T19:15:22.498Z - debug: Executing recipe chrome-pdf
+2020-08-11T19:15:22.615Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T19:15:22.740Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/345b8a3b-4dd7-4adb-a6d2-7f7a61bd61cd-chrome-pdf.html
+2020-08-11T19:15:22.748Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/345b8a3b-4dd7-4adb-a6d2-7f7a61bd61cd-chrome-pdf.html
+2020-08-11T19:15:22.752Z - debug: Page request: GET (image) data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnYAAABoCAYAAAB8F707AAAABGdBTUEAALGOfPtRkwAAACBjSFJNAA...
+2020-08-11T19:15:22.752Z - debug: Page request finished: GET (image) 200 data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnYAAABoCAYAAAB8F707AAAABGdBTUEAALGOfPtRkwAAACBjSFJNAA...
+2020-08-11T19:15:22.779Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T19:15:23.038Z - debug: Skipping storing report.
+2020-08-11T19:15:23.039Z - info: Rendering request 2 finished in 738 ms
+2020-08-11T19:16:58.644Z - debug: OData query on templates
+2020-08-11T19:16:59.952Z - info: Starting rendering request 3 (user: null)
+2020-08-11T19:16:59.953Z - info: Rendering template { name: orders-main, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T19:16:59.954Z - debug: Data item not defined for this template.
+2020-08-11T19:16:59.954Z - debug: Resources not defined for this template.
+2020-08-11T19:16:59.956Z - debug: Executing script orders-script using dedicated-process strategy
+2020-08-11T19:17:03.618Z - debug: Base url not specified, skipping its injection.
+2020-08-11T19:17:03.622Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T19:17:03.781Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T19:17:03.782Z - debug: Pdf utils adding group field, value: "France"
+2020-08-11T19:17:03.783Z - debug: Pdf utils adding group field, value: "Germany"
+2020-08-11T19:17:03.785Z - debug: Executing recipe chrome-pdf
+2020-08-11T19:17:03.917Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T19:17:04.055Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/74468c15-02df-49d3-ab44-8e2a759ac6b4-chrome-pdf.html
+2020-08-11T19:17:04.062Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/74468c15-02df-49d3-ab44-8e2a759ac6b4-chrome-pdf.html
+2020-08-11T19:17:04.064Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-11T19:17:04.065Z - debug: Page request: GET (script) https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js
+2020-08-11T19:17:09.219Z - debug: Page request finished: GET (script) 200 https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js
+2020-08-11T19:17:09.249Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-11T19:17:09.308Z - debug: Running chrome with params {"printBackground":true,"marginTop":"4cm","marginRight":"1.5cm","marginBottom":"1.5cm","marginLeft":"1.5cm","waitForJS":false,"margin":{"top":"4cm","right":"1.5cm","bottom":"1.5cm","left":"1.5cm"}}
+2020-08-11T19:17:09.650Z - info: pdf-utils is starting pdf processing
+2020-08-11T19:17:10.030Z - debug: pdf-utils detected 1 pdf operation(s) to process
+2020-08-11T19:17:10.031Z - debug: pdf-utils running pdf operation merge
+2020-08-11T19:17:10.033Z - info: Starting rendering request 4 (user: null)
+2020-08-11T19:17:10.034Z - info: Rendering template { name: orders-header, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T19:17:10.035Z - debug: Inline data specified.
+2020-08-11T19:17:10.037Z - debug: Resources not defined for this template.
+2020-08-11T19:17:10.038Z - debug: Base url not specified, skipping its injection.
+2020-08-11T19:17:10.040Z - debug: Replaced assets ["orders-styles.css"]
+2020-08-11T19:17:10.041Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T19:17:10.208Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T19:17:10.210Z - debug: Executing recipe chrome-pdf
+2020-08-11T19:17:10.364Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T19:17:10.503Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/cbde1748-e78c-4188-95bc-3722df95ac0c-chrome-pdf.html
+2020-08-11T19:17:10.509Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/cbde1748-e78c-4188-95bc-3722df95ac0c-chrome-pdf.html
+2020-08-11T19:17:10.512Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-11T19:17:11.617Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-11T19:17:11.655Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1.5cm","marginRight":"1.5cm","marginLeft":"1.cm","margin":{"top":"1.5cm","right":"1.5cm","left":"1.cm"}}
+2020-08-11T19:17:11.942Z - debug: Skipping storing report.
+2020-08-11T19:17:11.943Z - info: Rendering request 4 finished in 1911 ms
+2020-08-11T19:17:11.996Z - debug: pdf-utils postproces start
+2020-08-11T19:17:11.997Z - debug: pdf-utils postproces end
+2020-08-11T19:17:11.998Z - info: pdf-utils pdf processing was finished
+2020-08-11T19:17:11.998Z - debug: Skipping storing report.
+2020-08-11T19:17:11.999Z - info: Rendering request 3 finished in 12048 ms
+2020-08-11T19:17:40.126Z - debug: OData query on scripts
+2020-08-11T19:17:58.574Z - info: Starting rendering request 5 (user: null)
+2020-08-11T19:17:58.575Z - info: Rendering template { name: orders-main, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T19:17:58.576Z - debug: Adding sample data Sy5S19ncg
+2020-08-11T19:17:58.577Z - debug: Resources not defined for this template.
+2020-08-11T19:17:58.579Z - debug: Executing script orders-script using dedicated-process strategy
+2020-08-11T19:18:00.537Z - debug: Base url not specified, skipping its injection.
+2020-08-11T19:18:00.539Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T19:18:00.710Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T19:18:00.712Z - debug: Pdf utils adding group field, value: "France"
+2020-08-11T19:18:00.713Z - debug: Pdf utils adding group field, value: "Germany"
+2020-08-11T19:18:00.715Z - debug: Executing recipe chrome-pdf
+2020-08-11T19:18:00.864Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T19:18:00.992Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/a8c475cc-0411-4ccd-8f4f-71644540f7e8-chrome-pdf.html
+2020-08-11T19:18:00.999Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/a8c475cc-0411-4ccd-8f4f-71644540f7e8-chrome-pdf.html
+2020-08-11T19:18:01.001Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-11T19:18:01.001Z - debug: Page request: GET (script) https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js
+2020-08-11T19:18:01.393Z - debug: Page request finished: GET (script) 200 https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js
+2020-08-11T19:18:01.507Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-11T19:18:01.588Z - debug: Running chrome with params {"printBackground":true,"marginTop":"4cm","marginRight":"1.5cm","marginBottom":"1.5cm","marginLeft":"1.5cm","waitForJS":false,"margin":{"top":"4cm","right":"1.5cm","bottom":"1.5cm","left":"1.5cm"}}
+2020-08-11T19:18:02.009Z - info: pdf-utils is starting pdf processing
+2020-08-11T19:18:02.610Z - debug: pdf-utils detected 1 pdf operation(s) to process
+2020-08-11T19:18:02.612Z - debug: pdf-utils running pdf operation merge
+2020-08-11T19:18:02.613Z - info: Starting rendering request 6 (user: null)
+2020-08-11T19:18:02.614Z - info: Rendering template { name: orders-header, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T19:18:02.615Z - debug: Inline data specified.
+2020-08-11T19:18:02.616Z - debug: Resources not defined for this template.
+2020-08-11T19:18:02.616Z - debug: Base url not specified, skipping its injection.
+2020-08-11T19:18:02.618Z - debug: Replaced assets ["orders-styles.css"]
+2020-08-11T19:18:02.619Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T19:18:02.878Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T19:18:02.880Z - debug: Executing recipe chrome-pdf
+2020-08-11T19:18:03.040Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T19:18:03.220Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/e7369950-6b8b-4b98-bd87-045166198a2b-chrome-pdf.html
+2020-08-11T19:18:03.231Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/e7369950-6b8b-4b98-bd87-045166198a2b-chrome-pdf.html
+2020-08-11T19:18:03.232Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-11T19:18:03.589Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-11T19:18:03.628Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1.5cm","marginRight":"1.5cm","marginLeft":"1.cm","margin":{"top":"1.5cm","right":"1.5cm","left":"1.cm"}}
+2020-08-11T19:18:03.933Z - debug: Skipping storing report.
+2020-08-11T19:18:03.934Z - info: Rendering request 6 finished in 1322 ms
+2020-08-11T19:18:04.009Z - debug: pdf-utils postproces start
+2020-08-11T19:18:04.010Z - debug: pdf-utils postproces end
+2020-08-11T19:18:04.011Z - info: pdf-utils pdf processing was finished
+2020-08-11T19:18:04.012Z - debug: Skipping storing report.
+2020-08-11T19:18:04.013Z - info: Rendering request 5 finished in 5439 ms
+2020-08-11T19:20:06.208Z - debug: OData query on data
+2020-08-11T19:20:35.765Z - debug: OData query on assets
+2020-08-11T19:20:37.704Z - info: Starting rendering request 7 (user: null)
+2020-08-11T19:20:37.705Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T19:20:37.706Z - debug: Inline data specified.
+2020-08-11T19:20:37.707Z - debug: Resources not defined for this template.
+2020-08-11T19:20:37.708Z - debug: Base url not specified, skipping its injection.
+2020-08-11T19:20:37.712Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T19:20:37.712Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T19:20:37.888Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T19:20:37.890Z - debug: Executing recipe chrome-pdf
+2020-08-11T19:20:38.039Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T19:20:38.165Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/09dd14ee-fe0b-40c1-9c50-ead85cb6560d-chrome-pdf.html
+2020-08-11T19:20:38.173Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/09dd14ee-fe0b-40c1-9c50-ead85cb6560d-chrome-pdf.html
+2020-08-11T19:20:38.195Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T19:20:38.431Z - debug: Skipping storing report.
+2020-08-11T19:20:38.433Z - info: Rendering request 7 finished in 728 ms
+2020-08-11T19:37:36.530Z - debug: OData insert into data
+2020-08-11T19:37:40.390Z - debug: OData query on data
+2020-08-11T19:37:42.140Z - debug: OData query on templates
+2020-08-11T19:37:54.847Z - debug: OData update on templates
+2020-08-11T19:37:54.874Z - debug: OData query on templates
+2020-08-11T19:37:55.804Z - info: Starting rendering request 8 (user: null)
+2020-08-11T19:37:55.805Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T19:37:55.806Z - debug: Inline data specified.
+2020-08-11T19:37:55.807Z - debug: Resources not defined for this template.
+2020-08-11T19:37:55.808Z - debug: Base url not specified, skipping its injection.
+2020-08-11T19:37:55.810Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T19:37:55.811Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T19:37:56.002Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T19:37:56.009Z - debug: Executing recipe chrome-pdf
+2020-08-11T19:37:56.197Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T19:37:56.336Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/81b12855-6bd7-4e38-8a79-ed54b048c809-chrome-pdf.html
+2020-08-11T19:37:56.344Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/81b12855-6bd7-4e38-8a79-ed54b048c809-chrome-pdf.html
+2020-08-11T19:37:56.370Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T19:37:56.619Z - debug: Skipping storing report.
+2020-08-11T19:37:56.620Z - info: Rendering request 8 finished in 816 ms
+2020-08-11T19:39:13.681Z - debug: OData query on assets
+2020-08-11T19:39:39.999Z - debug: OData update on assets
+2020-08-11T19:39:40.026Z - debug: OData query on assets
+2020-08-11T19:40:02.818Z - info: Starting rendering request 9 (user: null)
+2020-08-11T19:40:02.819Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T19:40:02.820Z - debug: Inline data specified.
+2020-08-11T19:40:02.821Z - debug: Resources not defined for this template.
+2020-08-11T19:40:02.822Z - debug: Base url not specified, skipping its injection.
+2020-08-11T19:40:02.824Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T19:40:02.824Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T19:40:02.994Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T19:40:02.996Z - debug: Executing recipe chrome-pdf
+2020-08-11T19:40:03.141Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T19:40:03.261Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/bb121cfd-e7ca-433c-886b-58ce4c0dcc95-chrome-pdf.html
+2020-08-11T19:40:03.269Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/bb121cfd-e7ca-433c-886b-58ce4c0dcc95-chrome-pdf.html
+2020-08-11T19:40:03.292Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T19:40:03.523Z - debug: Skipping storing report.
+2020-08-11T19:40:03.524Z - info: Rendering request 9 finished in 705 ms
+2020-08-11T19:40:05.023Z - debug: OData update on templates
+2020-08-11T19:40:05.054Z - debug: OData query on templates
+2020-08-11T19:40:06.496Z - info: Starting rendering request 10 (user: null)
+2020-08-11T19:40:06.498Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T19:40:06.498Z - debug: Inline data specified.
+2020-08-11T19:40:06.499Z - debug: Resources not defined for this template.
+2020-08-11T19:40:06.499Z - debug: Base url not specified, skipping its injection.
+2020-08-11T19:40:06.502Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T19:40:06.503Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T19:40:06.665Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T19:40:06.665Z - debug: Executing recipe chrome-pdf
+2020-08-11T19:40:06.849Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T19:40:06.973Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/7d3667e9-d66d-4c5f-a6ed-6922caf1e58d-chrome-pdf.html
+2020-08-11T19:40:06.981Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/7d3667e9-d66d-4c5f-a6ed-6922caf1e58d-chrome-pdf.html
+2020-08-11T19:40:07.007Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T19:40:07.238Z - debug: Skipping storing report.
+2020-08-11T19:40:07.239Z - info: Rendering request 10 finished in 742 ms
+2020-08-11T19:40:44.003Z - debug: OData query on scripts
+2020-08-11T19:40:57.715Z - info: Starting rendering request 11 (user: null)
+2020-08-11T19:40:57.717Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T19:40:57.717Z - debug: Inline data specified.
+2020-08-11T19:40:57.718Z - debug: Resources not defined for this template.
+2020-08-11T19:40:57.719Z - debug: Base url not specified, skipping its injection.
+2020-08-11T19:40:57.722Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T19:40:57.723Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T19:40:57.884Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T19:40:57.886Z - debug: Executing recipe chrome-pdf
+2020-08-11T19:40:58.078Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T19:40:58.218Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/15d33a9d-ad40-4ece-aba2-3d57819323a7-chrome-pdf.html
+2020-08-11T19:40:58.227Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/15d33a9d-ad40-4ece-aba2-3d57819323a7-chrome-pdf.html
+2020-08-11T19:40:58.249Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T19:40:58.491Z - debug: Skipping storing report.
+2020-08-11T19:40:58.492Z - info: Rendering request 11 finished in 776 ms
+2020-08-11T19:41:50.605Z - debug: OData update on templates
+2020-08-11T19:41:50.644Z - debug: OData query on templates
+2020-08-11T19:41:51.135Z - info: Starting rendering request 12 (user: null)
+2020-08-11T19:41:51.136Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T19:41:51.137Z - debug: Inline data specified.
+2020-08-11T19:41:51.137Z - debug: Resources not defined for this template.
+2020-08-11T19:41:51.138Z - debug: Base url not specified, skipping its injection.
+2020-08-11T19:41:51.141Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T19:41:51.142Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T19:41:51.301Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T19:41:51.303Z - debug: Executing recipe chrome-pdf
+2020-08-11T19:41:51.451Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T19:41:51.583Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/1084f1b7-51d5-4c6d-86cd-676da08284df-chrome-pdf.html
+2020-08-11T19:41:51.591Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/1084f1b7-51d5-4c6d-86cd-676da08284df-chrome-pdf.html
+2020-08-11T19:41:51.619Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T19:41:51.900Z - debug: Skipping storing report.
+2020-08-11T19:41:51.900Z - info: Rendering request 12 finished in 765 ms
+2020-08-11T20:04:43.375Z - debug: OData insert into scripts
+2020-08-11T20:04:46.031Z - debug: OData update on data
+2020-08-11T20:04:46.053Z - debug: OData query on data
+2020-08-11T20:04:58.628Z - debug: OData update on templates
+2020-08-11T20:04:58.648Z - debug: OData query on templates
+2020-08-11T20:05:07.546Z - debug: OData update on templates
+2020-08-11T20:05:07.579Z - debug: OData query on templates
+2020-08-11T20:05:08.863Z - info: Starting rendering request 13 (user: null)
+2020-08-11T20:05:08.864Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:05:08.865Z - debug: Inline data specified.
+2020-08-11T20:05:08.866Z - debug: Resources not defined for this template.
+2020-08-11T20:05:08.866Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:05:08.869Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:05:08.869Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:05:09.055Z - warn: Rendering request 13 finished with error in 192 ms
+2020-08-11T20:05:09.057Z - warn: Error when processing render request 13 Error while executing templating engine. Missing helper: "cedula" Error: Missing helper: "cedula"
+    at Object.<anonymous> (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at Object.wrapper (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\internal\wrapHelper.js:15:19)
+    at Object.eval [as main] (eval at createFunctionContext (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:262:23), <anonymous>:17:102)
+    at main (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:208:32)
+    at ret (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:212:12)
+    at ret (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:519:21)
+    at C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:33:20
+    at Object.base.apply (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\vm2\lib/contextify.js:469:32)
+    at evaluate-template-engine.js:1:64
+    at Script.runInContext (vm.js:131:20)
+2020-08-11T20:05:09.060Z - warn: Error during processing request at http://localhost:5488/api/report/solteria
+2020-08-11T20:05:26.499Z - debug: OData update on assets
+2020-08-11T20:05:26.520Z - debug: OData query on assets
+2020-08-11T20:08:18.418Z - debug: OData update on scripts
+2020-08-11T20:08:18.442Z - debug: OData query on scripts
+2020-08-11T20:08:21.187Z - info: Starting rendering request 14 (user: null)
+2020-08-11T20:08:21.188Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:08:21.189Z - debug: Inline data specified.
+2020-08-11T20:08:21.190Z - debug: Resources not defined for this template.
+2020-08-11T20:08:21.190Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:08:21.193Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:08:21.193Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:08:21.392Z - warn: Rendering request 14 finished with error in 204 ms
+2020-08-11T20:08:21.395Z - warn: Error when processing render request 14 Error while executing templating engine. Missing helper: "cedula" Error: Missing helper: "cedula"
+    at Object.<anonymous> (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at Object.wrapper (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\internal\wrapHelper.js:15:19)
+    at Object.eval [as main] (eval at createFunctionContext (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:262:23), <anonymous>:17:102)
+    at main (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:208:32)
+    at ret (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:212:12)
+    at ret (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:519:21)
+    at C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:33:20
+    at Object.base.apply (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\vm2\lib/contextify.js:469:32)
+    at evaluate-template-engine.js:1:64
+    at Script.runInContext (vm.js:131:20)
+2020-08-11T20:08:21.395Z - warn: Error during processing request at http://localhost:5488/api/report/solteria
+2020-08-11T20:08:23.905Z - info: Starting rendering request 15 (user: null)
+2020-08-11T20:08:23.906Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:08:23.907Z - debug: Inline data specified.
+2020-08-11T20:08:23.909Z - debug: Resources not defined for this template.
+2020-08-11T20:08:23.910Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:08:23.913Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:08:23.914Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:08:24.079Z - warn: Rendering request 15 finished with error in 174 ms
+2020-08-11T20:08:24.081Z - warn: Error when processing render request 15 Error while executing templating engine. Missing helper: "cedula" Error: Missing helper: "cedula"
+    at Object.<anonymous> (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at Object.wrapper (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\internal\wrapHelper.js:15:19)
+    at Object.eval [as main] (eval at createFunctionContext (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:262:23), <anonymous>:17:102)
+    at main (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:208:32)
+    at ret (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:212:12)
+    at ret (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:519:21)
+    at C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:33:20
+    at Object.base.apply (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\vm2\lib/contextify.js:469:32)
+    at evaluate-template-engine.js:1:64
+    at Script.runInContext (vm.js:131:20)
+2020-08-11T20:08:24.082Z - warn: Error during processing request at http://localhost:5488/api/report/solteria
+2020-08-11T20:13:01.013Z - debug: OData update on templates
+2020-08-11T20:13:01.047Z - debug: OData query on templates
+2020-08-11T20:13:30.618Z - info: Starting rendering request 16 (user: null)
+2020-08-11T20:13:30.619Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:13:30.621Z - debug: Inline data specified.
+2020-08-11T20:13:30.622Z - debug: Resources not defined for this template.
+2020-08-11T20:13:30.623Z - debug: Executing script scripts.js using dedicated-process strategy
+2020-08-11T20:13:30.966Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:13:30.969Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:13:30.971Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:13:31.131Z - warn: Rendering request 16 finished with error in 513 ms
+2020-08-11T20:13:31.133Z - warn: Error when processing render request 16 Error while executing templating engine. Missing helper: "cedula" Error: Missing helper: "cedula"
+    at Object.<anonymous> (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at Object.wrapper (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\internal\wrapHelper.js:15:19)
+    at Object.eval [as main] (eval at createFunctionContext (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:262:23), <anonymous>:17:102)
+    at main (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:208:32)
+    at ret (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:212:12)
+    at ret (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:519:21)
+    at C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:33:20
+    at Object.base.apply (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\vm2\lib/contextify.js:469:32)
+    at evaluate-template-engine.js:1:64
+    at Script.runInContext (vm.js:131:20)
+2020-08-11T20:13:31.133Z - warn: Error during processing request at http://localhost:5488/api/report/solteria
+2020-08-11T20:13:40.472Z - debug: OData update on scripts
+2020-08-11T20:13:40.495Z - debug: OData query on scripts
+2020-08-11T20:13:42.107Z - debug: OData update on templates
+2020-08-11T20:13:42.132Z - debug: OData query on templates
+2020-08-11T20:13:42.866Z - info: Starting rendering request 17 (user: null)
+2020-08-11T20:13:42.867Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:13:42.867Z - debug: Inline data specified.
+2020-08-11T20:13:42.868Z - debug: Resources not defined for this template.
+2020-08-11T20:13:42.870Z - debug: Executing script scripts.js using dedicated-process strategy
+2020-08-11T20:13:43.205Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:13:43.207Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:13:43.208Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:13:43.399Z - warn: Rendering request 17 finished with error in 534 ms
+2020-08-11T20:13:43.401Z - warn: Error when processing render request 17 Error while executing templating engine. Cannot read property 'toString' of undefined. Error on line 139:18.
+
+  137 | 
+  138 | function cedula(value) {
+> 139 |     return value.toString().replace(/\d{1,3}(?=(\d{3})+(?!\d))/g, "$&.");
+      |                  ^
+  140 | }
+  141 | function toJSON (data) {
+  142 |   return JSON.stringify(data);
+
+ TypeError: Cannot read property 'toString' of undefined
+    at Object.cedula (evaluate-template-engine-helpers.js:139:18)
+    at Object.<anonymous> (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\jsreport-core\lib\render\engineScript.js:207:27)
+    at Object.wrapper (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\internal\wrapHelper.js:15:19)
+    at Object.eval [as main] (eval at createFunctionContext (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:262:23), <anonymous>:17:102)
+    at main (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:208:32)
+    at ret (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:212:12)
+    at ret (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:519:21)
+    at C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:33:20
+    at Object.base.apply (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\vm2\lib/contextify.js:469:32)
+    at evaluate-template-engine.js:1:64
+2020-08-11T20:13:43.403Z - warn: Error during processing request at http://localhost:5488/api/report/solteria
+2020-08-11T20:14:25.683Z - debug: OData update on templates
+2020-08-11T20:14:25.718Z - debug: OData query on templates
+2020-08-11T20:14:27.146Z - info: Starting rendering request 18 (user: null)
+2020-08-11T20:14:27.147Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:14:27.148Z - debug: Inline data specified.
+2020-08-11T20:14:27.149Z - debug: Resources not defined for this template.
+2020-08-11T20:14:27.150Z - debug: Executing script scripts.js using dedicated-process strategy
+2020-08-11T20:14:27.452Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:14:27.454Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:14:27.454Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:14:27.635Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:14:27.636Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:14:27.839Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:14:27.972Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/849228e9-7d71-4f80-a538-2be55b5ae721-chrome-pdf.html
+2020-08-11T20:14:27.978Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/849228e9-7d71-4f80-a538-2be55b5ae721-chrome-pdf.html
+2020-08-11T20:14:28.005Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:14:28.264Z - debug: Skipping storing report.
+2020-08-11T20:14:28.265Z - info: Rendering request 18 finished in 1119 ms
+2020-08-11T20:22:08.928Z - debug: OData update on templates
+2020-08-11T20:22:08.959Z - debug: OData query on templates
+2020-08-11T20:22:09.938Z - info: Starting rendering request 19 (user: null)
+2020-08-11T20:22:09.940Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:22:09.940Z - debug: Inline data specified.
+2020-08-11T20:22:09.941Z - debug: Resources not defined for this template.
+2020-08-11T20:22:09.942Z - debug: Executing script scripts.js using dedicated-process strategy
+2020-08-11T20:22:10.265Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:22:10.269Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:22:10.270Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:22:10.438Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:22:10.440Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:22:10.587Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:22:10.729Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/9257eb05-132e-4916-ae9d-6e95a909d178-chrome-pdf.html
+2020-08-11T20:22:10.736Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/9257eb05-132e-4916-ae9d-6e95a909d178-chrome-pdf.html
+2020-08-11T20:22:10.763Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:22:11.036Z - debug: Skipping storing report.
+2020-08-11T20:22:11.037Z - info: Rendering request 19 finished in 1098 ms
+2020-08-11T20:22:30.119Z - debug: OData update on templates
+2020-08-11T20:22:30.151Z - debug: OData query on templates
+2020-08-11T20:22:31.864Z - info: Starting rendering request 20 (user: null)
+2020-08-11T20:22:31.865Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:22:31.866Z - debug: Inline data specified.
+2020-08-11T20:22:31.867Z - debug: Resources not defined for this template.
+2020-08-11T20:22:31.868Z - debug: Executing script scripts.js using dedicated-process strategy
+2020-08-11T20:22:32.166Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:22:32.168Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:22:32.168Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:22:32.351Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:22:32.353Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:22:32.544Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:22:32.682Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/532d5887-f379-49e7-9f03-51cd3607fe51-chrome-pdf.html
+2020-08-11T20:22:32.690Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/532d5887-f379-49e7-9f03-51cd3607fe51-chrome-pdf.html
+2020-08-11T20:22:32.718Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:22:32.987Z - debug: Skipping storing report.
+2020-08-11T20:22:32.987Z - info: Rendering request 20 finished in 1124 ms
+2020-08-11T20:24:36.865Z - debug: OData update on templates
+2020-08-11T20:24:36.943Z - debug: OData query on templates
+2020-08-11T20:24:39.248Z - info: Starting rendering request 21 (user: null)
+2020-08-11T20:24:39.250Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:24:39.251Z - debug: Inline data specified.
+2020-08-11T20:24:39.252Z - debug: Resources not defined for this template.
+2020-08-11T20:24:39.253Z - debug: Executing script scripts.js using dedicated-process strategy
+2020-08-11T20:24:39.596Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:24:39.598Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:24:39.599Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:24:39.771Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:24:39.773Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:24:39.974Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:24:40.111Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/3c762015-c7a4-4482-9145-d444eebd0c81-chrome-pdf.html
+2020-08-11T20:24:40.118Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/3c762015-c7a4-4482-9145-d444eebd0c81-chrome-pdf.html
+2020-08-11T20:24:40.146Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:24:40.470Z - debug: Skipping storing report.
+2020-08-11T20:24:40.472Z - info: Rendering request 21 finished in 1223 ms
+2020-08-11T20:25:47.409Z - debug: OData update on templates
+2020-08-11T20:25:47.439Z - debug: OData query on templates
+2020-08-11T20:25:48.339Z - debug: OData query on templates
+2020-08-11T20:25:48.358Z - debug: OData query on settings
+2020-08-11T20:25:54.501Z - debug: OData query on scripts
+2020-08-11T20:25:56.654Z - debug: OData remove from scripts
+2020-08-11T20:25:56.689Z - debug: OData query on templates
+2020-08-11T20:25:56.721Z - debug: OData query on settings
+2020-08-11T20:25:58.813Z - debug: OData update on templates
+2020-08-11T20:25:58.846Z - debug: OData query on templates
+2020-08-11T20:26:01.818Z - info: Starting rendering request 22 (user: null)
+2020-08-11T20:26:01.819Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:26:01.820Z - debug: Inline data specified.
+2020-08-11T20:26:01.821Z - debug: Resources not defined for this template.
+2020-08-11T20:26:01.822Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:26:01.824Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:26:01.825Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:26:02.001Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:26:02.004Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:26:02.192Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:26:02.342Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/eda61875-a90a-44e0-b8fd-fb57220f69c7-chrome-pdf.html
+2020-08-11T20:26:02.349Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/eda61875-a90a-44e0-b8fd-fb57220f69c7-chrome-pdf.html
+2020-08-11T20:26:02.377Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:26:02.645Z - debug: Skipping storing report.
+2020-08-11T20:26:02.646Z - info: Rendering request 22 finished in 828 ms
+2020-08-11T20:29:20.093Z - debug: OData update on data
+2020-08-11T20:29:20.114Z - debug: OData query on data
+2020-08-11T20:30:49.247Z - debug: OData update on assets
+2020-08-11T20:30:49.269Z - debug: OData query on assets
+2020-08-11T20:31:04.653Z - debug: OData update on templates
+2020-08-11T20:31:04.686Z - debug: OData query on templates
+2020-08-11T20:31:05.685Z - info: Starting rendering request 23 (user: null)
+2020-08-11T20:31:05.686Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:31:05.687Z - debug: Inline data specified.
+2020-08-11T20:31:05.687Z - debug: Resources not defined for this template.
+2020-08-11T20:31:05.689Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:31:05.691Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:31:05.691Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:31:05.924Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:31:05.926Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:31:06.156Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:31:06.322Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/d1bfec45-22cb-4c7d-b6a3-7619ec64cd95-chrome-pdf.html
+2020-08-11T20:31:06.330Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/d1bfec45-22cb-4c7d-b6a3-7619ec64cd95-chrome-pdf.html
+2020-08-11T20:31:06.369Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:31:06.726Z - debug: Skipping storing report.
+2020-08-11T20:31:06.727Z - info: Rendering request 23 finished in 1041 ms
+2020-08-11T20:31:34.359Z - debug: OData update on templates
+2020-08-11T20:31:34.383Z - debug: OData query on templates
+2020-08-11T20:31:36.388Z - info: Starting rendering request 24 (user: null)
+2020-08-11T20:31:36.390Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:31:36.391Z - debug: Inline data specified.
+2020-08-11T20:31:36.392Z - debug: Resources not defined for this template.
+2020-08-11T20:31:36.393Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:31:36.394Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:31:36.395Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:31:36.564Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:31:36.566Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:31:36.708Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:31:36.833Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/d302ae49-e6da-4196-89fb-5574e8f23886-chrome-pdf.html
+2020-08-11T20:31:36.844Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/d302ae49-e6da-4196-89fb-5574e8f23886-chrome-pdf.html
+2020-08-11T20:31:36.869Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:31:37.182Z - debug: Skipping storing report.
+2020-08-11T20:31:37.183Z - info: Rendering request 24 finished in 794 ms
+2020-08-11T20:31:46.123Z - debug: OData update on assets
+2020-08-11T20:31:46.144Z - debug: OData query on assets
+2020-08-11T20:31:47.375Z - info: Starting rendering request 25 (user: null)
+2020-08-11T20:31:47.377Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:31:47.377Z - debug: Inline data specified.
+2020-08-11T20:31:47.378Z - debug: Resources not defined for this template.
+2020-08-11T20:31:47.379Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:31:47.382Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:31:47.383Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:31:47.552Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:31:47.553Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:31:47.731Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:31:47.870Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/e6efc3bd-eb00-459f-8891-83b64b39fdd3-chrome-pdf.html
+2020-08-11T20:31:47.878Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/e6efc3bd-eb00-459f-8891-83b64b39fdd3-chrome-pdf.html
+2020-08-11T20:31:47.906Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:31:48.196Z - debug: Skipping storing report.
+2020-08-11T20:31:48.197Z - info: Rendering request 25 finished in 821 ms
+2020-08-11T20:32:38.459Z - debug: OData update on assets
+2020-08-11T20:32:38.481Z - debug: OData query on assets
+2020-08-11T20:32:38.855Z - info: Starting rendering request 26 (user: null)
+2020-08-11T20:32:38.857Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:32:38.857Z - debug: Inline data specified.
+2020-08-11T20:32:38.858Z - debug: Resources not defined for this template.
+2020-08-11T20:32:38.859Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:32:38.861Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:32:38.861Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:32:39.049Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:32:39.051Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:32:39.197Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:32:39.324Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/790b29bd-f17f-40d5-9425-e764a29ea6f1-chrome-pdf.html
+2020-08-11T20:32:39.331Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/790b29bd-f17f-40d5-9425-e764a29ea6f1-chrome-pdf.html
+2020-08-11T20:32:39.360Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:32:39.665Z - debug: Skipping storing report.
+2020-08-11T20:32:39.666Z - info: Rendering request 26 finished in 810 ms
+2020-08-11T20:32:44.862Z - debug: OData update on assets
+2020-08-11T20:32:44.894Z - debug: OData query on assets
+2020-08-11T20:32:45.427Z - info: Starting rendering request 27 (user: null)
+2020-08-11T20:32:45.428Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:32:45.429Z - debug: Inline data specified.
+2020-08-11T20:32:45.430Z - debug: Resources not defined for this template.
+2020-08-11T20:32:45.431Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:32:45.435Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:32:45.435Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:32:45.620Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:32:45.622Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:32:45.764Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:32:45.892Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/5df94c05-3fe2-4c87-86c8-110f70fbf8f1-chrome-pdf.html
+2020-08-11T20:32:45.899Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/5df94c05-3fe2-4c87-86c8-110f70fbf8f1-chrome-pdf.html
+2020-08-11T20:32:45.928Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:32:46.219Z - debug: Skipping storing report.
+2020-08-11T20:32:46.220Z - info: Rendering request 27 finished in 794 ms
+2020-08-11T20:34:29.084Z - debug: OData update on assets
+2020-08-11T20:34:29.103Z - debug: OData query on assets
+2020-08-11T20:34:41.559Z - debug: OData update on templates
+2020-08-11T20:34:41.588Z - debug: OData query on templates
+2020-08-11T20:34:41.980Z - info: Starting rendering request 28 (user: null)
+2020-08-11T20:34:41.982Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:34:41.983Z - debug: Inline data specified.
+2020-08-11T20:34:41.983Z - debug: Resources not defined for this template.
+2020-08-11T20:34:41.985Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:34:41.987Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:34:41.988Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:34:42.165Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:34:42.167Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:34:42.371Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:34:42.505Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/26482b79-bcc3-4815-a118-3ae8605d9019-chrome-pdf.html
+2020-08-11T20:34:42.511Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/26482b79-bcc3-4815-a118-3ae8605d9019-chrome-pdf.html
+2020-08-11T20:34:42.539Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:34:42.828Z - debug: Skipping storing report.
+2020-08-11T20:34:42.829Z - info: Rendering request 28 finished in 848 ms
+2020-08-11T20:35:02.187Z - debug: OData update on assets
+2020-08-11T20:35:02.209Z - debug: OData query on assets
+2020-08-11T20:35:03.238Z - info: Starting rendering request 29 (user: null)
+2020-08-11T20:35:03.238Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:35:03.239Z - debug: Inline data specified.
+2020-08-11T20:35:03.241Z - debug: Resources not defined for this template.
+2020-08-11T20:35:03.243Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:35:03.245Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:35:03.245Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:35:03.410Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:35:03.412Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:35:03.551Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:35:03.685Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/dc68d105-d3ed-45a1-9271-0a123e56df69-chrome-pdf.html
+2020-08-11T20:35:03.695Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/dc68d105-d3ed-45a1-9271-0a123e56df69-chrome-pdf.html
+2020-08-11T20:35:03.726Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:35:04.009Z - debug: Skipping storing report.
+2020-08-11T20:35:04.011Z - info: Rendering request 29 finished in 773 ms
+2020-08-11T20:35:46.594Z - debug: OData update on assets
+2020-08-11T20:35:46.618Z - debug: OData query on assets
+2020-08-11T20:35:47.764Z - info: Starting rendering request 30 (user: null)
+2020-08-11T20:35:47.766Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:35:47.766Z - debug: Inline data specified.
+2020-08-11T20:35:47.767Z - debug: Resources not defined for this template.
+2020-08-11T20:35:47.768Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:35:47.771Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:35:47.771Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:35:47.940Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:35:47.941Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:35:48.135Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:35:48.258Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/7673277b-3865-4736-aa60-1f0349dfec3f-chrome-pdf.html
+2020-08-11T20:35:48.265Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/7673277b-3865-4736-aa60-1f0349dfec3f-chrome-pdf.html
+2020-08-11T20:35:48.295Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:35:48.579Z - debug: Skipping storing report.
+2020-08-11T20:35:48.579Z - info: Rendering request 30 finished in 815 ms
+2020-08-11T20:36:15.942Z - debug: OData update on assets
+2020-08-11T20:36:15.965Z - debug: OData query on assets
+2020-08-11T20:36:35.874Z - info: Starting rendering request 31 (user: null)
+2020-08-11T20:36:35.877Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:36:35.878Z - debug: Inline data specified.
+2020-08-11T20:36:35.879Z - debug: Resources not defined for this template.
+2020-08-11T20:36:35.880Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:36:35.881Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:36:35.881Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:36:36.052Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:36:36.055Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:36:36.260Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:36:36.389Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/3710f20b-3156-40c7-ad15-575a0ae6d88c-chrome-pdf.html
+2020-08-11T20:36:36.395Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/3710f20b-3156-40c7-ad15-575a0ae6d88c-chrome-pdf.html
+2020-08-11T20:36:36.424Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:36:36.722Z - debug: Skipping storing report.
+2020-08-11T20:36:36.722Z - info: Rendering request 31 finished in 848 ms
+2020-08-11T20:38:14.333Z - debug: OData update on templates
+2020-08-11T20:38:14.359Z - debug: OData query on templates
+2020-08-11T20:38:34.271Z - debug: OData update on templates
+2020-08-11T20:38:34.347Z - debug: OData query on templates
+2020-08-11T20:38:34.799Z - info: Starting rendering request 32 (user: null)
+2020-08-11T20:38:34.801Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:38:34.802Z - debug: Inline data specified.
+2020-08-11T20:38:34.802Z - debug: Resources not defined for this template.
+2020-08-11T20:38:34.803Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:38:34.806Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:38:34.807Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:38:34.977Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:38:34.979Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:38:35.123Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:38:35.264Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/f315b4c4-d0df-4f0c-a97b-3edc0c23ed5a-chrome-pdf.html
+2020-08-11T20:38:35.273Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/f315b4c4-d0df-4f0c-a97b-3edc0c23ed5a-chrome-pdf.html
+2020-08-11T20:38:35.307Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:38:35.613Z - debug: Skipping storing report.
+2020-08-11T20:38:35.614Z - info: Rendering request 32 finished in 814 ms
+2020-08-11T20:39:53.215Z - debug: OData update on templates
+2020-08-11T20:39:53.249Z - debug: OData query on templates
+2020-08-11T20:39:54.341Z - info: Starting rendering request 33 (user: null)
+2020-08-11T20:39:54.342Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:39:54.343Z - debug: Inline data specified.
+2020-08-11T20:39:54.343Z - debug: Resources not defined for this template.
+2020-08-11T20:39:54.344Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:39:54.347Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:39:54.347Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:39:54.524Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:39:54.526Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:39:54.716Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:39:54.852Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/fc6bf208-1975-47ef-8595-424781273324-chrome-pdf.html
+2020-08-11T20:39:54.859Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/fc6bf208-1975-47ef-8595-424781273324-chrome-pdf.html
+2020-08-11T20:39:54.889Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:39:55.196Z - debug: Skipping storing report.
+2020-08-11T20:39:55.197Z - info: Rendering request 33 finished in 855 ms
+2020-08-11T20:41:44.070Z - debug: OData update on templates
+2020-08-11T20:41:44.102Z - debug: OData query on templates
+2020-08-11T20:41:45.954Z - info: Starting rendering request 34 (user: null)
+2020-08-11T20:41:45.955Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:41:45.956Z - debug: Inline data specified.
+2020-08-11T20:41:45.956Z - debug: Resources not defined for this template.
+2020-08-11T20:41:45.958Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:41:45.960Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:41:45.960Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:41:46.130Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:41:46.133Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:41:46.342Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:41:46.488Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/59dbec03-dfa4-4b9a-9808-bbee169e765d-chrome-pdf.html
+2020-08-11T20:41:46.497Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/59dbec03-dfa4-4b9a-9808-bbee169e765d-chrome-pdf.html
+2020-08-11T20:41:46.526Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:41:46.833Z - debug: Skipping storing report.
+2020-08-11T20:41:46.834Z - info: Rendering request 34 finished in 880 ms
+2020-08-11T20:42:02.632Z - debug: OData update on templates
+2020-08-11T20:42:02.666Z - debug: OData query on templates
+2020-08-11T20:42:03.257Z - info: Starting rendering request 35 (user: null)
+2020-08-11T20:42:03.258Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:42:03.259Z - debug: Inline data specified.
+2020-08-11T20:42:03.259Z - debug: Resources not defined for this template.
+2020-08-11T20:42:03.261Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:42:03.264Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:42:03.264Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:42:03.449Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:42:03.450Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:42:03.591Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:42:03.727Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/eb124fd9-acff-49f2-b514-2ff55469decf-chrome-pdf.html
+2020-08-11T20:42:03.734Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/eb124fd9-acff-49f2-b514-2ff55469decf-chrome-pdf.html
+2020-08-11T20:42:03.762Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:42:04.063Z - debug: Skipping storing report.
+2020-08-11T20:42:04.063Z - info: Rendering request 35 finished in 807 ms
+2020-08-11T20:43:28.843Z - debug: OData update on assets
+2020-08-11T20:43:28.866Z - debug: OData query on assets
+2020-08-11T20:43:32.498Z - info: Starting rendering request 36 (user: null)
+2020-08-11T20:43:32.501Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:43:32.501Z - debug: Inline data specified.
+2020-08-11T20:43:32.502Z - debug: Resources not defined for this template.
+2020-08-11T20:43:32.503Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:43:32.505Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:43:32.505Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:43:32.677Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:43:32.679Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:43:32.822Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:43:32.948Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/a15284cd-99fb-421b-aa9f-80eb95f1c557-chrome-pdf.html
+2020-08-11T20:43:32.955Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/a15284cd-99fb-421b-aa9f-80eb95f1c557-chrome-pdf.html
+2020-08-11T20:43:32.985Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:43:33.293Z - debug: Skipping storing report.
+2020-08-11T20:43:33.294Z - info: Rendering request 36 finished in 796 ms
+2020-08-11T20:44:13.458Z - debug: OData update on data
+2020-08-11T20:44:13.478Z - debug: OData query on data
+2020-08-11T20:46:15.351Z - debug: OData update on templates
+2020-08-11T20:46:15.382Z - debug: OData query on templates
+2020-08-11T20:46:16.939Z - debug: OData update on data
+2020-08-11T20:46:16.959Z - debug: OData query on data
+2020-08-11T20:46:18.128Z - info: Starting rendering request 37 (user: null)
+2020-08-11T20:46:18.130Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:46:18.132Z - debug: Inline data specified.
+2020-08-11T20:46:18.132Z - debug: Resources not defined for this template.
+2020-08-11T20:46:18.133Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:46:18.135Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:46:18.136Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:46:18.306Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:46:18.308Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:46:18.441Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:46:18.559Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/525d40c1-4456-4936-af24-9e3d00bd626b-chrome-pdf.html
+2020-08-11T20:46:18.566Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/525d40c1-4456-4936-af24-9e3d00bd626b-chrome-pdf.html
+2020-08-11T20:46:18.599Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:46:18.914Z - debug: Skipping storing report.
+2020-08-11T20:46:18.916Z - info: Rendering request 37 finished in 787 ms
+2020-08-11T20:46:50.245Z - debug: OData update on data
+2020-08-11T20:46:50.266Z - debug: OData query on data
+2020-08-11T20:46:50.536Z - info: Starting rendering request 38 (user: null)
+2020-08-11T20:46:50.538Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:46:50.538Z - debug: Inline data specified.
+2020-08-11T20:46:50.539Z - debug: Resources not defined for this template.
+2020-08-11T20:46:50.540Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:46:50.542Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:46:50.543Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:46:50.713Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:46:50.715Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:46:50.851Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:46:50.985Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/03e46f46-878b-4d64-8aa2-eb540a8f2a4a-chrome-pdf.html
+2020-08-11T20:46:50.993Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/03e46f46-878b-4d64-8aa2-eb540a8f2a4a-chrome-pdf.html
+2020-08-11T20:46:51.024Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:46:51.345Z - debug: Skipping storing report.
+2020-08-11T20:46:51.346Z - info: Rendering request 38 finished in 810 ms
+2020-08-11T20:46:55.637Z - debug: OData update on templates
+2020-08-11T20:46:55.666Z - debug: OData query on templates
+2020-08-11T20:46:57.769Z - info: Starting rendering request 39 (user: null)
+2020-08-11T20:46:57.771Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:46:57.771Z - debug: Inline data specified.
+2020-08-11T20:46:57.772Z - debug: Resources not defined for this template.
+2020-08-11T20:46:57.773Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:46:57.776Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:46:57.776Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:46:57.955Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:46:57.957Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:46:58.107Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:46:58.264Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/68877b12-72b7-4717-ba43-0654eaea5518-chrome-pdf.html
+2020-08-11T20:46:58.272Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/68877b12-72b7-4717-ba43-0654eaea5518-chrome-pdf.html
+2020-08-11T20:46:58.304Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:46:58.636Z - debug: Skipping storing report.
+2020-08-11T20:46:58.638Z - info: Rendering request 39 finished in 867 ms
+2020-08-11T20:47:16.422Z - debug: OData update on templates
+2020-08-11T20:47:16.456Z - debug: OData query on templates
+2020-08-11T20:47:17.457Z - info: Starting rendering request 40 (user: null)
+2020-08-11T20:47:17.458Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:47:17.459Z - debug: Inline data specified.
+2020-08-11T20:47:17.460Z - debug: Resources not defined for this template.
+2020-08-11T20:47:17.461Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:47:17.462Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:47:17.463Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:47:17.645Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:47:17.647Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:47:17.816Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:47:17.945Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/19687dbc-1b2e-4b99-918e-083c44cafec8-chrome-pdf.html
+2020-08-11T20:47:17.954Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/19687dbc-1b2e-4b99-918e-083c44cafec8-chrome-pdf.html
+2020-08-11T20:47:17.985Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:47:18.304Z - debug: Skipping storing report.
+2020-08-11T20:47:18.305Z - info: Rendering request 40 finished in 847 ms
+2020-08-11T20:49:04.253Z - debug: OData update on data
+2020-08-11T20:49:04.271Z - debug: OData query on data
+2020-08-11T20:49:05.216Z - info: Starting rendering request 41 (user: null)
+2020-08-11T20:49:05.217Z - info: Rendering template { name: solteria, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-11T20:49:05.218Z - debug: Inline data specified.
+2020-08-11T20:49:05.219Z - debug: Resources not defined for this template.
+2020-08-11T20:49:05.220Z - debug: Base url not specified, skipping its injection.
+2020-08-11T20:49:05.221Z - debug: Replaced assets ["invoice-styles.css"]
+2020-08-11T20:49:05.222Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-11T20:49:05.388Z - debug: Compiled template not found in the cache, compiling
+2020-08-11T20:49:05.391Z - debug: Executing recipe chrome-pdf
+2020-08-11T20:49:05.542Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-11T20:49:05.666Z - debug: Page request: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/9574689e-f3de-4bf5-9e1a-3293719aa12d-chrome-pdf.html
+2020-08-11T20:49:05.677Z - debug: Page request finished: GET (document) file:///C:/Users/TOMASE~1/AppData/Local/Temp/jsreport/autocleanup/9574689e-f3de-4bf5-9e1a-3293719aa12d-chrome-pdf.html
+2020-08-11T20:49:05.711Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-08-11T20:49:06.018Z - debug: Skipping storing report.
+2020-08-11T20:49:06.019Z - info: Rendering request 41 finished in 804 ms
+2020-08-12T18:15:25.344Z - info: Initializing jsreport@2.9.0 in development mode using configuration file: jsreport.config.json
+2020-08-12T18:15:25.346Z - info: Searching for available extensions in C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\
+2020-08-12T18:15:25.353Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\

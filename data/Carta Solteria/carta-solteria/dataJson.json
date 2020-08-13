@@ -1,0 +1,34 @@
+{
+    "primer_nombre_solicitante": "Tomás",
+    "segundo_nombre_solicitante": "Chafic",
+    "primer_apellido_solicitante": "El Fakih",
+    "segundo_apellido_solicitante": "Pérez",
+    "cedula_solicitante": "26787385",
+    "dia_nacimiento": "10",
+    "mes_nacimiento": "marzo",
+    "año_nacimiento": "1999",
+    "primer_nombre_padre": "Omar",
+    "segundo_nombre_padre": "Salim",
+    "primer_apellido_padre": "El Fakih",
+    "segundo_apellido_padre": "Suárez",
+    "primer_nombre_madre": "Ana",
+    "segundo_nombre_madre": "Elena",
+    "primer_apellido_madre": "Pérez",
+    "segundo_apellido_madre": "Urdaneta",
+    "testigos": [
+        {   
+            "primer_nombre_testigo": "Robert",
+            "segundo_nombre_testigo": "Andrés",
+            "primer_apellido_testigo": "González",
+            "segundo_apellido_testigo": "Zambrano",
+            "cedula_testigo": "27624172"
+        },
+        {
+            "primer_nombre_testigo": "Guillermo",
+            "segundo_nombre_testigo": "",
+            "primer_apellido_testigo": "Wallis",
+            "segundo_apellido_testigo": "Chellini",
+            "cedula_testigo": "26012384"
+        }
+    ]
+}
