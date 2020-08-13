@@ -7928,3 +7928,101 @@ Expecting 'EOF', got 'OPEN_ENDBLOCK'
 2020-08-13T06:43:35.281Z - debug: Version control commit: todos menos el ultimo
 2020-08-13T06:43:35.573Z - debug: Version control commit: local changes
 2020-08-13T06:43:35.776Z - debug: Version control diff for local changes
+2020-08-13T06:44:29.285Z - debug: Version control commit: comit all
+2020-08-13T06:44:29.565Z - debug: Version control commit: local changes
+2020-08-13T06:44:29.771Z - debug: Version control diff for local changes
+2020-08-13T18:11:31.214Z - info: Initializing jsreport@2.9.0 in development mode using configuration file: jsreport.config.json
+2020-08-13T18:11:31.216Z - info: Searching for available extensions in C:\Users\Personal\documents\github\jsreportATF\
+2020-08-13T18:11:31.234Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Personal\documents\github\jsreportATF\
+2020-08-13T18:11:31.326Z - info: Found 35 extensions
+2020-08-13T18:11:31.595Z - debug: Writing extension locations cache to C:\Users\Personal\AppData\Local\Temp\jsreport\core\locations.json
+2020-08-13T18:11:31.596Z - debug: Discovered 35 extensions
+2020-08-13T18:11:31.654Z - info: Setting dedicated-process (process based) strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2020-08-13T18:11:31.664Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2020-08-13T18:11:31.664Z - info: Using extension cli@2.2.4
+2020-08-13T18:11:31.669Z - info: Using extension debug@2.1.3
+2020-08-13T18:11:31.674Z - info: Using extension express@2.7.0
+2020-08-13T18:11:31.908Z - info: Using extension freeze@2.0.0
+2020-08-13T18:11:31.910Z - info: Using extension handlebars@2.1.0
+2020-08-13T18:11:31.914Z - info: Using extension import-export@2.0.0
+2020-08-13T18:11:31.985Z - info: Using extension jsrender@2.1.1
+2020-08-13T18:11:31.987Z - info: Using extension tags@2.4.0
+2020-08-13T18:11:31.990Z - info: Using extension templates@2.4.0
+2020-08-13T18:11:31.993Z - info: Using extension authorization@2.4.0
+2020-08-13T18:11:31.998Z - debug: Extension authorization@2.4.0 was disabled
+2020-08-13T18:11:31.998Z - info: Using extension base@2.0.2
+2020-08-13T18:11:32.000Z - info: Using extension browser-client@2.2.2
+2020-08-13T18:11:32.005Z - info: Using extension child-templates@1.4.0
+2020-08-13T18:11:32.011Z - info: Using extension chrome-pdf@1.8.0
+2020-08-13T18:11:32.118Z - debug: Chrome strategy is dedicated-process
+2020-08-13T18:11:32.118Z - info: Using extension data@2.3.0
+2020-08-13T18:11:32.120Z - info: Using extension docx@2.7.0
+2020-08-13T18:11:32.126Z - info: Using extension fs-store@2.8.0
+2020-08-13T18:11:32.317Z - info: Using extension licensing@2.2.2
+2020-08-13T18:11:32.329Z - info: Using extension pdf-utils@1.8.0
+2020-08-13T18:11:32.442Z - info: Using extension pptx@0.7.0
+2020-08-13T18:11:32.448Z - info: Using extension reports@2.4.0
+2020-08-13T18:11:32.454Z - info: Using extension static-pdf@0.4.0
+2020-08-13T18:11:32.460Z - info: Using extension studio@2.9.0
+2020-08-13T18:11:32.547Z - debug: studio request logs are enabled (flush interval: 2000)
+2020-08-13T18:11:32.550Z - info: Using extension text@2.0.0
+2020-08-13T18:11:32.552Z - info: Using extension version-control@1.5.0
+2020-08-13T18:11:32.682Z - info: Using extension assets@1.6.0
+2020-08-13T18:11:32.699Z - info: Using extension html-to-xlsx@2.7.0
+2020-08-13T18:11:33.152Z - info: html-to-xlsx detected chrome as available html engine
+2020-08-13T18:11:33.153Z - info: Using extension scheduling@2.4.0
+2020-08-13T18:11:33.194Z - info: Using extension scripts@2.5.0
+2020-08-13T18:11:33.198Z - info: Using extension studio-theme-dark@0.3.0
+2020-08-13T18:11:33.200Z - info: Using extension xlsx@2.4.0
+2020-08-13T18:11:33.413Z - info: Using extension public-templates@2.1.0
+2020-08-13T18:11:33.415Z - debug: Extension public-templates@2.1.0 was disabled
+2020-08-13T18:11:33.415Z - info: Using extension resources@2.1.0
+2020-08-13T18:11:33.417Z - info: Using extension sample-template@2.5.1
+2020-08-13T18:11:33.420Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2020-08-13T18:11:33.420Z - info: Using fs provider for template store.
+2020-08-13T18:11:33.426Z - info: fs store is persisting using fs
+2020-08-13T18:11:33.428Z - info: fs store sync is disabled
+2020-08-13T18:11:33.429Z - info: fs store underlying changes synchronization with studio is disabled
+2020-08-13T18:11:33.433Z - info: fs store is loading data
+2020-08-13T18:11:33.467Z - info: fs store is initialized successfully
+2020-08-13T18:11:33.473Z - debug: studio default theme is: light
+2020-08-13T18:11:33.481Z - info: Creating default express app.
+2020-08-13T18:11:33.525Z - info: jsreport server successfully started on http port: 5488
+2020-08-13T18:11:33.527Z - info: Verifying license key free
+2020-08-13T18:11:34.561Z - info: Using enterprise trial license
+2020-08-13T18:11:34.567Z - info: reporter initialized
+2020-08-13T18:11:55.083Z - debug: OData query on templates
+2020-08-13T18:11:55.087Z - debug: OData query on folders
+2020-08-13T18:11:55.094Z - debug: OData query on tags
+2020-08-13T18:11:55.096Z - debug: OData query on data
+2020-08-13T18:11:55.097Z - debug: OData query on assets
+2020-08-13T18:11:55.099Z - debug: OData query on scripts
+2020-08-13T18:11:55.108Z - debug: OData query on xlsxTemplates
+2020-08-13T18:11:55.118Z - debug: OData query on schedules
+2020-08-13T18:11:55.126Z - debug: OData query on settings
+2020-08-13T18:11:55.328Z - debug: OData query on templates
+2020-08-13T18:11:55.395Z - debug: OData query on settings
+2020-08-13T18:17:35.462Z - debug: OData query on scripts
+2020-08-13T18:35:30.280Z - debug: OData query on scripts
+2020-08-13T18:35:30.964Z - debug: OData query on templates
+2020-08-13T19:06:45.558Z - info: Starting rendering request 1 (user: null)
+2020-08-13T19:06:45.561Z - info: Rendering template { name: FiestaMes, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-13T19:06:45.562Z - debug: Data item not defined for this template.
+2020-08-13T19:06:45.562Z - debug: Resources not defined for this template.
+2020-08-13T19:06:45.565Z - debug: Executing script FiestaMes-Script using dedicated-process strategy
+2020-08-13T19:06:46.117Z - debug: null
+2020-08-13T19:06:46.119Z - debug: Base url not specified, skipping its injection.
+2020-08-13T19:06:46.122Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-13T19:06:46.347Z - debug: Compiled template not found in the cache, compiling
+2020-08-13T19:06:46.348Z - debug: Executing recipe chrome-pdf
+2020-08-13T19:06:47.115Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-13T19:06:47.676Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/fd5aea05-dbe1-4fbf-8d49-bb439d6109f7-chrome-pdf.html
+2020-08-13T19:06:47.693Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/fd5aea05-dbe1-4fbf-8d49-bb439d6109f7-chrome-pdf.html
+2020-08-13T19:06:47.703Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-13T19:06:48.537Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-13T19:06:48.578Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-08-13T19:06:48.974Z - debug: Skipping storing report.
+2020-08-13T19:06:48.975Z - info: Rendering request 1 finished in 3417 ms
+2020-08-13T19:10:39.607Z - debug: OData query on tasks
+2020-08-13T19:44:19.697Z - debug: OData insert into folders
+2020-08-13T19:47:24.886Z - debug: OData query on tasks
