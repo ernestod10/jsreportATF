@@ -1,0 +1,12 @@
+{
+    "shortid": "r1eIIgIzfw",
+    "name": "ingresos-script",
+    "creationDate": {
+        "$$date": 1597296752044
+    },
+    "modificationDate": {
+        "$$date": 1597300473356
+    },
+    "_id": "Q5luAgvxG86MrfSt",
+    "$entitySet": "scripts"
+}

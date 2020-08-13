@@ -1,0 +1,25 @@
+{
+    "shortid": "Hkev7gvMMw",
+    "name": "top-contrataciones",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1597300774931
+    },
+    "modificationDate": {
+        "$$date": 1597300995193
+    },
+    "_id": "Lx3ZJvlojqwI08s1",
+    "$entitySet": "templates",
+    "scripts": [
+        {
+            "shortid": "S1xDEgvfzD"
+        }
+    ],
+    "data": {
+        "shortid": "BJezon7MzP"
+    }
+}

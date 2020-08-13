@@ -1,0 +1,25 @@
+{
+    "shortid": "Bkg6rlUzfw",
+    "name": "ingresos",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "scripts": [
+        {
+            "shortid": "r1eIIgIzfw"
+        }
+    ],
+    "data": {
+        "shortid": "BJezon7MzP"
+    },
+    "creationDate": {
+        "$$date": 1597296758403
+    },
+    "modificationDate": {
+        "$$date": 1597300291828
+    },
+    "_id": "ihuRexPpYiQb6kb8",
+    "$entitySet": "templates"
+}
