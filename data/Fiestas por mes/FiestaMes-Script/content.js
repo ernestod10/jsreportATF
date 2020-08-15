@@ -11,10 +11,10 @@ const db = new Client({
 function beforeRender(req, res, done) {
 db.connect();
 
-  let query = "select month(fecha_evento_contrato) ,count(month(fecha_evento_contrato)) from contrato ";
+  let query = "select EXTRACT(month from fecha_evento_contrato) as mes,count(Extract (month from fecha_evento_contrato)) from contrato ";
   
    
-  query += " group by month(fecha_evento_contrato) order by month(fecha_evento_contrato) ";
+  query += " group by mes order by mes";
   
   db.query(query, (err, result) => {
     

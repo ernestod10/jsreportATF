@@ -20,8 +20,9 @@ db.connect();
     
     console.log(err);
     req.data = {
-      rows: result.rows
-      
+      rows: result.rows,
+      "min":min,
+      "max":max
     };
     db.end();
     done();

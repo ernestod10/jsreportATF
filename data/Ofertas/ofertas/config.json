@@ -1,6 +1,6 @@
 {
-    "shortid": "Bkg6rlUzfw",
-    "name": "ingresos",
+    "shortid": "BkganfeHzP",
+    "name": "ofertas",
     "recipe": "chrome-pdf",
     "engine": "handlebars",
     "chrome": {
@@ -8,18 +8,18 @@
     },
     "scripts": [
         {
-            "shortid": "r1eIIgIzfw"
+            "shortid": "BkxI6zxBGw"
         }
     ],
     "data": {
         "shortid": "BJezon7MzP"
     },
     "creationDate": {
-        "$$date": 1597296758403
+        "$$date": 1597472601435
     },
     "modificationDate": {
-        "$$date": 1597388286347
+        "$$date": 1597472601435
     },
-    "_id": "ihuRexPpYiQb6kb8",
+    "_id": "Im6uoDcnP4EQyjTH",
     "$entitySet": "templates"
 }

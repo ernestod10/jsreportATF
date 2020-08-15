@@ -14,7 +14,7 @@ function beforeRender(req, res, done) {
 db.connect();
  
 
-  let query = "select s.nombre_servicio as nombre, c.fecha_contratacion as fecha, s.costo_servicio as costo from contratacion c inner join servicio s on c.servicio_id_servicio = s.id_servicio where c.fecha_contratacion between (TIMESTAMP '"+min+"') and (TIMESTAMP '"+max+"') and s.tercerizado_servicio = true  order by c.fecha_contratacion ";
+  let query = "select DISTINCT(s.nombre_servicio) as nombre, c.fecha_contratacion as fecha, s.costo_servicio as costo from contratacion c inner join servicio s on c.servicio_id_servicio = s.id_servicio where c.fecha_contratacion between (TIMESTAMP '"+min+"') and (TIMESTAMP '"+max+"') and s.tercerizado_servicio = true  order by c.fecha_contratacion ";
 
   db.query(query, (err, result) => {
     
