@@ -8998,3 +8998,194 @@ Expecting 'ID', got 'INVALID'
 2020-08-15T06:27:14.428Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
 2020-08-15T06:27:14.782Z - debug: Skipping storing report.
 2020-08-15T06:27:14.782Z - info: Rendering request 29 finished in 2121 ms
+2020-08-15T08:08:21.115Z - debug: OData insert into folders
+2020-08-15T15:39:17.262Z - info: Initializing jsreport@2.9.0 in development mode using configuration file: jsreport.config.json
+2020-08-15T15:39:17.263Z - info: Searching for available extensions in C:\Users\Personal\documents\github\jsreportATF\
+2020-08-15T15:39:17.282Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Personal\documents\github\jsreportATF\
+2020-08-15T15:39:17.370Z - info: Found 35 extensions
+2020-08-15T15:39:17.642Z - debug: Writing extension locations cache to C:\Users\Personal\AppData\Local\Temp\jsreport\core\locations.json
+2020-08-15T15:39:17.643Z - debug: Discovered 35 extensions
+2020-08-15T15:39:17.701Z - info: Setting dedicated-process (process based) strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2020-08-15T15:39:17.709Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2020-08-15T15:39:17.709Z - info: Using extension cli@2.2.4
+2020-08-15T15:39:17.714Z - info: Using extension debug@2.1.3
+2020-08-15T15:39:17.720Z - info: Using extension express@2.7.0
+2020-08-15T15:39:17.960Z - info: Using extension freeze@2.0.0
+2020-08-15T15:39:17.962Z - info: Using extension handlebars@2.1.0
+2020-08-15T15:39:17.966Z - info: Using extension import-export@2.0.0
+2020-08-15T15:39:18.037Z - info: Using extension jsrender@2.1.1
+2020-08-15T15:39:18.038Z - info: Using extension tags@2.4.0
+2020-08-15T15:39:18.042Z - info: Using extension templates@2.4.0
+2020-08-15T15:39:18.044Z - info: Using extension authorization@2.4.0
+2020-08-15T15:39:18.050Z - debug: Extension authorization@2.4.0 was disabled
+2020-08-15T15:39:18.051Z - info: Using extension base@2.0.2
+2020-08-15T15:39:18.053Z - info: Using extension browser-client@2.2.2
+2020-08-15T15:39:18.058Z - info: Using extension child-templates@1.4.0
+2020-08-15T15:39:18.064Z - info: Using extension chrome-pdf@1.8.0
+2020-08-15T15:39:18.177Z - debug: Chrome strategy is dedicated-process
+2020-08-15T15:39:18.178Z - info: Using extension data@2.3.0
+2020-08-15T15:39:18.179Z - info: Using extension docx@2.7.0
+2020-08-15T15:39:18.184Z - info: Using extension fs-store@2.8.0
+2020-08-15T15:39:18.386Z - info: Using extension licensing@2.2.2
+2020-08-15T15:39:18.396Z - info: Using extension pdf-utils@1.8.0
+2020-08-15T15:39:18.513Z - info: Using extension pptx@0.7.0
+2020-08-15T15:39:18.520Z - info: Using extension reports@2.4.0
+2020-08-15T15:39:18.526Z - info: Using extension static-pdf@0.4.0
+2020-08-15T15:39:18.532Z - info: Using extension studio@2.9.0
+2020-08-15T15:39:18.614Z - debug: studio request logs are enabled (flush interval: 2000)
+2020-08-15T15:39:18.616Z - info: Using extension text@2.0.0
+2020-08-15T15:39:18.618Z - info: Using extension version-control@1.5.0
+2020-08-15T15:39:18.746Z - info: Using extension assets@1.6.0
+2020-08-15T15:39:18.760Z - info: Using extension html-to-xlsx@2.7.0
+2020-08-15T15:39:19.255Z - info: html-to-xlsx detected chrome as available html engine
+2020-08-15T15:39:19.255Z - info: Using extension scheduling@2.4.0
+2020-08-15T15:39:19.316Z - info: Using extension scripts@2.5.0
+2020-08-15T15:39:19.322Z - info: Using extension studio-theme-dark@0.3.0
+2020-08-15T15:39:19.325Z - info: Using extension xlsx@2.4.0
+2020-08-15T15:39:19.675Z - info: Using extension public-templates@2.1.0
+2020-08-15T15:39:19.681Z - debug: Extension public-templates@2.1.0 was disabled
+2020-08-15T15:39:19.681Z - info: Using extension resources@2.1.0
+2020-08-15T15:39:19.685Z - info: Using extension sample-template@2.5.1
+2020-08-15T15:39:19.690Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2020-08-15T15:39:19.690Z - info: Using fs provider for template store.
+2020-08-15T15:39:19.707Z - info: fs store is persisting using fs
+2020-08-15T15:39:19.712Z - info: fs store sync is disabled
+2020-08-15T15:39:19.715Z - info: fs store underlying changes synchronization with studio is disabled
+2020-08-15T15:39:19.724Z - info: fs store is loading data
+2020-08-15T15:39:19.811Z - info: fs store is initialized successfully
+2020-08-15T15:39:19.818Z - debug: studio default theme is: light
+2020-08-15T15:39:19.833Z - info: Creating default express app.
+2020-08-15T15:39:19.914Z - info: jsreport server successfully started on http port: 5488
+2020-08-15T15:39:19.916Z - info: Verifying license key free
+2020-08-15T15:39:21.044Z - info: Using enterprise trial license
+2020-08-15T15:39:21.050Z - info: reporter initialized
+2020-08-15T16:43:45.876Z - info: Starting rendering request 1 (user: null)
+2020-08-15T16:43:45.879Z - info: Rendering template { name: FiestaMes, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-08-15T16:43:45.881Z - debug: Data item not defined for this template.
+2020-08-15T16:43:45.881Z - debug: Resources not defined for this template.
+2020-08-15T16:43:45.884Z - debug: Executing script FiestaMes-Script using dedicated-process strategy
+2020-08-15T16:43:46.416Z - debug: null
+2020-08-15T16:43:46.417Z - debug: Base url not specified, skipping its injection.
+2020-08-15T16:43:46.421Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-15T16:43:46.646Z - debug: Compiled template not found in the cache, compiling
+2020-08-15T16:43:46.648Z - debug: Executing recipe chrome-pdf
+2020-08-15T16:43:47.331Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-15T16:43:47.962Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/b1fe9c9d-8fde-41e8-9671-ac9a332c81fb-chrome-pdf.html
+2020-08-15T16:43:47.978Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/b1fe9c9d-8fde-41e8-9671-ac9a332c81fb-chrome-pdf.html
+2020-08-15T16:43:47.979Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:43:48.803Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:43:48.841Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-08-15T16:43:49.279Z - debug: Skipping storing report.
+2020-08-15T16:43:49.279Z - info: Rendering request 1 finished in 3405 ms
+2020-08-15T16:44:47.455Z - info: Starting rendering request 2 (user: null)
+2020-08-15T16:44:47.457Z - info: Rendering template { name: terceros, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-08-15T16:44:47.457Z - debug: Inline data specified.
+2020-08-15T16:44:47.458Z - debug: Resources not defined for this template.
+2020-08-15T16:44:47.459Z - debug: Executing script terceros-Script using dedicated-process strategy
+2020-08-15T16:44:47.989Z - debug: null
+2020-08-15T16:44:47.990Z - debug: Base url not specified, skipping its injection.
+2020-08-15T16:44:47.992Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-15T16:44:48.208Z - debug: Compiled template not found in the cache, compiling
+2020-08-15T16:44:48.210Z - debug: Executing recipe chrome-pdf
+2020-08-15T16:44:48.399Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-15T16:44:48.507Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/862e22a0-1969-489f-a8e6-b337ba61a751-chrome-pdf.html
+2020-08-15T16:44:48.528Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/862e22a0-1969-489f-a8e6-b337ba61a751-chrome-pdf.html
+2020-08-15T16:44:48.534Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:44:49.681Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:44:49.796Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-08-15T16:44:50.850Z - debug: Skipping storing report.
+2020-08-15T16:44:50.850Z - info: Rendering request 2 finished in 3395 ms
+2020-08-15T16:45:13.817Z - debug: OData query on templates
+2020-08-15T16:45:35.618Z - info: Starting rendering request 3 (user: null)
+2020-08-15T16:45:35.619Z - info: Rendering template { name: terceros, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-15T16:45:35.620Z - debug: Inline data specified.
+2020-08-15T16:45:35.620Z - debug: Resources not defined for this template.
+2020-08-15T16:45:35.621Z - debug: Executing script terceros-Script using dedicated-process strategy
+2020-08-15T16:45:36.155Z - debug: null
+2020-08-15T16:45:36.156Z - debug: Base url not specified, skipping its injection.
+2020-08-15T16:45:36.158Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-15T16:45:36.376Z - debug: Compiled template not found in the cache, compiling
+2020-08-15T16:45:36.378Z - debug: Executing recipe chrome-pdf
+2020-08-15T16:45:36.675Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-15T16:45:36.780Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/72e7eacc-740c-486b-a5b5-74547e7675eb-chrome-pdf.html
+2020-08-15T16:45:36.801Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/72e7eacc-740c-486b-a5b5-74547e7675eb-chrome-pdf.html
+2020-08-15T16:45:36.804Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:45:37.521Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:45:37.641Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-08-15T16:45:38.823Z - debug: Skipping storing report.
+2020-08-15T16:45:38.823Z - info: Rendering request 3 finished in 3206 ms
+2020-08-15T16:46:01.527Z - info: Starting rendering request 4 (user: null)
+2020-08-15T16:46:01.528Z - info: Rendering template { name: terceros, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-08-15T16:46:01.528Z - debug: Inline data specified.
+2020-08-15T16:46:01.529Z - debug: Resources not defined for this template.
+2020-08-15T16:46:01.530Z - debug: Executing script terceros-Script using dedicated-process strategy
+2020-08-15T16:46:02.029Z - debug: null
+2020-08-15T16:46:02.031Z - debug: Base url not specified, skipping its injection.
+2020-08-15T16:46:02.032Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-15T16:46:02.241Z - debug: Compiled template not found in the cache, compiling
+2020-08-15T16:46:02.241Z - debug: Executing recipe chrome-pdf
+2020-08-15T16:46:02.401Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-15T16:46:02.508Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/35f86c5d-a665-47c4-a526-8be0c40d86e8-chrome-pdf.html
+2020-08-15T16:46:02.527Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/35f86c5d-a665-47c4-a526-8be0c40d86e8-chrome-pdf.html
+2020-08-15T16:46:02.528Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:46:03.169Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:46:03.214Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-08-15T16:46:03.571Z - debug: Skipping storing report.
+2020-08-15T16:46:03.571Z - info: Rendering request 4 finished in 2045 ms
+2020-08-15T16:47:08.198Z - info: Starting rendering request 5 (user: null)
+2020-08-15T16:47:08.200Z - info: Rendering template { name: ingresos, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-08-15T16:47:08.201Z - debug: Inline data specified.
+2020-08-15T16:47:08.201Z - debug: Resources not defined for this template.
+2020-08-15T16:47:08.202Z - debug: Executing script ingresos-script using dedicated-process strategy
+2020-08-15T16:47:08.741Z - debug: null
+2020-08-15T16:47:08.742Z - debug: Base url not specified, skipping its injection.
+2020-08-15T16:47:08.744Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-15T16:47:08.962Z - debug: Compiled template not found in the cache, compiling
+2020-08-15T16:47:08.962Z - debug: Executing recipe chrome-pdf
+2020-08-15T16:47:09.273Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-15T16:47:09.382Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/c5bdb9fc-ab48-4f8b-ac49-9bc6c5044029-chrome-pdf.html
+2020-08-15T16:47:09.397Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/c5bdb9fc-ab48-4f8b-ac49-9bc6c5044029-chrome-pdf.html
+2020-08-15T16:47:09.399Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:47:10.302Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:47:10.343Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-08-15T16:47:10.837Z - debug: Skipping storing report.
+2020-08-15T16:47:10.838Z - info: Rendering request 5 finished in 2639 ms
+2020-08-15T16:47:29.331Z - debug: OData query on scripts
+2020-08-15T16:50:08.335Z - info: Starting rendering request 6 (user: null)
+2020-08-15T16:50:08.337Z - info: Rendering template { name: top-contrataciones, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-08-15T16:50:08.337Z - debug: Inline data specified.
+2020-08-15T16:50:08.338Z - debug: Resources not defined for this template.
+2020-08-15T16:50:08.339Z - debug: Executing script top-script using dedicated-process strategy
+2020-08-15T16:50:08.871Z - debug: null
+2020-08-15T16:50:08.872Z - debug: Base url not specified, skipping its injection.
+2020-08-15T16:50:08.873Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-15T16:50:09.097Z - debug: Compiled template not found in the cache, compiling
+2020-08-15T16:50:09.098Z - debug: Executing recipe chrome-pdf
+2020-08-15T16:50:09.365Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-15T16:50:09.471Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/c5551204-cba7-4dff-9940-60e09b08e0ad-chrome-pdf.html
+2020-08-15T16:50:09.495Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/c5551204-cba7-4dff-9940-60e09b08e0ad-chrome-pdf.html
+2020-08-15T16:50:09.501Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:50:10.396Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:50:10.436Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-08-15T16:50:10.867Z - debug: Skipping storing report.
+2020-08-15T16:50:10.868Z - info: Rendering request 6 finished in 2534 ms
+2020-08-15T16:50:21.563Z - debug: OData query on scripts
+2020-08-15T16:50:55.684Z - info: Starting rendering request 7 (user: null)
+2020-08-15T16:50:55.687Z - info: Rendering template { name: ofertas, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-08-15T16:50:55.690Z - debug: Inline data specified.
+2020-08-15T16:50:55.691Z - debug: Resources not defined for this template.
+2020-08-15T16:50:55.693Z - debug: Executing script ofertas-script using dedicated-process strategy
+2020-08-15T16:50:56.210Z - debug: null
+2020-08-15T16:50:56.211Z - debug: Base url not specified, skipping its injection.
+2020-08-15T16:50:56.212Z - debug: Rendering engine handlebars using dedicated-process strategy
+2020-08-15T16:50:56.413Z - debug: Compiled template not found in the cache, compiling
+2020-08-15T16:50:56.413Z - debug: Executing recipe chrome-pdf
+2020-08-15T16:50:56.551Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-08-15T16:50:56.665Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/d62f8a42-ec51-4a6f-a2d9-223b25976b35-chrome-pdf.html
+2020-08-15T16:50:56.679Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/d62f8a42-ec51-4a6f-a2d9-223b25976b35-chrome-pdf.html
+2020-08-15T16:50:56.680Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:50:57.363Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2020-08-15T16:50:57.402Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-08-15T16:50:57.765Z - debug: Skipping storing report.
+2020-08-15T16:50:57.765Z - info: Rendering request 7 finished in 2081 ms
+2020-08-15T16:51:14.501Z - debug: OData query on scripts
