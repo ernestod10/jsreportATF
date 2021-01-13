@@ -9189,3 +9189,178 @@ Expecting 'ID', got 'INVALID'
 2020-08-15T16:50:57.765Z - debug: Skipping storing report.
 2020-08-15T16:50:57.765Z - info: Rendering request 7 finished in 2081 ms
 2020-08-15T16:51:14.501Z - debug: OData query on scripts
+2021-01-12T23:02:01.046Z - info: Initializing jsreport@2.9.0 in development mode using configuration file: jsreport.config.json
+2021-01-12T23:02:01.047Z - info: Searching for available extensions in C:\Users\Personal\Documents\GitHub\jsreportATF\
+2021-01-12T23:02:01.051Z - info: Extensions location cache not found, crawling directories
+2021-01-12T23:02:04.163Z - info: Found 35 extensions
+2021-01-12T23:02:04.486Z - debug: Writing extension locations cache to C:\Users\Personal\AppData\Local\Temp\jsreport\core\locations.json
+2021-01-12T23:02:04.487Z - debug: Discovered 35 extensions
+2021-01-12T23:02:04.556Z - info: Setting dedicated-process (process based) strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2021-01-12T23:02:04.585Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2021-01-12T23:02:04.585Z - info: Using extension cli@2.2.4
+2021-01-12T23:02:04.608Z - info: Using extension debug@2.1.3
+2021-01-12T23:02:04.615Z - info: Using extension express@2.7.0
+2021-01-12T23:02:04.883Z - info: Using extension freeze@2.0.0
+2021-01-12T23:02:04.897Z - info: Using extension handlebars@2.1.0
+2021-01-12T23:02:04.903Z - info: Using extension import-export@2.0.0
+2021-01-12T23:02:05.006Z - info: Using extension jsrender@2.1.1
+2021-01-12T23:02:05.008Z - info: Using extension tags@2.4.0
+2021-01-12T23:02:05.011Z - info: Using extension templates@2.4.0
+2021-01-12T23:02:05.026Z - info: Using extension authorization@2.4.0
+2021-01-12T23:02:05.036Z - debug: Extension authorization@2.4.0 was disabled
+2021-01-12T23:02:05.036Z - info: Using extension base@2.0.2
+2021-01-12T23:02:05.039Z - info: Using extension browser-client@2.2.2
+2021-01-12T23:02:05.052Z - info: Using extension child-templates@1.4.0
+2021-01-12T23:02:05.065Z - info: Using extension chrome-pdf@1.8.0
+2021-01-12T23:02:05.216Z - debug: Chrome strategy is dedicated-process
+2021-01-12T23:02:05.216Z - info: Using extension data@2.3.0
+2021-01-12T23:02:05.218Z - info: Using extension docx@2.7.0
+2021-01-12T23:02:05.232Z - info: Using extension fs-store@2.8.0
+2021-01-12T23:02:05.497Z - info: Using extension licensing@2.2.2
+2021-01-12T23:02:05.511Z - info: Using extension pdf-utils@1.8.0
+2021-01-12T23:02:05.649Z - info: Using extension pptx@0.7.0
+2021-01-12T23:02:05.662Z - info: Using extension reports@2.4.0
+2021-01-12T23:02:05.675Z - info: Using extension static-pdf@0.4.0
+2021-01-12T23:02:05.680Z - info: Using extension studio@2.9.0
+2021-01-12T23:02:05.775Z - debug: studio request logs are enabled (flush interval: 2000)
+2021-01-12T23:02:05.788Z - info: Using extension text@2.0.0
+2021-01-12T23:02:05.792Z - info: Using extension version-control@1.5.0
+2021-01-12T23:02:05.929Z - info: Using extension assets@1.6.0
+2021-01-12T23:02:05.944Z - info: Using extension html-to-xlsx@2.7.0
+2021-01-12T23:02:06.557Z - info: html-to-xlsx detected chrome as available html engine
+2021-01-12T23:02:06.558Z - info: Using extension scheduling@2.4.0
+2021-01-12T23:02:06.609Z - info: Using extension scripts@2.5.0
+2021-01-12T23:02:06.624Z - info: Using extension studio-theme-dark@0.3.0
+2021-01-12T23:02:06.630Z - info: Using extension xlsx@2.4.0
+2021-01-12T23:02:06.880Z - info: Using extension public-templates@2.1.0
+2021-01-12T23:02:06.882Z - debug: Extension public-templates@2.1.0 was disabled
+2021-01-12T23:02:06.893Z - info: Using extension resources@2.1.0
+2021-01-12T23:02:06.899Z - info: Using extension sample-template@2.5.1
+2021-01-12T23:02:06.905Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2021-01-12T23:02:06.906Z - info: Using fs provider for template store.
+2021-01-12T23:02:06.918Z - info: fs store is persisting using fs
+2021-01-12T23:02:06.920Z - info: fs store sync is disabled
+2021-01-12T23:02:06.931Z - info: fs store underlying changes synchronization with studio is disabled
+2021-01-12T23:02:06.945Z - info: fs store is loading data
+2021-01-12T23:02:06.981Z - info: fs store is initialized successfully
+2021-01-12T23:02:06.998Z - debug: studio default theme is: light
+2021-01-12T23:02:07.012Z - info: Creating default express app.
+2021-01-12T23:02:07.098Z - info: jsreport server successfully started on http port: 5488
+2021-01-12T23:02:07.100Z - info: Verifying license key free
+2021-01-12T23:02:09.395Z - info: Starting one month enterprise trial
+2021-01-12T23:02:09.411Z - info: reporter initialized
+2021-01-12T23:02:51.159Z - debug: OData query on templates
+2021-01-12T23:02:51.176Z - debug: OData query on folders
+2021-01-12T23:02:51.204Z - debug: OData query on tags
+2021-01-12T23:02:51.206Z - debug: OData query on data
+2021-01-12T23:02:51.207Z - debug: OData query on assets
+2021-01-12T23:02:51.209Z - debug: OData query on scripts
+2021-01-12T23:02:51.223Z - debug: OData query on xlsxTemplates
+2021-01-12T23:02:51.240Z - debug: OData query on schedules
+2021-01-12T23:02:51.246Z - debug: OData query on settings
+2021-01-12T23:02:51.450Z - debug: OData query on templates
+2021-01-12T23:02:51.578Z - debug: OData query on settings
+2021-01-12T23:03:07.819Z - debug: OData query on assets
+2021-01-12T23:03:32.619Z - debug: OData remove from folders
+2021-01-12T23:03:37.282Z - debug: OData remove from folders
+2021-01-12T23:03:39.513Z - debug: OData remove from folders
+2021-01-12T23:03:45.787Z - debug: OData remove from folders
+2021-01-12T23:03:54.339Z - debug: OData remove from folders
+2021-01-12T23:03:58.507Z - debug: OData query on templates
+2021-01-12T23:04:57.851Z - debug: OData update on templates
+2021-01-12T23:04:57.902Z - debug: OData query on templates
+2021-01-12T23:04:59.282Z - debug: OData query on scripts
+2021-01-12T23:06:53.390Z - debug: OData update on scripts
+2021-01-12T23:06:53.449Z - debug: OData query on scripts
+2021-01-12T23:06:55.116Z - info: Starting rendering request 1 (user: null)
+2021-01-12T23:06:55.127Z - info: Rendering template { name: FiestaMes, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-01-12T23:06:55.129Z - debug: Data item not defined for this template.
+2021-01-12T23:06:55.129Z - debug: Resources not defined for this template.
+2021-01-12T23:06:55.148Z - debug: Executing script FiestaMes-Script using dedicated-process strategy
+2021-01-12T23:06:55.881Z - debug: null
+2021-01-12T23:06:55.895Z - debug: Base url not specified, skipping its injection.
+2021-01-12T23:06:55.900Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-01-12T23:06:56.183Z - debug: Compiled template not found in the cache, compiling
+2021-01-12T23:06:56.196Z - debug: Executing recipe chrome-pdf
+2021-01-12T23:06:57.194Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-01-12T23:06:57.673Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/fa723c11-cecd-4591-803e-5a26a7e2ede6-chrome-pdf.html
+2021-01-12T23:06:57.697Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/fa723c11-cecd-4591-803e-5a26a7e2ede6-chrome-pdf.html
+2021-01-12T23:06:57.718Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2021-01-12T23:06:59.261Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2021-01-12T23:06:59.340Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-01-12T23:06:59.847Z - debug: Skipping storing report.
+2021-01-12T23:06:59.848Z - info: Rendering request 1 finished in 4731 ms
+2021-01-12T23:07:32.576Z - debug: OData update on scripts
+2021-01-12T23:07:32.610Z - debug: OData query on scripts
+2021-01-12T23:07:42.422Z - debug: OData update on templates
+2021-01-12T23:07:42.453Z - debug: OData query on templates
+2021-01-12T23:07:56.116Z - debug: OData update on folders
+2021-01-12T23:08:07.741Z - debug: OData remove from folders
+2021-01-12T23:08:24.742Z - debug: OData update on folders
+2021-01-12T23:08:31.090Z - debug: OData update on folders
+2021-01-12T23:08:32.034Z - debug: OData query on templates
+2021-01-12T23:08:39.948Z - debug: OData update on templates
+2021-01-12T23:08:39.983Z - debug: OData query on templates
+2021-01-12T23:08:41.698Z - debug: OData query on scripts
+2021-01-12T23:10:54.243Z - debug: OData update on scripts
+2021-01-12T23:10:54.269Z - debug: OData query on scripts
+2021-01-12T23:11:00.917Z - info: Starting rendering request 2 (user: null)
+2021-01-12T23:11:00.918Z - info: Rendering template { name: top-productos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-01-12T23:11:00.919Z - debug: Data item not defined for this template.
+2021-01-12T23:11:00.930Z - debug: Resources not defined for this template.
+2021-01-12T23:11:00.932Z - debug: Executing script top-script using dedicated-process strategy
+2021-01-12T23:11:01.480Z - warn: Rendering request 2 finished with error in 563 ms
+2021-01-12T23:11:01.502Z - warn: Error when processing render request 2 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:23:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-01-12T23:11:01.503Z - warn: Error during processing request at http://localhost:5488/api/report/top-productos
+2021-01-12T23:12:19.870Z - debug: OData update on scripts
+2021-01-12T23:12:19.894Z - debug: OData query on scripts
+2021-01-12T23:12:23.120Z - info: Starting rendering request 3 (user: null)
+2021-01-12T23:12:23.121Z - info: Rendering template { name: top-productos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-01-12T23:12:23.121Z - debug: Data item not defined for this template.
+2021-01-12T23:12:23.136Z - debug: Resources not defined for this template.
+2021-01-12T23:12:23.150Z - debug: Executing script top-script using dedicated-process strategy
+2021-01-12T23:12:23.643Z - warn: Rendering request 3 finished with error in 523 ms
+2021-01-12T23:12:23.657Z - warn: Error when processing render request 3 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:23:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-01-12T23:12:23.660Z - warn: Error during processing request at http://localhost:5488/api/report/top-productos
+2021-01-12T23:12:49.094Z - debug: OData update on templates
+2021-01-12T23:12:49.124Z - debug: OData query on templates
+2021-01-12T23:14:03.034Z - debug: OData update on scripts
+2021-01-12T23:14:03.064Z - debug: OData query on scripts
+2021-01-12T23:14:05.799Z - info: Starting rendering request 4 (user: null)
+2021-01-12T23:14:05.800Z - info: Rendering template { name: top-productos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-01-12T23:14:05.801Z - debug: Data item not defined for this template.
+2021-01-12T23:14:05.813Z - debug: Resources not defined for this template.
+2021-01-12T23:14:05.825Z - debug: Executing script top-script using dedicated-process strategy
+2021-01-12T23:14:06.348Z - debug: null
+2021-01-12T23:14:06.349Z - debug: Base url not specified, skipping its injection.
+2021-01-12T23:14:06.363Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-01-12T23:14:06.570Z - debug: Compiled template not found in the cache, compiling
+2021-01-12T23:14:06.571Z - debug: Executing recipe chrome-pdf
+2021-01-12T23:14:07.025Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-01-12T23:14:07.112Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/a831136f-67ed-46fe-93c5-d0d4cc6acc2e-chrome-pdf.html
+2021-01-12T23:14:07.133Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/a831136f-67ed-46fe-93c5-d0d4cc6acc2e-chrome-pdf.html
+2021-01-12T23:14:07.133Z - debug: Page request: GET (stylesheet) https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2021-01-12T23:14:08.577Z - debug: Page request finished: GET (stylesheet) 200 https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css
+2021-01-12T23:14:08.626Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-01-12T23:14:09.080Z - debug: Skipping storing report.
+2021-01-12T23:14:09.080Z - info: Rendering request 4 finished in 3281 ms
