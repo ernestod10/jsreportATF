@@ -1,0 +1,17 @@
+{
+    "shortid": "BJg5FsfzbO",
+    "name": "ficha_atraccion",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1613019201089
+    },
+    "modificationDate": {
+        "$$date": 1613019201089
+    },
+    "_id": "HN4Qfvq8wdUoFPjz",
+    "$entitySet": "templates"
+}

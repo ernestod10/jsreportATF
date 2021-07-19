@@ -1,0 +1,15 @@
+{
+    "name": "Catalogo_script",
+    "creationDate": {
+        "$$date": 1612647867058
+    },
+    "modificationDate": {
+        "$$date": 1613061013634
+    },
+    "shortid": "Yso_9eA",
+    "_id": "g87CLZ9uVNy7YmZW",
+    "$entitySet": "scripts",
+    "entitySet": "scripts",
+    "type": "entity",
+    "key": "g87CLZ9uVNy7YmZW"
+}

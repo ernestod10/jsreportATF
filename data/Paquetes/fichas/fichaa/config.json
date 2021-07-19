@@ -1,0 +1,22 @@
+{
+    "shortid": "BkeIenL1Zu",
+    "name": "fichaa",
+    "recipe": "html",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1612831730176
+    },
+    "modificationDate": {
+        "$$date": 1613068704795
+    },
+    "_id": "cG8qDhuw7Ucnwvhi",
+    "$entitySet": "templates",
+    "scripts": [
+        {
+            "shortid": "2oKuDe~"
+        }
+    ]
+}

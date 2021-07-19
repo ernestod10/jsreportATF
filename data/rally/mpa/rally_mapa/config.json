@@ -1,0 +1,28 @@
+{
+    "shortid": "Hke5mFRxZu",
+    "name": "rally_mapa",
+    "recipe": "html",
+    "engine": "none",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1612929317230
+    },
+    "modificationDate": {
+        "$$date": 1613068711822
+    },
+    "_id": "bpfC196h3cNeYUmZ",
+    "$entitySet": "templates",
+    "htmlToXlsx": {
+        "htmlEngine": "chrome"
+    },
+    "chromeImage": {
+        "fullPage": true
+    },
+    "scripts": [
+        {
+            "shortid": "rylVAuRWbu"
+        }
+    ]
+}

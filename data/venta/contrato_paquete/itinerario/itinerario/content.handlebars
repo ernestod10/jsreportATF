@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css">
+     <h1>ITINERARIO</h1>
+     </head>
+     <script>var suma;
+     function date (fecha, estadia){
+        var f = fecha + suma;
+        suma = suma+ estadia;
+        return f;
+        }
+     </script>
+  <body>
+     
+     </canvas>
+        <table class='table striped'>
+            <thead>
+                <tr>
+                    <th>Fecha</th>
+                    <th>Ciudad</th>
+                    <th>Estadia (dias)</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each rows}}
+                <tr>
+                    <td>{{date fecha_viaje tiempo_estadia}}</td>
+                    <td>{{nombre_ciudad}}</td>
+                    <td>{{tiempo_estadia}}</td>
+
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+
+       
+        <div style='page-break-after: always;'>
+        </div>
+
+  </body>
+</html>

@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css">
+     <h1>Viajeros</h1>
+     </head>
+  <body>
+     
+     </canvas>
+        <table class='table striped'>
+            <thead>
+                <tr>
+                    <th>nombre</th>
+                    <th>nacionalidad</th>
+                    <th>numero de pasaporte</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each rows}}
+                <tr>
+                    <td>{{nombre_apellido nombre apellido}}</td>
+                    <td>{{nacionalidad}}</td>
+                    <td>{{numero}}</td>
+
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+
+       
+        <div style='page-break-after: always;'>
+        </div>
+
+  </body>
+</html>

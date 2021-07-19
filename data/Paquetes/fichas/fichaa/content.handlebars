@@ -1,0 +1,61 @@
+
+<style>
+ {#asset ficha_styles.css @encoding=utf8}
+ </style>
+{{#each rows}}
+<GridItem>
+<div class="flip-card-container" style="--hue: 220">
+  
+  
+  <div class="flip-card">
+
+    <div class="card-front">
+      <figure>
+        <div class="img-bg"></div>
+        <img src={{imgurl}} alt="Brohm Lake">
+        <figcaption>{{nombre_paquete}}</figcaption>
+      </figure>
+
+      <ul>
+        <li>Ciudades: {{itinerario}}</li>
+        <li>{{cantidad cantidad_personas}} </li>
+        <li>Duracion:{{duracion_paquete_dias}} dias</li>
+        <li>{{descripcion}}</li>
+        <li>Precio: {{moneda costo_base continente}}</li>
+        <li>Salida:{{fechas_salida}}</li>
+      </ul>
+    </div>
+
+    <div class="card-back">
+      <figure>
+        <div class="img-bg"></div>
+        <img src={{imgurl}} alt="Brohm Lake">
+      </figure>
+      <script>
+        function hola () {
+      console.log('Hello');
+        } 
+      </script>
+      <button onclick=('console.log("hola")')>
+      Reservar
+      </button>
+
+      <div class="design-container">
+        <span class="design design--1"></span>
+        <span class="design design--2"></span>
+        <span class="design design--3"></span>
+        <span class="design design--4"></span>
+        <span class="design design--5"></span>
+        <span class="design design--6"></span>
+        <span class="design design--7"></span>
+        <span class="design design--8"></span>
+      </div>
+    </div>
+
+  </div>
+
+
+</div>
+</GridItem>
+{{/each}}
+<!-- /flip-card-container -->

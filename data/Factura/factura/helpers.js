@@ -1,46 +1,16 @@
-function now() {
-    return new Date().toLocaleDateString()
+
+
+function nombre_apellido(nombre, apellido) {
+    var completo = nombre+' '+apellido;
+    return completo
 }
 
-function nowPlus20Days() {
-    var date = new Date()
-    date.setDate(date.getDate() + 20);
-    return date.toLocaleDateString();
-}
-
-function total(items) {
+function total(costo) {
     var sum = 0
-    items.forEach(function (i) {
-        console.log('Calculating item ' + i.name + '; you should see this message in debug run')
-        sum += (i.precio*i.unidades)
-    })
-    return sum
+    sum = costo+(costo*0.1);
+    return sum;
 }
-function final(precio, unidades) {
-    return (precio * unidades);
-}
-function fetchFactura() {
-    return new Promise((resolve, reject) => {
-        https.get('https://jsonplaceholder.typicode.com/albums',
-        (result) => {
-            var str = '';
-            result.on('data', (b) => str += b);
-            result.on('error', reject);
-            result.on('end', () => resolve(JSON.parse(str).value));
-        });
-    })
-}
-// group the data for report
-async function prepareDataSource() {
-    const orders = await fetchFactura()
-    const ordersByShipCountry = orders.reduce((a, v) => {
-        a[v.ShipCountry] = a[v.ShipCountry] || []
-        a[v.ShipCountry].push(v)
-        return a
-    }, {})
+function iva(costo) {
+    return (costo * 0.1);
 }
 
-// add jsreport hook which modifies the report input data
-async function beforeRender(req, res) {
-    req.data.orders = await prepareDataSource()
-}

@@ -1,30 +1,28 @@
-// server side script fetching remote data and preparing report data source
-const https = require('https');
+const {Client} = require('pg');
 
-// call remote http rest api
-function fetchFactura() {
-    return new Promise((resolve, reject) => {
-        https.get('https://jsonplaceholder.typicode.com/albums',
-        (result) => {
-            var str = '';
-            result.on('data', (b) => str += b);
-            result.on('error', reject);
-            result.on('end', () => resolve(JSON.parse(str).value));
-        });
-    })
-}
+const db = new Client({
+  user: 'postgres',
+  host: 'localhost',
+  database: 'Bases1',
+  password: '0809', 
+  port: 5432,
+});
 
-// group the data for report
-async function prepareDataSource() {
-    const orders = await fetchFactura()
-    const ordersByShipCountry = orders.reduce((a, v) => {
-        a[v.ShipCountry] = a[v.ShipCountry] || []
-        a[v.ShipCountry].push(v)
-        return a
-    }, {})
-}
+function beforeRender(req, res, done) {
+const idContrato= req.data.idContrato;
 
-// add jsreport hook which modifies the report input data
-async function beforeRender(req, res) {
-    req.data.orders = await prepareDataSource()
+
+db.connect();
+
+var query = ["select id_paquete_contrato, monto_total costo, pq.nombre_paquete, nombre_cliente, apellido_1 apellido1, id_cliente from edw_forma_pago fp, edw_pqt_contrato pcq, edw_paquete pq , edw_cliente cl where pcq.id_paquete_contrato ='"+idContrato+"' and pq.id_paquete=pcq.edw_paquete_id_paquete and fp.edw_pqt_contrato_id_paquete_contrato=pcq.id_paquete_contrato and fp.edw_metodo_pago_edw_cliente_id_cliente=cl.id_cliente"];
+
+  db.query(query.join(' '), (err, result) => {
+    console.log(err);
+    req.data = {
+      rows: result.rows
+      
+    };
+    db.end();
+    done();
+  });
 }
