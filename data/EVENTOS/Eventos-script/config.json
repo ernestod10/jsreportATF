@@ -1,11 +1,11 @@
 {
     "shortid": "S1xDEgvfzD",
-    "name": "Socios-script",
+    "name": "Eventos-script",
     "creationDate": {
         "$$date": 1597300813595
     },
     "modificationDate": {
-        "$$date": 1611261363253
+        "$$date": 1626739371547
     },
     "_id": "citlXmeqIR5szjE0",
     "$entitySet": "scripts"

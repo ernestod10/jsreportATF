@@ -2,7 +2,7 @@
   <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css">
-     <h1>SOCIOS</h1>
+     <h1>Objetos Disponibles</h1>
      </head>
   <body>
      
@@ -11,20 +11,16 @@
             <thead>
                 <tr>
                     <th>ID</th>
-                    <th>NOMBRE</th>
-                    <th>TIPO OPERACION</th>
-                    <th>FECHA ASOCIACION</th>
-                    
+                    <th>NOMBRE OBJETO</th>
+                    <th>NUR</th>
                 </tr>
             </thead>
             <tbody>
                 {{#each rows}}
                 <tr>
-                    <td>{{id_agencia}}</td>
-                    <td>{{nombre_agencia}}</td>
-                    <td>{{tipo_de_operacion}}</td>
-                    <td>{{fecha_asociacion}}</td>
-
+                    <td>{{ID}}</td>
+                    <td>{{Nombre}}</td>
+                    <td>{{NUR}}</td>
                 </tr>
                 {{/each}}
             </tbody>

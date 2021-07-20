@@ -1,0 +1,53 @@
+
+<style>
+ {#asset ficha_styles.css @encoding=utf8}
+ </style>
+{{#each rows}}
+<GridItem>
+<div class="flip-card-container" style="--hue: 220">
+  
+  
+  <div class="flip-card">
+
+    <div class="card-front">
+      <figure>
+        <div class="img-bg"></div>
+        <img src='http://www.umdchabad.org/new/wp-content/uploads/2018/08/1280x720-coral-pink-solid-color-background.jpg' alt="Brohm Lake">
+        <figcaption>{{Nombre}}</figcaption>
+      </figure>
+
+      <ul>
+        <li>Nombre: {{Nombre}}</li>
+        <li>{{ArNombre Apellido}} </li>
+        <li>Año:{{Año}}</li>
+        <li>NUR: {{nur}} </li>
+ 
+      </ul>
+    </div>
+
+    <div class="card-back">
+      <figure>
+        <div class="img-bg"></div>
+        <img src={{imgurl}} alt="Brohm Lake">
+      </figure>
+      
+
+      <div class="design-container">
+        <span class="design design--1"></span>
+        <span class="design design--2"></span>
+        <span class="design design--3"></span>
+        <span class="design design--4"></span>
+        <span class="design design--5"></span>
+        <span class="design design--6"></span>
+        <span class="design design--7"></span>
+        <span class="design design--8"></span>
+      </div>
+    </div>
+
+  </div>
+
+
+</div>
+</GridItem>
+{{/each}}
+<!-- /flip-card-container -->

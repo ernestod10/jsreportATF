@@ -1,0 +1,23 @@
+{
+    "name": "EventosObras",
+    "recipe": "html",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1626771618963
+    },
+    "modificationDate": {
+        "$$date": 1626772401956
+    },
+    "scripts": [
+        {
+            "shortid": "xRGuwzd"
+        }
+    ],
+    "data": null,
+    "shortid": "K7x1_nh",
+    "_id": "V8wYDSKGctMzH2Sy",
+    "$entitySet": "templates"
+}

@@ -1,15 +1,15 @@
 {
     "name": "fichas_script",
     "creationDate": {
-        "$$date": 1612828049419
+        "$$date": 1626756341315
     },
     "modificationDate": {
-        "$$date": 1613063101083
+        "$$date": 1626767142630
     },
     "entitySet": "scripts",
     "type": "entity",
     "key": "OqzUss9VZv6Pfn53",
-    "shortid": "2oKuDe~",
-    "_id": "OqzUss9VZv6Pfn53",
+    "shortid": "rW8uEGX",
+    "_id": "wX4TWQvFqkksmGEn",
     "$entitySet": "scripts"
 }

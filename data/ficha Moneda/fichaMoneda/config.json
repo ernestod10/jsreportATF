@@ -1,0 +1,22 @@
+{
+    "name": "fichaMoneda",
+    "recipe": "html",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1626756341286
+    },
+    "modificationDate": {
+        "$$date": 1626767128923
+    },
+    "scripts": [
+        {
+            "shortid": "rW8uEGX"
+        }
+    ],
+    "shortid": "aTQiPVZ",
+    "_id": "mIUiMAG4bfeKPqgs",
+    "$entitySet": "templates"
+}

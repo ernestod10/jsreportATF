@@ -1,0 +1,23 @@
+{
+    "name": "Subasta",
+    "recipe": "html",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1626740750486
+    },
+    "modificationDate": {
+        "$$date": 1626756246348
+    },
+    "scripts": [
+        {
+            "shortid": "7t5_17B"
+        }
+    ],
+    "data": null,
+    "shortid": "dMUGk1H",
+    "_id": "XKPLjTjEO6SQosbx",
+    "$entitySet": "templates"
+}

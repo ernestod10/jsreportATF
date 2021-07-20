@@ -1,0 +1,23 @@
+{
+    "name": "EventosMonedas",
+    "recipe": "html",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1626776749333
+    },
+    "modificationDate": {
+        "$$date": 1626776965668
+    },
+    "scripts": [
+        {
+            "shortid": "OQllAmL"
+        }
+    ],
+    "data": null,
+    "shortid": "xd5Di3l",
+    "_id": "QTQyQ6OgO0UQEEqc",
+    "$entitySet": "templates"
+}

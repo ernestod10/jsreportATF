@@ -9,12 +9,11 @@ const db = new Client({
 });
 
 function beforeRender(req, res, done) {
- const min = req.data.min;
-  const max = req.data.max;
+ const idAgencia = req.data.idAgencia;
 db.connect();
  
 
-  let query = 'SELECT * FROM edw_proovedor_agencia inner join edw_proveedores ep on ep.numero_documento_1 = edw_proovedor_agencia.edw_proveedores_numero_documento_1 WHERE edw_agencia_id_agencia = 1 order by ep.tipo_proveedor, fecha_asociacion';
+  let query = 'Select e.*, o.nombre  from ec_evento e , ec_evento_organizador ec ,ec_organizacion o where e.id_evento = ec.ec_evento_id_evento and ec.ec_organizacion_id_organiacion ='+idAgencia+' group by e.id_evento, o.nombre order by e.id_evento ';
 
   db.query(query, (err, result) => {
     

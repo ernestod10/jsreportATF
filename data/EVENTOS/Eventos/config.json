@@ -1,7 +1,7 @@
 {
     "shortid": "Hkev7gvMMw",
-    "name": "Socios",
-    "recipe": "chrome-pdf",
+    "name": "Eventos",
+    "recipe": "html",
     "engine": "handlebars",
     "chrome": {
         "printBackground": true
@@ -10,7 +10,7 @@
         "$$date": 1597300774931
     },
     "modificationDate": {
-        "$$date": 1611261264874
+        "$$date": 1626729402844
     },
     "_id": "Lx3ZJvlojqwI08s1",
     "$entitySet": "templates",
