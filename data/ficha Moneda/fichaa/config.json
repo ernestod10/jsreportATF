@@ -1,5 +1,5 @@
 {
-    "name": "fichaMoneda",
+    "name": "fichaa",
     "recipe": "html",
     "engine": "handlebars",
     "chrome": {
@@ -9,7 +9,7 @@
         "$$date": 1626756341286
     },
     "modificationDate": {
-        "$$date": 1626767128923
+        "$$date": 1626809760850
     },
     "scripts": [
         {

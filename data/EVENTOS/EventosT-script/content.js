@@ -9,11 +9,11 @@ const db = new Client({
 });
 
 function beforeRender(req, res, done) {
- const idAgencia = req.data.idAgencia;
+ const id = req.data.id;
 db.connect();
  
 
-  let query = 'Select e.*, o.nombre  from ec_evento e , ec_evento_organizador ec ,ec_organizacion o where e.id_evento = ec.ec_evento_id_evento and ec.ec_organizacion_id_organiacion ='+idAgencia+' group by e.id_evento, o.nombre order by e.id_evento ';
+  let query = 'Select e.*, o.nombre  from ec_evento e , ec_evento_organizador ec ,ec_organizacion o where e.id_evento = ec.ec_evento_id_evento and ec.ec_organizacion_id_organiacion ='+id+' group by e.id_evento, o.nombre order by e.id_evento ';
 
   db.query(query, (err, result) => {
     
