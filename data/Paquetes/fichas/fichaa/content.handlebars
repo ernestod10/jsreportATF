@@ -12,16 +12,17 @@
     <div class="card-front">
       <figure>
         <div class="img-bg"></div>
-        <img src='http://www.umdchabad.org/new/wp-content/uploads/2018/08/1280x720-coral-pink-solid-color-background.jpg' alt="Brohm Lake">
-        <figcaption>{{Nombre}}</figcaption>
+        <img src={{imgurl}} alt="Brohm Lake">
+        <figcaption>{{nombre_paquete}}</figcaption>
       </figure>
 
       <ul>
-        <li>Nombre: {{Nombre}}</li>
-        <li>{{ArNombre Apellido}} </li>
-        <li>Año:{{Año}}</li>
-        <li>NUR: {{nur}} </li>
- 
+        <li>Ciudades: {{itinerario}}</li>
+        <li>{{cantidad cantidad_personas}} </li>
+        <li>Duracion:{{duracion_paquete_dias}} dias</li>
+        <li>{{descripcion}}</li>
+        <li>Precio: {{moneda costo_base continente}}</li>
+        <li>Salida:{{fechas_salida}}</li>
       </ul>
     </div>
 
@@ -30,7 +31,14 @@
         <div class="img-bg"></div>
         <img src={{imgurl}} alt="Brohm Lake">
       </figure>
-      
+      <script>
+        function hola () {
+      console.log('Hello');
+        } 
+      </script>
+      <button onclick=('console.log("hola")')>
+      Reservar
+      </button>
 
       <div class="design-container">
         <span class="design design--1"></span>

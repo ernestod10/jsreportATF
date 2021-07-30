@@ -11234,3 +11234,143 @@ Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 
 2021-07-20T22:15:14.544Z - debug: Executing recipe html
 2021-07-20T22:15:14.545Z - debug: Skipping storing report.
 2021-07-20T22:15:14.545Z - info: Rendering request 34 finished in 742 ms
+2021-07-30T01:46:42.198Z - info: Initializing jsreport@2.9.0 in development mode using configuration file: jsreport.config.json
+2021-07-30T01:46:42.200Z - info: Searching for available extensions in C:\Users\Personal\Documents\GitHub\jsreportATF\
+2021-07-30T01:46:42.205Z - info: Extensions location cache not found, crawling directories
+2021-07-30T01:46:45.171Z - info: Found 35 extensions
+2021-07-30T01:46:45.487Z - debug: Writing extension locations cache to C:\Users\Personal\AppData\Local\Temp\jsreport\core\locations.json
+2021-07-30T01:46:45.489Z - debug: Discovered 35 extensions
+2021-07-30T01:46:45.556Z - info: Setting dedicated-process (process based) strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2021-07-30T01:46:45.565Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2021-07-30T01:46:45.566Z - info: Using extension cli@2.2.4
+2021-07-30T01:46:45.577Z - info: Using extension debug@2.1.3
+2021-07-30T01:46:45.591Z - info: Using extension express@2.7.0
+2021-07-30T01:46:46.173Z - info: Using extension freeze@2.0.0
+2021-07-30T01:46:46.177Z - info: Using extension handlebars@2.1.0
+2021-07-30T01:46:46.183Z - info: Using extension import-export@2.0.0
+2021-07-30T01:46:46.296Z - info: Using extension jsrender@2.1.1
+2021-07-30T01:46:46.297Z - info: Using extension tags@2.4.0
+2021-07-30T01:46:46.302Z - info: Using extension templates@2.4.0
+2021-07-30T01:46:46.307Z - info: Using extension authorization@2.4.0
+2021-07-30T01:46:46.321Z - debug: Extension authorization@2.4.0 was disabled
+2021-07-30T01:46:46.321Z - info: Using extension base@2.0.2
+2021-07-30T01:46:46.324Z - info: Using extension browser-client@2.2.2
+2021-07-30T01:46:46.335Z - info: Using extension child-templates@1.4.0
+2021-07-30T01:46:46.344Z - info: Using extension chrome-pdf@1.8.0
+2021-07-30T01:46:46.641Z - debug: Chrome strategy is dedicated-process
+2021-07-30T01:46:46.642Z - info: Using extension data@2.3.0
+2021-07-30T01:46:46.644Z - info: Using extension docx@2.7.0
+2021-07-30T01:46:46.652Z - info: Using extension fs-store@2.8.0
+2021-07-30T01:46:47.088Z - info: Using extension licensing@2.2.2
+2021-07-30T01:46:47.102Z - info: Using extension pdf-utils@1.8.0
+2021-07-30T01:46:47.322Z - info: Using extension pptx@0.7.0
+2021-07-30T01:46:47.331Z - info: Using extension reports@2.4.0
+2021-07-30T01:46:47.344Z - info: Using extension static-pdf@0.4.0
+2021-07-30T01:46:47.358Z - info: Using extension studio@2.9.0
+2021-07-30T01:46:47.489Z - debug: studio request logs are enabled (flush interval: 2000)
+2021-07-30T01:46:47.491Z - info: Using extension text@2.0.0
+2021-07-30T01:46:47.495Z - info: Using extension version-control@1.5.0
+2021-07-30T01:46:47.663Z - info: Using extension assets@1.6.0
+2021-07-30T01:46:47.678Z - info: Using extension html-to-xlsx@2.7.0
+2021-07-30T01:46:48.187Z - info: html-to-xlsx detected chrome as available html engine
+2021-07-30T01:46:48.188Z - info: Using extension scheduling@2.4.0
+2021-07-30T01:46:48.240Z - info: Using extension scripts@2.5.0
+2021-07-30T01:46:48.244Z - info: Using extension studio-theme-dark@0.3.0
+2021-07-30T01:46:48.247Z - info: Using extension xlsx@2.4.0
+2021-07-30T01:46:48.472Z - info: Using extension public-templates@2.1.0
+2021-07-30T01:46:48.474Z - debug: Extension public-templates@2.1.0 was disabled
+2021-07-30T01:46:48.475Z - info: Using extension resources@2.1.0
+2021-07-30T01:46:48.476Z - info: Using extension sample-template@2.5.1
+2021-07-30T01:46:48.482Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2021-07-30T01:46:48.482Z - info: Using fs provider for template store.
+2021-07-30T01:46:48.489Z - info: fs store is persisting using fs
+2021-07-30T01:46:48.491Z - info: fs store sync is disabled
+2021-07-30T01:46:48.494Z - info: fs store underlying changes synchronization with studio is disabled
+2021-07-30T01:46:48.499Z - info: fs store is loading data
+2021-07-30T01:46:48.544Z - info: fs store is initialized successfully
+2021-07-30T01:46:48.553Z - debug: studio default theme is: light
+2021-07-30T01:46:48.565Z - info: Creating default express app.
+2021-07-30T01:46:48.626Z - info: jsreport server successfully started on http port: 5488
+2021-07-30T01:46:48.628Z - info: Verifying license key free
+2021-07-30T01:46:51.639Z - info: The licensing server was not reachable during instance startup. The instance now runs in the enterprise mode.
+2021-07-30T01:46:57.396Z - debug: OData query on templates
+2021-07-30T01:46:57.401Z - debug: OData query on folders
+2021-07-30T01:46:57.408Z - debug: OData query on tags
+2021-07-30T01:46:57.411Z - debug: OData query on data
+2021-07-30T01:46:57.414Z - debug: OData query on assets
+2021-07-30T01:46:57.417Z - debug: OData query on scripts
+2021-07-30T01:46:57.424Z - debug: OData query on xlsxTemplates
+2021-07-30T01:46:57.430Z - debug: OData query on schedules
+2021-07-30T01:46:57.443Z - debug: OData query on settings
+2021-07-30T01:46:57.714Z - debug: OData query on templates
+2021-07-30T01:46:57.940Z - debug: OData query on settings
+2021-07-30T01:47:00.931Z - info: reporter initialized
+2021-07-30T01:55:56.032Z - debug: OData query on templates
+2021-07-30T01:55:56.037Z - debug: OData query on folders
+2021-07-30T01:55:56.044Z - debug: OData query on tags
+2021-07-30T01:55:56.048Z - debug: OData query on data
+2021-07-30T01:55:56.052Z - debug: OData query on assets
+2021-07-30T01:55:56.055Z - debug: OData query on scripts
+2021-07-30T01:55:56.066Z - debug: OData query on xlsxTemplates
+2021-07-30T01:55:56.070Z - debug: OData query on schedules
+2021-07-30T01:55:56.076Z - debug: OData query on settings
+2021-07-30T01:55:56.235Z - debug: OData query on templates
+2021-07-30T01:55:56.333Z - debug: OData query on settings
+2021-07-30T01:57:06.764Z - info: Initializing jsreport@2.9.0 in development mode using configuration file: jsreport.config.json
+2021-07-30T01:57:06.777Z - info: Searching for available extensions in C:\Users\Personal\Documents\GitHub\jsreportATF\
+2021-07-30T01:57:06.791Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Personal\Documents\GitHub\jsreportATF\
+2021-07-30T01:57:06.943Z - info: Found 35 extensions
+2021-07-30T01:57:07.162Z - debug: Writing extension locations cache to C:\Users\Personal\AppData\Local\Temp\jsreport\core\locations.json
+2021-07-30T01:57:07.164Z - debug: Discovered 35 extensions
+2021-07-30T01:57:07.237Z - info: Setting dedicated-process (process based) strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2021-07-30T01:57:07.245Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2021-07-30T01:57:07.246Z - info: Using extension cli@2.2.4
+2021-07-30T01:57:07.255Z - info: Using extension debug@2.1.3
+2021-07-30T01:57:07.261Z - info: Using extension express@2.7.0
+2021-07-30T01:57:07.468Z - info: Using extension freeze@2.0.0
+2021-07-30T01:57:07.470Z - info: Using extension handlebars@2.1.0
+2021-07-30T01:57:07.473Z - info: Using extension import-export@2.0.0
+2021-07-30T01:57:07.537Z - info: Using extension jsrender@2.1.1
+2021-07-30T01:57:07.538Z - info: Using extension tags@2.4.0
+2021-07-30T01:57:07.545Z - info: Using extension templates@2.4.0
+2021-07-30T01:57:07.548Z - info: Using extension authorization@2.4.0
+2021-07-30T01:57:07.554Z - debug: Extension authorization@2.4.0 was disabled
+2021-07-30T01:57:07.555Z - info: Using extension base@2.0.2
+2021-07-30T01:57:07.559Z - info: Using extension browser-client@2.2.2
+2021-07-30T01:57:07.563Z - info: Using extension child-templates@1.4.0
+2021-07-30T01:57:07.568Z - info: Using extension chrome-pdf@1.8.0
+2021-07-30T01:57:07.652Z - debug: Chrome strategy is dedicated-process
+2021-07-30T01:57:07.653Z - info: Using extension data@2.3.0
+2021-07-30T01:57:07.654Z - info: Using extension docx@2.7.0
+2021-07-30T01:57:07.660Z - info: Using extension fs-store@2.8.0
+2021-07-30T01:57:07.803Z - info: Using extension licensing@2.2.2
+2021-07-30T01:57:07.815Z - info: Using extension pdf-utils@1.8.0
+2021-07-30T01:57:07.904Z - info: Using extension pptx@0.7.0
+2021-07-30T01:57:07.909Z - info: Using extension reports@2.4.0
+2021-07-30T01:57:07.917Z - info: Using extension static-pdf@0.4.0
+2021-07-30T01:57:07.921Z - info: Using extension studio@2.9.0
+2021-07-30T01:57:07.992Z - debug: studio request logs are enabled (flush interval: 2000)
+2021-07-30T01:57:07.994Z - info: Using extension text@2.0.0
+2021-07-30T01:57:07.997Z - info: Using extension version-control@1.5.0
+2021-07-30T01:57:08.089Z - info: Using extension assets@1.6.0
+2021-07-30T01:57:08.099Z - info: Using extension html-to-xlsx@2.7.0
+2021-07-30T01:57:08.428Z - info: html-to-xlsx detected chrome as available html engine
+2021-07-30T01:57:08.429Z - info: Using extension scheduling@2.4.0
+2021-07-30T01:57:08.464Z - info: Using extension scripts@2.5.0
+2021-07-30T01:57:08.468Z - info: Using extension studio-theme-dark@0.3.0
+2021-07-30T01:57:08.469Z - info: Using extension xlsx@2.4.0
+2021-07-30T01:57:08.628Z - info: Using extension public-templates@2.1.0
+2021-07-30T01:57:08.629Z - debug: Extension public-templates@2.1.0 was disabled
+2021-07-30T01:57:08.630Z - info: Using extension resources@2.1.0
+2021-07-30T01:57:08.631Z - info: Using extension sample-template@2.5.1
+2021-07-30T01:57:08.634Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2021-07-30T01:57:08.635Z - info: Using fs provider for template store.
+2021-07-30T01:57:08.642Z - info: fs store is persisting using fs
+2021-07-30T01:57:08.644Z - info: fs store sync is disabled
+2021-07-30T01:57:08.645Z - info: fs store underlying changes synchronization with studio is disabled
+2021-07-30T01:57:08.653Z - info: fs store is loading data
+2021-07-30T01:57:08.696Z - info: fs store is initialized successfully
+2021-07-30T01:57:08.711Z - debug: studio default theme is: light
+2021-07-30T01:57:08.728Z - info: Creating default express app.
+2021-07-30T01:57:08.763Z - info: jsreport server successfully started on http port: 5488
+2021-07-30T01:57:08.765Z - info: Verifying license key free
