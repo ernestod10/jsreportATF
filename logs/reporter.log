@@ -10920,3 +10920,317 @@ Expecting 'ID', got 'INVALID'
 2021-07-20T19:36:00.849Z - debug: OData update on templates
 2021-07-20T19:36:00.914Z - debug: OData query on templates
 2021-07-20T19:36:01.740Z - debug: OData query on scripts
+2021-07-20T19:43:10.819Z - info: Starting rendering request 16 (user: null)
+2021-07-20T19:43:10.820Z - info: Rendering template { name: EventosT, recipe: html, engine: handlebars, preview: false }
+2021-07-20T19:43:10.821Z - debug: Inline data specified.
+2021-07-20T19:43:10.821Z - debug: Resources not defined for this template.
+2021-07-20T19:43:10.822Z - debug: Executing script EventosT-script using dedicated-process strategy
+2021-07-20T19:43:11.338Z - warn: Rendering request 16 finished with error in 519 ms
+2021-07-20T19:43:11.340Z - warn: Error when processing render request 16 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:22:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-07-20T19:43:11.340Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-07-20T20:18:35.022Z - info: Starting rendering request 17 (user: null)
+2021-07-20T20:18:35.023Z - info: Rendering template { name: EventosMonedas, recipe: html, engine: handlebars, preview: false }
+2021-07-20T20:18:35.024Z - debug: Inline data specified.
+2021-07-20T20:18:35.024Z - debug: Resources not defined for this template.
+2021-07-20T20:18:35.025Z - debug: Executing script Eventos-script using dedicated-process strategy
+2021-07-20T20:18:35.577Z - warn: Rendering request 17 finished with error in 555 ms
+2021-07-20T20:18:35.579Z - warn: Error when processing render request 17 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:22:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-07-20T20:18:35.579Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-07-20T20:22:57.788Z - debug: OData query on scripts
+2021-07-20T20:22:58.535Z - debug: OData query on templates
+2021-07-20T20:30:32.323Z - debug: OData update on scripts
+2021-07-20T20:30:32.386Z - debug: OData query on scripts
+2021-07-20T20:31:37.357Z - info: Starting rendering request 18 (user: null)
+2021-07-20T20:31:37.358Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: false }
+2021-07-20T20:31:37.358Z - debug: Inline data specified.
+2021-07-20T20:31:37.359Z - debug: Resources not defined for this template.
+2021-07-20T20:31:37.360Z - debug: Executing script Eventos-script using dedicated-process strategy
+2021-07-20T20:31:37.882Z - warn: Rendering request 18 finished with error in 525 ms
+2021-07-20T20:31:37.884Z - warn: Error when processing render request 18 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:22:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-07-20T20:31:37.884Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-07-20T20:32:07.174Z - info: Starting rendering request 19 (user: null)
+2021-07-20T20:32:07.175Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: false }
+2021-07-20T20:32:07.176Z - debug: Inline data specified.
+2021-07-20T20:32:07.176Z - debug: Resources not defined for this template.
+2021-07-20T20:32:07.177Z - debug: Executing script Eventos-script using dedicated-process strategy
+2021-07-20T20:32:07.701Z - warn: Rendering request 19 finished with error in 525 ms
+2021-07-20T20:32:07.703Z - warn: Error when processing render request 19 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:22:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-07-20T20:32:07.704Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-07-20T20:32:11.063Z - info: Starting rendering request 20 (user: null)
+2021-07-20T20:32:11.063Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: false }
+2021-07-20T20:32:11.064Z - debug: Inline data specified.
+2021-07-20T20:32:11.064Z - debug: Resources not defined for this template.
+2021-07-20T20:32:11.066Z - debug: Executing script Eventos-script using dedicated-process strategy
+2021-07-20T20:32:11.687Z - warn: Rendering request 20 finished with error in 624 ms
+2021-07-20T20:32:11.689Z - warn: Error when processing render request 20 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:22:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-07-20T20:32:11.689Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-07-20T20:32:45.713Z - debug: OData update on scripts
+2021-07-20T20:32:45.744Z - debug: OData query on scripts
+2021-07-20T20:33:09.911Z - info: Starting rendering request 21 (user: null)
+2021-07-20T20:33:09.912Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: true }
+2021-07-20T20:33:09.913Z - debug: Data item not defined for this template.
+2021-07-20T20:33:09.913Z - debug: Resources not defined for this template.
+2021-07-20T20:33:09.914Z - debug: Executing script Eventos-script using dedicated-process strategy
+2021-07-20T20:33:10.449Z - warn: Rendering request 21 finished with error in 538 ms
+2021-07-20T20:33:10.451Z - warn: Error when processing render request 21 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:22:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-07-20T20:33:10.451Z - warn: Error during processing request at http://localhost:5488/api/report/EventosObras
+2021-07-20T20:33:25.743Z - debug: OData update on scripts
+2021-07-20T20:33:25.778Z - debug: OData query on scripts
+2021-07-20T20:36:51.116Z - info: Starting rendering request 22 (user: null)
+2021-07-20T20:36:51.117Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: true }
+2021-07-20T20:36:51.118Z - debug: Data item not defined for this template.
+2021-07-20T20:36:51.118Z - debug: Resources not defined for this template.
+2021-07-20T20:36:51.119Z - debug: Executing script EventosObra-script using dedicated-process strategy
+2021-07-20T20:36:51.635Z - warn: Rendering request 22 finished with error in 518 ms
+2021-07-20T20:36:51.636Z - warn: Error when processing render request 22 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:22:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-07-20T20:36:51.636Z - warn: Error during processing request at http://localhost:5488/api/report/EventosObras
+2021-07-20T20:37:11.865Z - debug: OData update on scripts
+2021-07-20T20:37:11.921Z - debug: OData query on scripts
+2021-07-20T20:37:14.469Z - info: Starting rendering request 23 (user: null)
+2021-07-20T20:37:14.469Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: true }
+2021-07-20T20:37:14.470Z - debug: Data item not defined for this template.
+2021-07-20T20:37:14.470Z - debug: Resources not defined for this template.
+2021-07-20T20:37:14.471Z - debug: Executing script EventosObra-script using dedicated-process strategy
+2021-07-20T20:37:14.988Z - debug: null
+2021-07-20T20:37:14.990Z - debug: Base url not specified, skipping its injection.
+2021-07-20T20:37:14.994Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-20T20:37:15.294Z - warn: Rendering request 23 finished with error in 826 ms
+2021-07-20T20:37:15.296Z - warn: Error when processing render request 23 Error while executing templating engine. Missing helper: "ArNombre" Error: Missing helper: "ArNombre"
+    at Object.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at Object.wrapper (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\internal\wrapHelper.js:15:19)
+    at eval (eval at createFunctionContext (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:262:23), <anonymous>:15:106)
+    at prog (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:268:12)
+    at execIteration (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:51:19)
+    at Object.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:61:13)
+    at Object.wrapper (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\internal\wrapHelper.js:15:19)
+    at Object.eval [as main] (eval at createFunctionContext (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:262:23), <anonymous>:11:49)
+    at main (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:208:32)
+    at ret (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:212:12)
+2021-07-20T20:37:15.297Z - warn: Error during processing request at http://localhost:5488/api/report/EventosObras
+2021-07-20T20:37:26.058Z - debug: OData update on templates
+2021-07-20T20:37:26.086Z - debug: OData query on templates
+2021-07-20T20:37:27.106Z - info: Starting rendering request 24 (user: null)
+2021-07-20T20:37:27.107Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: true }
+2021-07-20T20:37:27.107Z - debug: Data item not defined for this template.
+2021-07-20T20:37:27.107Z - debug: Resources not defined for this template.
+2021-07-20T20:37:27.108Z - debug: Executing script EventosObra-script using dedicated-process strategy
+2021-07-20T20:37:27.636Z - debug: null
+2021-07-20T20:37:27.637Z - debug: Base url not specified, skipping its injection.
+2021-07-20T20:37:27.639Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-20T20:37:27.859Z - warn: Rendering request 24 finished with error in 753 ms
+2021-07-20T20:37:27.862Z - warn: Error when processing render request 24 Error while executing templating engine. Parse error on line 25:
+...              <td>{{}}</td>           
+-----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'CLOSE' Error: Parse error on line 25:
+...              <td>{{}}</td>           
+-----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'CLOSE'
+    at Parser.parseError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at parseWithoutProcessing (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:33)
+    at HandlebarsEnvironment.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:52:13)
+    at compileInput (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:508:19)
+    at ret (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:517:18)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:33:20
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:469:32)
+    at evaluate-template-engine.js:1:64
+    at Script.runInContext (vm.js:143:18)
+2021-07-20T20:37:27.862Z - warn: Error during processing request at http://localhost:5488/api/report/EventosObras
+2021-07-20T20:37:32.335Z - debug: OData update on templates
+2021-07-20T20:37:32.365Z - debug: OData query on templates
+2021-07-20T20:37:32.879Z - info: Starting rendering request 25 (user: null)
+2021-07-20T20:37:32.880Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: true }
+2021-07-20T20:37:32.881Z - debug: Data item not defined for this template.
+2021-07-20T20:37:32.881Z - debug: Resources not defined for this template.
+2021-07-20T20:37:32.882Z - debug: Executing script EventosObra-script using dedicated-process strategy
+2021-07-20T20:37:33.428Z - debug: null
+2021-07-20T20:37:33.429Z - debug: Base url not specified, skipping its injection.
+2021-07-20T20:37:33.430Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-20T20:37:33.654Z - debug: Compiled template not found in the cache, compiling
+2021-07-20T20:37:33.655Z - debug: Executing recipe html
+2021-07-20T20:37:33.656Z - debug: Skipping storing report.
+2021-07-20T20:37:33.657Z - info: Rendering request 25 finished in 779 ms
+2021-07-20T20:37:45.534Z - debug: OData update on templates
+2021-07-20T20:37:45.560Z - debug: OData query on templates
+2021-07-20T20:37:46.210Z - info: Starting rendering request 26 (user: null)
+2021-07-20T20:37:46.211Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: true }
+2021-07-20T20:37:46.212Z - debug: Data item not defined for this template.
+2021-07-20T20:37:46.212Z - debug: Resources not defined for this template.
+2021-07-20T20:37:46.213Z - debug: Executing script EventosObra-script using dedicated-process strategy
+2021-07-20T20:37:46.707Z - debug: null
+2021-07-20T20:37:46.708Z - debug: Base url not specified, skipping its injection.
+2021-07-20T20:37:46.709Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-20T20:37:46.927Z - debug: Compiled template not found in the cache, compiling
+2021-07-20T20:37:46.928Z - debug: Executing recipe html
+2021-07-20T20:37:46.929Z - debug: Skipping storing report.
+2021-07-20T20:37:46.929Z - info: Rendering request 26 finished in 719 ms
+2021-07-20T20:37:57.168Z - debug: OData update on templates
+2021-07-20T20:37:57.194Z - debug: OData query on templates
+2021-07-20T20:37:57.849Z - info: Starting rendering request 27 (user: null)
+2021-07-20T20:37:57.850Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: true }
+2021-07-20T20:37:57.850Z - debug: Data item not defined for this template.
+2021-07-20T20:37:57.851Z - debug: Resources not defined for this template.
+2021-07-20T20:37:57.851Z - debug: Executing script EventosObra-script using dedicated-process strategy
+2021-07-20T20:37:58.362Z - debug: null
+2021-07-20T20:37:58.363Z - debug: Base url not specified, skipping its injection.
+2021-07-20T20:37:58.365Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-20T20:37:58.591Z - debug: Compiled template not found in the cache, compiling
+2021-07-20T20:37:58.592Z - debug: Executing recipe html
+2021-07-20T20:37:58.592Z - debug: Skipping storing report.
+2021-07-20T20:37:58.592Z - info: Rendering request 27 finished in 743 ms
+2021-07-20T20:38:03.720Z - info: Starting rendering request 28 (user: null)
+2021-07-20T20:38:03.721Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: false }
+2021-07-20T20:38:03.721Z - debug: Data item not defined for this template.
+2021-07-20T20:38:03.722Z - debug: Resources not defined for this template.
+2021-07-20T20:38:03.723Z - debug: Executing script EventosObra-script using dedicated-process strategy
+2021-07-20T20:38:04.240Z - debug: null
+2021-07-20T20:38:04.241Z - debug: Base url not specified, skipping its injection.
+2021-07-20T20:38:04.243Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-20T20:38:04.453Z - debug: Compiled template not found in the cache, compiling
+2021-07-20T20:38:04.454Z - debug: Executing recipe html
+2021-07-20T20:38:04.454Z - debug: Skipping storing report.
+2021-07-20T20:38:04.455Z - info: Rendering request 28 finished in 735 ms
+2021-07-20T21:14:27.212Z - debug: OData update on scripts
+2021-07-20T21:14:27.240Z - debug: OData query on scripts
+2021-07-20T21:20:31.068Z - info: Starting rendering request 29 (user: null)
+2021-07-20T21:20:31.069Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: false }
+2021-07-20T21:20:31.069Z - debug: Data item not defined for this template.
+2021-07-20T21:20:31.070Z - debug: Resources not defined for this template.
+2021-07-20T21:20:31.070Z - debug: Executing script EventosObra-script using dedicated-process strategy
+2021-07-20T21:20:31.610Z - debug: null
+2021-07-20T21:20:31.611Z - debug: Base url not specified, skipping its injection.
+2021-07-20T21:20:31.612Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-20T21:20:31.664Z - info: Starting rendering request 30 (user: null)
+2021-07-20T21:20:31.665Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: false }
+2021-07-20T21:20:31.665Z - debug: Data item not defined for this template.
+2021-07-20T21:20:31.666Z - debug: Resources not defined for this template.
+2021-07-20T21:20:31.666Z - debug: Executing script EventosObra-script using dedicated-process strategy
+2021-07-20T21:20:31.844Z - debug: Compiled template not found in the cache, compiling
+2021-07-20T21:20:31.845Z - debug: Executing recipe html
+2021-07-20T21:20:31.846Z - debug: Skipping storing report.
+2021-07-20T21:20:31.846Z - info: Rendering request 29 finished in 779 ms
+2021-07-20T21:20:32.209Z - debug: null
+2021-07-20T21:20:32.210Z - debug: Base url not specified, skipping its injection.
+2021-07-20T21:20:32.211Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-20T21:20:32.420Z - debug: Compiled template not found in the cache, compiling
+2021-07-20T21:20:32.420Z - debug: Executing recipe html
+2021-07-20T21:20:32.421Z - debug: Skipping storing report.
+2021-07-20T21:20:32.421Z - info: Rendering request 30 finished in 758 ms
+2021-07-20T21:20:33.252Z - info: Starting rendering request 31 (user: null)
+2021-07-20T21:20:33.253Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: false }
+2021-07-20T21:20:33.254Z - debug: Data item not defined for this template.
+2021-07-20T21:20:33.254Z - debug: Resources not defined for this template.
+2021-07-20T21:20:33.255Z - debug: Executing script EventosObra-script using dedicated-process strategy
+2021-07-20T21:20:33.754Z - debug: null
+2021-07-20T21:20:33.754Z - debug: Base url not specified, skipping its injection.
+2021-07-20T21:20:33.756Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-20T21:20:33.965Z - debug: Compiled template not found in the cache, compiling
+2021-07-20T21:20:33.966Z - debug: Executing recipe html
+2021-07-20T21:20:33.966Z - debug: Skipping storing report.
+2021-07-20T21:20:33.967Z - info: Rendering request 31 finished in 714 ms
+2021-07-20T21:29:20.820Z - info: Starting rendering request 32 (user: null)
+2021-07-20T21:29:20.821Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: false }
+2021-07-20T21:29:20.822Z - debug: Data item not defined for this template.
+2021-07-20T21:29:20.822Z - debug: Resources not defined for this template.
+2021-07-20T21:29:20.823Z - debug: Executing script EventosObra-script using dedicated-process strategy
+2021-07-20T21:29:21.361Z - debug: null
+2021-07-20T21:29:21.362Z - debug: Base url not specified, skipping its injection.
+2021-07-20T21:29:21.364Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-20T21:29:21.570Z - debug: Compiled template not found in the cache, compiling
+2021-07-20T21:29:21.570Z - debug: Executing recipe html
+2021-07-20T21:29:21.571Z - debug: Skipping storing report.
+2021-07-20T21:29:21.571Z - info: Rendering request 32 finished in 751 ms
+2021-07-20T22:13:29.444Z - info: Starting rendering request 33 (user: null)
+2021-07-20T22:13:29.444Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: false }
+2021-07-20T22:13:29.445Z - debug: Inline data specified.
+2021-07-20T22:13:29.445Z - debug: Resources not defined for this template.
+2021-07-20T22:13:29.446Z - debug: Executing script EventosObra-script using dedicated-process strategy
+2021-07-20T22:13:29.985Z - debug: null
+2021-07-20T22:13:29.986Z - debug: Base url not specified, skipping its injection.
+2021-07-20T22:13:29.988Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-20T22:13:30.202Z - debug: Compiled template not found in the cache, compiling
+2021-07-20T22:13:30.203Z - debug: Executing recipe html
+2021-07-20T22:13:30.203Z - debug: Skipping storing report.
+2021-07-20T22:13:30.204Z - info: Rendering request 33 finished in 761 ms
+2021-07-20T22:15:13.803Z - info: Starting rendering request 34 (user: null)
+2021-07-20T22:15:13.804Z - info: Rendering template { name: EventosObras, recipe: html, engine: handlebars, preview: false }
+2021-07-20T22:15:13.805Z - debug: Data item not defined for this template.
+2021-07-20T22:15:13.805Z - debug: Resources not defined for this template.
+2021-07-20T22:15:13.806Z - debug: Executing script EventosObra-script using dedicated-process strategy
+2021-07-20T22:15:14.330Z - debug: null
+2021-07-20T22:15:14.330Z - debug: Base url not specified, skipping its injection.
+2021-07-20T22:15:14.332Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-20T22:15:14.544Z - debug: Compiled template not found in the cache, compiling
+2021-07-20T22:15:14.544Z - debug: Executing recipe html
+2021-07-20T22:15:14.545Z - debug: Skipping storing report.
+2021-07-20T22:15:14.545Z - info: Rendering request 34 finished in 742 ms
