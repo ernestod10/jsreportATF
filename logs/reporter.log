@@ -11374,3 +11374,74 @@ Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 
 2021-07-30T01:57:08.728Z - info: Creating default express app.
 2021-07-30T01:57:08.763Z - info: jsreport server successfully started on http port: 5488
 2021-07-30T01:57:08.765Z - info: Verifying license key free
+2021-07-30T01:57:11.777Z - info: The licensing server was not reachable during instance startup. The instance now runs in the enterprise mode.
+2021-07-30T01:57:20.005Z - error: Error occured during reporter init Error: getaddrinfo ENOTFOUND jsreportonline.net
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+2021-07-30T01:57:37.377Z - info: Initializing jsreport@2.9.0 in development mode using configuration file: jsreport.config.json
+2021-07-30T01:57:37.379Z - info: Searching for available extensions in C:\Users\Personal\Documents\GitHub\jsreportATF\
+2021-07-30T01:57:37.390Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Personal\Documents\GitHub\jsreportATF\
+2021-07-30T01:57:37.476Z - info: Found 35 extensions
+2021-07-30T01:57:37.659Z - debug: Writing extension locations cache to C:\Users\Personal\AppData\Local\Temp\jsreport\core\locations.json
+2021-07-30T01:57:37.661Z - debug: Discovered 35 extensions
+2021-07-30T01:57:37.726Z - info: Setting dedicated-process (process based) strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2021-07-30T01:57:37.733Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2021-07-30T01:57:37.734Z - info: Using extension cli@2.2.4
+2021-07-30T01:57:37.742Z - info: Using extension debug@2.1.3
+2021-07-30T01:57:37.746Z - info: Using extension express@2.7.0
+2021-07-30T01:57:37.925Z - info: Using extension freeze@2.0.0
+2021-07-30T01:57:37.927Z - info: Using extension handlebars@2.1.0
+2021-07-30T01:57:37.930Z - info: Using extension import-export@2.0.0
+2021-07-30T01:57:37.994Z - info: Using extension jsrender@2.1.1
+2021-07-30T01:57:37.996Z - info: Using extension tags@2.4.0
+2021-07-30T01:57:37.999Z - info: Using extension templates@2.4.0
+2021-07-30T01:57:38.003Z - info: Using extension authorization@2.4.0
+2021-07-30T01:57:38.010Z - debug: Extension authorization@2.4.0 was disabled
+2021-07-30T01:57:38.011Z - info: Using extension base@2.0.2
+2021-07-30T01:57:38.013Z - info: Using extension browser-client@2.2.2
+2021-07-30T01:57:38.018Z - info: Using extension child-templates@1.4.0
+2021-07-30T01:57:38.025Z - info: Using extension chrome-pdf@1.8.0
+2021-07-30T01:57:38.110Z - debug: Chrome strategy is dedicated-process
+2021-07-30T01:57:38.111Z - info: Using extension data@2.3.0
+2021-07-30T01:57:38.112Z - info: Using extension docx@2.7.0
+2021-07-30T01:57:38.117Z - info: Using extension fs-store@2.8.0
+2021-07-30T01:57:38.271Z - info: Using extension licensing@2.2.2
+2021-07-30T01:57:38.282Z - info: Using extension pdf-utils@1.8.0
+2021-07-30T01:57:38.368Z - info: Using extension pptx@0.7.0
+2021-07-30T01:57:38.372Z - info: Using extension reports@2.4.0
+2021-07-30T01:57:38.381Z - info: Using extension static-pdf@0.4.0
+2021-07-30T01:57:38.391Z - info: Using extension studio@2.9.0
+2021-07-30T01:57:38.465Z - debug: studio request logs are enabled (flush interval: 2000)
+2021-07-30T01:57:38.467Z - info: Using extension text@2.0.0
+2021-07-30T01:57:38.470Z - info: Using extension version-control@1.5.0
+2021-07-30T01:57:38.566Z - info: Using extension assets@1.6.0
+2021-07-30T01:57:38.585Z - info: Using extension html-to-xlsx@2.7.0
+2021-07-30T01:57:39.186Z - info: html-to-xlsx detected chrome as available html engine
+2021-07-30T01:57:39.187Z - info: Using extension scheduling@2.4.0
+2021-07-30T01:57:39.255Z - info: Using extension scripts@2.5.0
+2021-07-30T01:57:39.280Z - info: Using extension studio-theme-dark@0.3.0
+2021-07-30T01:57:39.295Z - info: Using extension xlsx@2.4.0
+2021-07-30T01:57:39.631Z - info: Using extension public-templates@2.1.0
+2021-07-30T01:57:39.642Z - debug: Extension public-templates@2.1.0 was disabled
+2021-07-30T01:57:39.664Z - info: Using extension resources@2.1.0
+2021-07-30T01:57:39.698Z - info: Using extension sample-template@2.5.1
+2021-07-30T01:57:39.716Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2021-07-30T01:57:39.726Z - info: Using fs provider for template store.
+2021-07-30T01:57:39.742Z - info: fs store is persisting using fs
+2021-07-30T01:57:39.746Z - info: fs store sync is disabled
+2021-07-30T01:57:39.758Z - info: fs store underlying changes synchronization with studio is disabled
+2021-07-30T01:57:39.767Z - info: fs store is loading data
+2021-07-30T01:57:39.893Z - info: fs store is initialized successfully
+2021-07-30T01:57:39.907Z - debug: studio default theme is: light
+2021-07-30T01:57:39.921Z - info: Creating default express app.
+2021-07-30T01:57:39.978Z - info: jsreport server successfully started on http port: 5488
+2021-07-30T01:57:39.988Z - info: Verifying license key free
+2021-07-30T01:57:43.010Z - info: The licensing server was not reachable during instance startup. The instance now runs in the enterprise mode.
+2021-07-30T01:58:01.548Z - error: Error occured during reporter init Error: connect ETIMEDOUT 176.34.142.56:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2021-07-30T01:58:11.533Z - info: Initializing jsreport@2.9.0 in development mode using configuration file: jsreport.config.json
+2021-07-30T01:58:11.550Z - info: Searching for available extensions in C:\Users\Personal\Documents\GitHub\jsreportATF\
+2021-07-30T01:58:11.582Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Personal\Documents\GitHub\jsreportATF\
+2021-07-30T01:58:11.696Z - info: Found 35 extensions
+2021-07-30T01:58:11.994Z - debug: Writing extension locations cache to C:\Users\Personal\AppData\Local\Temp\jsreport\core\locations.json
+2021-07-30T01:58:12.001Z - debug: Discovered 35 extensions
+2021-07-30T01:58:12.096Z - info: Setting dedicated-process (process based) strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
