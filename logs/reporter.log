@@ -11445,3 +11445,411 @@ Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 
 2021-07-30T01:58:11.994Z - debug: Writing extension locations cache to C:\Users\Personal\AppData\Local\Temp\jsreport\core\locations.json
 2021-07-30T01:58:12.001Z - debug: Discovered 35 extensions
 2021-07-30T01:58:12.096Z - info: Setting dedicated-process (process based) strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2021-07-30T01:58:12.107Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2021-07-30T01:58:12.110Z - info: Using extension cli@2.2.4
+2021-07-30T01:58:12.124Z - info: Using extension debug@2.1.3
+2021-07-30T01:58:12.135Z - info: Using extension express@2.7.0
+2021-07-30T01:58:12.314Z - info: Using extension freeze@2.0.0
+2021-07-30T01:58:12.316Z - info: Using extension handlebars@2.1.0
+2021-07-30T01:58:12.319Z - info: Using extension import-export@2.0.0
+2021-07-30T01:58:12.398Z - info: Using extension jsrender@2.1.1
+2021-07-30T01:58:12.405Z - info: Using extension tags@2.4.0
+2021-07-30T01:58:12.408Z - info: Using extension templates@2.4.0
+2021-07-30T01:58:12.415Z - info: Using extension authorization@2.4.0
+2021-07-30T01:58:12.423Z - debug: Extension authorization@2.4.0 was disabled
+2021-07-30T01:58:12.424Z - info: Using extension base@2.0.2
+2021-07-30T01:58:12.428Z - info: Using extension browser-client@2.2.2
+2021-07-30T01:58:12.446Z - info: Using extension child-templates@1.4.0
+2021-07-30T01:58:12.474Z - info: Using extension chrome-pdf@1.8.0
+2021-07-30T01:58:12.631Z - debug: Chrome strategy is dedicated-process
+2021-07-30T01:58:12.632Z - info: Using extension data@2.3.0
+2021-07-30T01:58:12.636Z - info: Using extension docx@2.7.0
+2021-07-30T01:58:12.657Z - info: Using extension fs-store@2.8.0
+2021-07-30T01:58:12.875Z - info: Using extension licensing@2.2.2
+2021-07-30T01:58:12.891Z - info: Using extension pdf-utils@1.8.0
+2021-07-30T01:58:13.006Z - info: Using extension pptx@0.7.0
+2021-07-30T01:58:13.017Z - info: Using extension reports@2.4.0
+2021-07-30T01:58:13.031Z - info: Using extension static-pdf@0.4.0
+2021-07-30T01:58:13.044Z - info: Using extension studio@2.9.0
+2021-07-30T01:58:13.133Z - debug: studio request logs are enabled (flush interval: 2000)
+2021-07-30T01:58:13.136Z - info: Using extension text@2.0.0
+2021-07-30T01:58:13.138Z - info: Using extension version-control@1.5.0
+2021-07-30T01:58:13.255Z - info: Using extension assets@1.6.0
+2021-07-30T01:58:13.272Z - info: Using extension html-to-xlsx@2.7.0
+2021-07-30T01:58:13.871Z - info: html-to-xlsx detected chrome as available html engine
+2021-07-30T01:58:13.874Z - info: Using extension scheduling@2.4.0
+2021-07-30T01:58:13.932Z - info: Using extension scripts@2.5.0
+2021-07-30T01:58:13.948Z - info: Using extension studio-theme-dark@0.3.0
+2021-07-30T01:58:13.990Z - info: Using extension xlsx@2.4.0
+2021-07-30T01:58:14.298Z - info: Using extension public-templates@2.1.0
+2021-07-30T01:58:14.305Z - debug: Extension public-templates@2.1.0 was disabled
+2021-07-30T01:58:14.308Z - info: Using extension resources@2.1.0
+2021-07-30T01:58:14.320Z - info: Using extension sample-template@2.5.1
+2021-07-30T01:58:14.330Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2021-07-30T01:58:14.341Z - info: Using fs provider for template store.
+2021-07-30T01:58:14.356Z - info: fs store is persisting using fs
+2021-07-30T01:58:14.366Z - info: fs store sync is disabled
+2021-07-30T01:58:14.375Z - info: fs store underlying changes synchronization with studio is disabled
+2021-07-30T01:58:14.406Z - info: fs store is loading data
+2021-07-30T01:58:14.513Z - info: fs store is initialized successfully
+2021-07-30T01:58:14.539Z - debug: studio default theme is: light
+2021-07-30T01:58:14.566Z - info: Creating default express app.
+2021-07-30T01:58:14.596Z - info: jsreport server successfully started on http port: 5488
+2021-07-30T01:58:14.600Z - info: Verifying license key free
+2021-07-30T01:58:17.606Z - info: The licensing server was not reachable during instance startup. The instance now runs in the enterprise mode.
+2021-07-30T01:58:35.699Z - error: Error occured during reporter init Error: connect ETIMEDOUT 176.34.142.56:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2021-07-30T01:59:14.836Z - info: Initializing jsreport@2.9.0 in development mode using configuration file: jsreport.config.json
+2021-07-30T01:59:14.839Z - info: Searching for available extensions in C:\Users\Personal\Documents\GitHub\jsreportATF\
+2021-07-30T01:59:14.846Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Personal\Documents\GitHub\jsreportATF\
+2021-07-30T01:59:14.939Z - info: Found 35 extensions
+2021-07-30T01:59:15.125Z - debug: Writing extension locations cache to C:\Users\Personal\AppData\Local\Temp\jsreport\core\locations.json
+2021-07-30T01:59:15.126Z - debug: Discovered 35 extensions
+2021-07-30T01:59:15.196Z - info: Setting dedicated-process (process based) strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2021-07-30T01:59:15.205Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2021-07-30T01:59:15.205Z - info: Using extension cli@2.2.4
+2021-07-30T01:59:15.214Z - info: Using extension debug@2.1.3
+2021-07-30T01:59:15.220Z - info: Using extension express@2.7.0
+2021-07-30T01:59:15.389Z - info: Using extension freeze@2.0.0
+2021-07-30T01:59:15.391Z - info: Using extension handlebars@2.1.0
+2021-07-30T01:59:15.394Z - info: Using extension import-export@2.0.0
+2021-07-30T01:59:15.460Z - info: Using extension jsrender@2.1.1
+2021-07-30T01:59:15.462Z - info: Using extension tags@2.4.0
+2021-07-30T01:59:15.466Z - info: Using extension templates@2.4.0
+2021-07-30T01:59:15.469Z - info: Using extension authorization@2.4.0
+2021-07-30T01:59:15.475Z - debug: Extension authorization@2.4.0 was disabled
+2021-07-30T01:59:15.475Z - info: Using extension base@2.0.2
+2021-07-30T01:59:15.478Z - info: Using extension browser-client@2.2.2
+2021-07-30T01:59:15.481Z - info: Using extension child-templates@1.4.0
+2021-07-30T01:59:15.488Z - info: Using extension chrome-pdf@1.8.0
+2021-07-30T01:59:15.570Z - debug: Chrome strategy is dedicated-process
+2021-07-30T01:59:15.571Z - info: Using extension data@2.3.0
+2021-07-30T01:59:15.573Z - info: Using extension docx@2.7.0
+2021-07-30T01:59:15.577Z - info: Using extension fs-store@2.8.0
+2021-07-30T01:59:15.738Z - info: Using extension licensing@2.2.2
+2021-07-30T01:59:15.751Z - info: Using extension pdf-utils@1.8.0
+2021-07-30T01:59:15.840Z - info: Using extension pptx@0.7.0
+2021-07-30T01:59:15.845Z - info: Using extension reports@2.4.0
+2021-07-30T01:59:15.856Z - info: Using extension static-pdf@0.4.0
+2021-07-30T01:59:15.859Z - info: Using extension studio@2.9.0
+2021-07-30T01:59:15.937Z - debug: studio request logs are enabled (flush interval: 2000)
+2021-07-30T01:59:15.940Z - info: Using extension text@2.0.0
+2021-07-30T01:59:15.942Z - info: Using extension version-control@1.5.0
+2021-07-30T01:59:16.032Z - info: Using extension assets@1.6.0
+2021-07-30T01:59:16.046Z - info: Using extension html-to-xlsx@2.7.0
+2021-07-30T01:59:16.393Z - info: html-to-xlsx detected chrome as available html engine
+2021-07-30T01:59:16.394Z - info: Using extension scheduling@2.4.0
+2021-07-30T01:59:16.432Z - info: Using extension scripts@2.5.0
+2021-07-30T01:59:16.439Z - info: Using extension studio-theme-dark@0.3.0
+2021-07-30T01:59:16.440Z - info: Using extension xlsx@2.4.0
+2021-07-30T01:59:16.603Z - info: Using extension public-templates@2.1.0
+2021-07-30T01:59:16.604Z - debug: Extension public-templates@2.1.0 was disabled
+2021-07-30T01:59:16.605Z - info: Using extension resources@2.1.0
+2021-07-30T01:59:16.606Z - info: Using extension sample-template@2.5.1
+2021-07-30T01:59:16.609Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2021-07-30T01:59:16.609Z - info: Using fs provider for template store.
+2021-07-30T01:59:16.616Z - info: fs store is persisting using fs
+2021-07-30T01:59:16.619Z - info: fs store sync is disabled
+2021-07-30T01:59:16.620Z - info: fs store underlying changes synchronization with studio is disabled
+2021-07-30T01:59:16.626Z - info: fs store is loading data
+2021-07-30T01:59:16.676Z - info: fs store is initialized successfully
+2021-07-30T01:59:16.686Z - debug: studio default theme is: light
+2021-07-30T01:59:16.699Z - info: Creating default express app.
+2021-07-30T01:59:16.723Z - info: jsreport server successfully started on http port: 5488
+2021-07-30T01:59:16.726Z - info: Verifying license key free
+2021-07-30T01:59:18.382Z - info: Using enterprise trial license
+2021-07-30T01:59:18.389Z - info: reporter initialized
+2021-07-30T02:25:28.442Z - debug: OData query on templates
+2021-07-30T02:25:28.450Z - debug: OData query on folders
+2021-07-30T02:25:28.459Z - debug: OData query on tags
+2021-07-30T02:25:28.461Z - debug: OData query on data
+2021-07-30T02:25:28.463Z - debug: OData query on assets
+2021-07-30T02:25:28.465Z - debug: OData query on scripts
+2021-07-30T02:25:28.473Z - debug: OData query on xlsxTemplates
+2021-07-30T02:25:28.483Z - debug: OData query on schedules
+2021-07-30T02:25:28.496Z - debug: OData query on settings
+2021-07-30T02:25:28.724Z - debug: OData query on templates
+2021-07-30T02:25:28.852Z - debug: OData query on settings
+2021-07-30T02:25:38.866Z - debug: OData insert into folders
+2021-07-30T02:25:57.035Z - debug: OData insert into folders
+2021-07-30T02:26:23.342Z - debug: OData query on assets
+2021-07-30T03:40:05.361Z - debug: OData query on templates
+2021-07-30T03:52:09.612Z - debug: OData insert into folders
+2021-07-30T03:52:21.567Z - debug: OData insert into templates
+2021-07-30T03:52:22.241Z - info: Starting rendering request 1 (user: null)
+2021-07-30T03:52:22.251Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-07-30T03:52:22.252Z - debug: Data item not defined for this template.
+2021-07-30T03:52:22.253Z - debug: Resources not defined for this template.
+2021-07-30T03:52:22.256Z - debug: Base url not specified, skipping its injection.
+2021-07-30T03:52:22.259Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-30T03:52:22.560Z - debug: Compiled template not found in the cache, compiling
+2021-07-30T03:52:22.562Z - debug: Executing recipe chrome-pdf
+2021-07-30T03:52:23.671Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-07-30T03:52:24.592Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/05a0c281-b403-472b-89ad-373d50e1d10d-chrome-pdf.html
+2021-07-30T03:52:24.615Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/05a0c281-b403-472b-89ad-373d50e1d10d-chrome-pdf.html
+2021-07-30T03:52:24.637Z - debug: Page request: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png
+2021-07-30T03:52:24.638Z - warn: Page request failed: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png, failure: net::ERR_FILE_NOT_FOUND
+2021-07-30T03:52:24.639Z - debug: Failed to load resource: net::ERR_FILE_NOT_FOUND
+2021-07-30T03:52:24.721Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-07-30T03:52:25.132Z - debug: Skipping storing report.
+2021-07-30T03:52:25.133Z - info: Rendering request 1 finished in 2892 ms
+2021-07-30T03:53:08.039Z - debug: OData query on assets
+2021-07-30T03:53:14.007Z - debug: OData update on assets
+2021-07-30T03:53:14.027Z - debug: OData query on assets
+2021-07-30T03:53:14.918Z - debug: OData query on templates
+2021-07-30T03:53:28.956Z - debug: OData update on templates
+2021-07-30T03:53:28.973Z - debug: OData query on templates
+2021-07-30T03:53:31.706Z - info: Starting rendering request 2 (user: null)
+2021-07-30T03:53:31.706Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-07-30T03:53:31.707Z - debug: Data item not defined for this template.
+2021-07-30T03:53:31.708Z - debug: Resources not defined for this template.
+2021-07-30T03:53:31.708Z - debug: Base url not specified, skipping its injection.
+2021-07-30T03:53:31.709Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-30T03:53:31.921Z - debug: Compiled template not found in the cache, compiling
+2021-07-30T03:53:31.922Z - debug: Executing recipe chrome-pdf
+2021-07-30T03:53:32.847Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-07-30T03:53:32.939Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/172669d2-d7a2-4332-85cc-628fca8de50e-chrome-pdf.html
+2021-07-30T03:53:32.955Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/172669d2-d7a2-4332-85cc-628fca8de50e-chrome-pdf.html
+2021-07-30T03:53:32.959Z - debug: Page request: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png
+2021-07-30T03:53:32.959Z - warn: Page request failed: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png, failure: net::ERR_FILE_NOT_FOUND
+2021-07-30T03:53:32.960Z - debug: Failed to load resource: net::ERR_FILE_NOT_FOUND
+2021-07-30T03:53:32.990Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-07-30T03:53:33.329Z - debug: Skipping storing report.
+2021-07-30T03:53:33.329Z - info: Rendering request 2 finished in 1624 ms
+2021-07-30T03:53:51.321Z - debug: OData update on assets
+2021-07-30T03:53:51.341Z - debug: OData query on assets
+2021-07-30T03:54:34.578Z - debug: OData update on templates
+2021-07-30T03:54:34.597Z - debug: OData query on templates
+2021-07-30T03:54:40.262Z - debug: OData update on templates
+2021-07-30T03:54:40.286Z - debug: OData query on templates
+2021-07-30T03:54:41.466Z - info: Starting rendering request 3 (user: null)
+2021-07-30T03:54:41.467Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-07-30T03:54:41.468Z - debug: Data item not defined for this template.
+2021-07-30T03:54:41.468Z - debug: Resources not defined for this template.
+2021-07-30T03:54:41.468Z - debug: Base url not specified, skipping its injection.
+2021-07-30T03:54:41.472Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-07-30T03:54:41.472Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-30T03:54:41.679Z - debug: Compiled template not found in the cache, compiling
+2021-07-30T03:54:41.681Z - debug: Executing recipe chrome-pdf
+2021-07-30T03:54:42.009Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-07-30T03:54:42.114Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/3b23bf17-0852-47cd-8a7e-fd82488ea34b-chrome-pdf.html
+2021-07-30T03:54:42.132Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/3b23bf17-0852-47cd-8a7e-fd82488ea34b-chrome-pdf.html
+2021-07-30T03:54:42.176Z - debug: Page request: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png
+2021-07-30T03:54:42.177Z - warn: Page request failed: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png, failure: net::ERR_FILE_NOT_FOUND
+2021-07-30T03:54:42.177Z - debug: Failed to load resource: net::ERR_FILE_NOT_FOUND
+2021-07-30T03:54:42.216Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-07-30T03:54:42.575Z - debug: Skipping storing report.
+2021-07-30T03:54:42.576Z - info: Rendering request 3 finished in 1109 ms
+2021-07-30T03:55:10.636Z - error: Error during processing request at http://localhost:5488/api/validate-import?fullImport=false&targetFolder=n8u7Oyu, details: Error: end of central directory record signature not found
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\yauzl\index.js:187:14
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\yauzl\index.js:631:5
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\fd-slicer\index.js:32:7
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:539:5)
+2021-07-30T03:55:32.819Z - debug: OData update on templates
+2021-07-30T03:55:32.838Z - debug: OData query on templates
+2021-07-30T03:56:13.292Z - debug: OData query on templates
+2021-07-30T03:56:13.297Z - debug: OData query on folders
+2021-07-30T03:56:13.304Z - debug: OData query on tags
+2021-07-30T03:56:13.305Z - debug: OData query on data
+2021-07-30T03:56:13.306Z - debug: OData query on assets
+2021-07-30T03:56:13.308Z - debug: OData query on scripts
+2021-07-30T03:56:13.314Z - debug: OData query on xlsxTemplates
+2021-07-30T03:56:13.318Z - debug: OData query on schedules
+2021-07-30T03:56:13.328Z - debug: OData query on settings
+2021-07-30T03:56:13.439Z - debug: OData query on templates
+2021-07-30T03:56:17.200Z - info: Starting rendering request 4 (user: null)
+2021-07-30T03:56:17.202Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-07-30T03:56:17.203Z - debug: Data item not defined for this template.
+2021-07-30T03:56:17.203Z - debug: Resources not defined for this template.
+2021-07-30T03:56:17.204Z - debug: Base url not specified, skipping its injection.
+2021-07-30T03:56:17.207Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-07-30T03:56:17.207Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-30T03:56:17.422Z - debug: Compiled template not found in the cache, compiling
+2021-07-30T03:56:17.423Z - debug: Executing recipe chrome-pdf
+2021-07-30T03:56:17.839Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-07-30T03:56:17.937Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/1bf41a1b-8523-4100-b21b-71823f4b0a5b-chrome-pdf.html
+2021-07-30T03:56:17.955Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/1bf41a1b-8523-4100-b21b-71823f4b0a5b-chrome-pdf.html
+2021-07-30T03:56:17.962Z - debug: Page request: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png
+2021-07-30T03:56:17.963Z - warn: Page request failed: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png, failure: net::ERR_FILE_NOT_FOUND
+2021-07-30T03:56:17.963Z - debug: Failed to load resource: net::ERR_FILE_NOT_FOUND
+2021-07-30T03:56:18.012Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-07-30T03:56:18.264Z - debug: Skipping storing report.
+2021-07-30T03:56:18.265Z - info: Rendering request 4 finished in 1065 ms
+2021-07-30T03:56:40.003Z - debug: OData query on folders
+2021-07-30T03:56:48.111Z - error: Error during processing request at http://localhost:5488/api/validate-import?fullImport=false&targetFolder=n8u7Oyu, details: Error: end of central directory record signature not found
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\yauzl\index.js:187:14
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\yauzl\index.js:631:5
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\fd-slicer\index.js:32:7
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:539:5)
+2021-07-30T03:56:56.486Z - debug: OData query on scripts
+2021-07-30T03:56:57.398Z - debug: OData query on templates
+2021-07-30T03:58:16.470Z - debug: OData update on templates
+2021-07-30T03:58:16.498Z - debug: OData query on templates
+2021-07-30T03:58:17.377Z - info: Starting rendering request 5 (user: null)
+2021-07-30T03:58:17.379Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-07-30T03:58:17.379Z - debug: Data item not defined for this template.
+2021-07-30T03:58:17.380Z - debug: Resources not defined for this template.
+2021-07-30T03:58:17.380Z - debug: Base url not specified, skipping its injection.
+2021-07-30T03:58:17.383Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-07-30T03:58:17.383Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-30T03:58:17.610Z - debug: Compiled template not found in the cache, compiling
+2021-07-30T03:58:17.612Z - debug: Executing recipe chrome-pdf
+2021-07-30T03:58:17.903Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-07-30T03:58:17.993Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/c005eb58-9b38-4918-a9ea-985705b5266c-chrome-pdf.html
+2021-07-30T03:58:18.009Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/c005eb58-9b38-4918-a9ea-985705b5266c-chrome-pdf.html
+2021-07-30T03:58:18.015Z - debug: Page request: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png
+2021-07-30T03:58:18.016Z - warn: Page request failed: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png, failure: net::ERR_FILE_NOT_FOUND
+2021-07-30T03:58:18.016Z - debug: Failed to load resource: net::ERR_FILE_NOT_FOUND
+2021-07-30T03:58:18.065Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-07-30T03:58:18.452Z - debug: Skipping storing report.
+2021-07-30T03:58:18.452Z - info: Rendering request 5 finished in 1076 ms
+2021-07-30T03:58:39.538Z - debug: OData update on templates
+2021-07-30T03:58:39.555Z - debug: OData query on templates
+2021-07-30T03:58:40.686Z - info: Starting rendering request 6 (user: null)
+2021-07-30T03:58:40.687Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-07-30T03:58:40.688Z - debug: Data item not defined for this template.
+2021-07-30T03:58:40.689Z - debug: Resources not defined for this template.
+2021-07-30T03:58:40.689Z - debug: Base url not specified, skipping its injection.
+2021-07-30T03:58:40.692Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-07-30T03:58:40.692Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-30T03:58:40.899Z - debug: Compiled template not found in the cache, compiling
+2021-07-30T03:58:40.901Z - debug: Executing recipe chrome-pdf
+2021-07-30T03:58:41.203Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-07-30T03:58:41.291Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/ac0bfd2d-4775-404a-bd48-b07b348fc815-chrome-pdf.html
+2021-07-30T03:58:41.306Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/ac0bfd2d-4775-404a-bd48-b07b348fc815-chrome-pdf.html
+2021-07-30T03:58:41.311Z - debug: Page request: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png
+2021-07-30T03:58:41.312Z - warn: Page request failed: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png, failure: net::ERR_FILE_NOT_FOUND
+2021-07-30T03:58:41.313Z - debug: Failed to load resource: net::ERR_FILE_NOT_FOUND
+2021-07-30T03:58:41.350Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-07-30T03:58:41.671Z - debug: Skipping storing report.
+2021-07-30T03:58:41.672Z - info: Rendering request 6 finished in 986 ms
+2021-07-30T03:58:56.473Z - debug: OData update on templates
+2021-07-30T03:58:56.510Z - debug: OData query on templates
+2021-07-30T03:58:57.311Z - info: Starting rendering request 7 (user: null)
+2021-07-30T03:58:57.313Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-07-30T03:58:57.314Z - debug: Data item not defined for this template.
+2021-07-30T03:58:57.314Z - debug: Resources not defined for this template.
+2021-07-30T03:58:57.315Z - debug: Base url not specified, skipping its injection.
+2021-07-30T03:58:57.317Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-07-30T03:58:57.317Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-30T03:58:57.609Z - debug: Compiled template not found in the cache, compiling
+2021-07-30T03:58:57.610Z - debug: Executing recipe chrome-pdf
+2021-07-30T03:58:57.879Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-07-30T03:58:57.970Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/5841f8c9-a257-4682-9001-71b881484107-chrome-pdf.html
+2021-07-30T03:58:57.988Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/5841f8c9-a257-4682-9001-71b881484107-chrome-pdf.html
+2021-07-30T03:58:57.994Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-07-30T03:59:09.707Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-07-30T03:59:09.711Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-07-30T03:59:10.044Z - debug: Skipping storing report.
+2021-07-30T03:59:10.045Z - info: Rendering request 7 finished in 12734 ms
+2021-07-30T04:33:50.463Z - debug: OData update on scripts
+2021-07-30T04:33:50.508Z - debug: OData query on scripts
+2021-07-30T04:33:58.430Z - debug: OData query on scripts
+2021-07-30T04:49:57.723Z - debug: OData update on scripts
+2021-07-30T04:49:57.750Z - debug: OData query on scripts
+2021-07-30T16:37:13.899Z - debug: OData update on scripts
+2021-07-30T16:37:13.937Z - debug: OData query on scripts
+2021-07-30T16:37:26.477Z - debug: OData query on templates
+2021-07-30T16:37:26.483Z - debug: OData query on folders
+2021-07-30T16:37:26.491Z - debug: OData query on tags
+2021-07-30T16:37:26.495Z - debug: OData query on data
+2021-07-30T16:37:26.496Z - debug: OData query on assets
+2021-07-30T16:37:26.499Z - debug: OData query on scripts
+2021-07-30T16:37:26.501Z - debug: OData query on xlsxTemplates
+2021-07-30T16:37:26.502Z - debug: OData query on schedules
+2021-07-30T16:37:26.518Z - debug: OData query on settings
+2021-07-30T16:37:26.698Z - debug: OData query on scripts
+2021-07-30T17:47:27.295Z - debug: OData update on scripts
+2021-07-30T17:47:27.348Z - debug: OData query on scripts
+2021-07-30T17:54:22.572Z - debug: OData query on templates
+2021-07-30T17:54:22.576Z - debug: OData query on folders
+2021-07-30T17:54:22.583Z - debug: OData query on tags
+2021-07-30T17:54:22.585Z - debug: OData query on data
+2021-07-30T17:54:22.587Z - debug: OData query on assets
+2021-07-30T17:54:22.590Z - debug: OData query on scripts
+2021-07-30T17:54:22.592Z - debug: OData query on xlsxTemplates
+2021-07-30T17:54:22.599Z - debug: OData query on schedules
+2021-07-30T17:54:22.608Z - debug: OData query on settings
+2021-07-30T17:54:22.737Z - debug: OData query on scripts
+2021-07-30T17:54:44.666Z - debug: OData update on scripts
+2021-07-30T17:54:44.682Z - debug: OData query on scripts
+2021-07-30T17:56:14.266Z - debug: OData update on scripts
+2021-07-30T17:56:14.283Z - debug: OData query on scripts
+2021-07-30T17:57:27.024Z - debug: OData update on scripts
+2021-07-30T17:57:27.042Z - debug: OData query on scripts
+2021-07-30T17:57:31.468Z - debug: OData update on scripts
+2021-07-30T17:57:31.484Z - debug: OData query on scripts
+2021-07-30T18:06:43.415Z - debug: OData update on scripts
+2021-07-30T18:06:43.437Z - debug: OData query on scripts
+2021-07-31T00:01:12.094Z - info: Starting rendering request 8 (user: null)
+2021-07-31T00:01:12.113Z - warn: Rendering request 8 finished with error in 6 ms
+2021-07-31T00:01:12.120Z - warn: Error when processing render request 8 Unable to find specified template or user doesnt have permissions to read it: EventosT Error: Unable to find specified template or user doesnt have permissions to read it: EventosT
+    at module.exports (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-core\lib\reporter.js:332:12)
+    at AsyncFunction.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-templates\lib\templates.js:134:20)
+2021-07-31T00:01:12.124Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-07-31T00:01:14.568Z - info: Starting rendering request 9 (user: null)
+2021-07-31T00:01:14.569Z - warn: Rendering request 9 finished with error in 1 ms
+2021-07-31T00:01:14.570Z - warn: Error when processing render request 9 Unable to find specified template or user doesnt have permissions to read it: EventosT Error: Unable to find specified template or user doesnt have permissions to read it: EventosT
+    at module.exports (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-core\lib\reporter.js:332:12)
+    at AsyncFunction.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-templates\lib\templates.js:134:20)
+2021-07-31T00:01:14.572Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-07-31T00:01:17.961Z - info: Starting rendering request 10 (user: null)
+2021-07-31T00:01:17.962Z - warn: Rendering request 10 finished with error in 1 ms
+2021-07-31T00:01:17.963Z - warn: Error when processing render request 10 Unable to find specified template or user doesnt have permissions to read it: EventosT Error: Unable to find specified template or user doesnt have permissions to read it: EventosT
+    at module.exports (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-core\lib\reporter.js:332:12)
+    at AsyncFunction.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-templates\lib\templates.js:134:20)
+2021-07-31T00:01:17.964Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-07-31T02:06:01.764Z - debug: OData query on templates
+2021-07-31T02:06:01.770Z - debug: OData query on folders
+2021-07-31T02:06:01.778Z - debug: OData query on tags
+2021-07-31T02:06:01.780Z - debug: OData query on data
+2021-07-31T02:06:01.782Z - debug: OData query on assets
+2021-07-31T02:06:01.786Z - debug: OData query on xlsxTemplates
+2021-07-31T02:06:01.788Z - debug: OData query on scripts
+2021-07-31T02:06:01.798Z - debug: OData query on schedules
+2021-07-31T02:06:01.815Z - debug: OData query on settings
+2021-07-31T02:06:02.028Z - debug: OData query on scripts
+2021-07-31T06:25:43.760Z - debug: OData remove from folders
+2021-07-31T06:25:46.881Z - debug: OData remove from folders
+2021-07-31T06:25:51.097Z - debug: OData remove from folders
+2021-07-31T06:26:01.882Z - debug: OData remove from folders
+2021-07-31T06:26:03.969Z - debug: OData remove from folders
+2021-07-31T06:26:06.041Z - debug: OData remove from folders
+2021-07-31T06:26:08.908Z - debug: OData query on templates
+2021-07-31T06:26:10.518Z - info: Starting rendering request 11 (user: null)
+2021-07-31T06:26:10.519Z - info: Rendering template { name: factura, recipe: html, engine: handlebars, preview: true }
+2021-07-31T06:26:10.520Z - debug: Data item not defined for this template.
+2021-07-31T06:26:10.520Z - debug: Resources not defined for this template.
+2021-07-31T06:26:10.537Z - debug: Base url not specified, skipping its injection.
+2021-07-31T06:26:10.565Z - debug: Replaced assets ["invoice-styles.css"]
+2021-07-31T06:26:10.566Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-07-31T06:26:10.925Z - debug: Compiled template not found in the cache, compiling
+2021-07-31T06:26:10.926Z - debug: Executing recipe html
+2021-07-31T06:26:10.926Z - debug: Skipping storing report.
+2021-07-31T06:26:10.927Z - info: Rendering request 11 finished in 409 ms
+2021-07-31T06:26:15.450Z - debug: OData query on scripts
+2021-07-31T06:26:33.101Z - info: Starting rendering request 12 (user: null)
+2021-07-31T06:26:33.102Z - info: Rendering template { name: factura, recipe: html, engine: handlebars, preview: true }
+2021-07-31T06:26:33.103Z - debug: Data item not defined for this template.
+2021-07-31T06:26:33.103Z - debug: Resources not defined for this template.
+2021-07-31T06:26:33.105Z - debug: Executing script Factura-script using dedicated-process strategy
+2021-07-31T06:26:34.264Z - warn: Rendering request 12 finished with error in 1162 ms
+2021-07-31T06:26:34.265Z - warn: Error when processing render request 12 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:22:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-07-31T06:26:34.266Z - warn: Error during processing request at http://localhost:5488/api/report/factura
+2021-07-31T06:26:37.496Z - debug: OData update on templates
+2021-07-31T06:26:37.544Z - debug: OData query on templates
+2021-07-31T06:27:14.772Z - debug: OData update on scripts
+2021-07-31T06:27:14.804Z - debug: OData query on scripts
