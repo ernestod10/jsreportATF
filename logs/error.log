@@ -173,3 +173,13 @@ undefined
 2020-08-12T18:58:40.920Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
 2020-08-12T18:58:42.425Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
 2020-08-12T19:01:41.045Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2021-07-30T03:55:10.636Z - error: Error during processing request at http://localhost:5488/api/validate-import?fullImport=false&targetFolder=n8u7Oyu, details: Error: end of central directory record signature not found
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\yauzl\index.js:187:14
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\yauzl\index.js:631:5
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\fd-slicer\index.js:32:7
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:539:5)
+2021-07-30T03:56:48.111Z - error: Error during processing request at http://localhost:5488/api/validate-import?fullImport=false&targetFolder=n8u7Oyu, details: Error: end of central directory record signature not found
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\yauzl\index.js:187:14
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\yauzl\index.js:631:5
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\fd-slicer\index.js:32:7
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:539:5)
