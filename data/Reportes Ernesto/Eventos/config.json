@@ -1,0 +1,22 @@
+{
+    "@odata.context": "http://localhost:5488/odata/$metadata#folders/$entity",
+    "@odata.editLink": "http://localhost:5488/odata/folders('xjYkhMIF366fNseN')",
+    "@odata.id": "http://localhost:5488/odata/folders('xjYkhMIF366fNseN')",
+    "name": "Eventos",
+    "creationDate": {
+        "$$date": 1627780580527
+    },
+    "modificationDate": {
+        "$$date": 1627780580527
+    },
+    "__entitySet": "folders",
+    "__name": "ExpedienteCliente",
+    "__shortid": "nKkV_d4",
+    "__folder": {
+        "shortid": "Hb89cQn"
+    },
+    "__isLoaded": true,
+    "shortid": "n5ICayw",
+    "_id": "JNEO2bSZYiEHMwZ5",
+    "$entitySet": "folders"
+}

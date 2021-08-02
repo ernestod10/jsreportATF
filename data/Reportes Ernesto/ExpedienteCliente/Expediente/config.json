@@ -1,0 +1,20 @@
+{
+    "name": "Expediente",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1627780565914
+    },
+    "modificationDate": {
+        "$$date": 1627793685492
+    },
+    "resources": {
+        "items": []
+    },
+    "shortid": "UEcJNCI",
+    "_id": "9hhEyFGvvVVVy1vY",
+    "$entitySet": "templates"
+}

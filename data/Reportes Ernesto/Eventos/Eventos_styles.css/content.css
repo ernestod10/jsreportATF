@@ -1,0 +1,302 @@
+.mediaViewInfo {
+		--web-view-name: Artboard – 2;
+		--web-view-id: Artboard__2;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Artboard__2;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Artboard__2 {
+		position: absolute;
+		width: 816px;
+		height: 961px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Artboard – 2;
+		--web-view-id: Artboard__2;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Group_79 {
+		position: absolute;
+		width: 350px;
+		height: 500px;
+		left: 89px;
+		top: 61px;
+		overflow: visible;
+	}
+	#Rectangle_91 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_91 {
+		position: absolute;
+		overflow: visible;
+		width: 655px;
+		height: 876px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_78 {
+		position: absolute;
+		width: 619px;
+		height: 275px;
+		left: 25px;
+		top: 0px;
+		overflow: visible;
+	}
+	#icons8_law_200px {
+		position: absolute;
+		width: 106px;
+		height: 106px;
+		left: 58px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_83 {
+		position: absolute;
+		width: 619px;
+		height: 192px;
+		left: 0px;
+		top: 83px;
+		overflow: visible;
+	}
+	#Group_82 {
+		position: absolute;
+		width: 434px;
+		height: 192px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_80 {
+		position: absolute;
+		width: 434px;
+		height: 192px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_77 {
+		position: absolute;
+		width: 434px;
+		height: 192px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Lista_De_eventos_Por_tienda {
+		left: 74px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 361px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	}
+	#Eventos {
+		left: 0px;
+		top: 152px;
+		position: absolute;
+		overflow: visible;
+		width: 103px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_76 {
+		position: absolute;
+		width: 212px;
+		height: 50px;
+		left: 0px;
+		top: 55px;
+		overflow: visible;
+	}
+	#Group_75 {
+		position: absolute;
+		width: 212px;
+		height: 50px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_57 {
+		position: absolute;
+		width: 212px;
+		height: 50px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_79 {
+		fill: rgba(131,217,95,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_79 {
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 50px;
+		left: 0px;
+		top: 0px;
+	}
+	#Nombre_Tienda {
+		left: 0px;
+		top: 5px;
+		position: absolute;
+		overflow: visible;
+		width: 207px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_60 {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		left: 848px;
+		top: 289px;
+		overflow: visible;
+	}
+	#Group_81 {
+		position: absolute;
+		width: 391px;
+		height: 50px;
+		left: 228px;
+		top: 57px;
+		overflow: visible;
+	}
+	#Group_66 {
+		position: absolute;
+		width: 391px;
+		height: 50px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_90 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_90 {
+		position: absolute;
+		overflow: visible;
+		width: 391px;
+		height: 50px;
+		left: 0px;
+		top: 0px;
+	}
+	#ID1 {
+		left: 11px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 17px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	}
+
+	.invoice-box {
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+    border: 1px solid #eee;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .15);
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+    color: rgba(255,255,255,1);;
+}
+.invoice-box table {
+    width: 100%;
+    line-height: inherit;
+    text-align: left;
+}
+.invoice-box table td {
+    padding: 5px;
+    vertical-align: top;
+}
+.invoice-box table tr td:nth-child(2) {
+    text-align: right;
+}
+.invoice-box table tr.top table td {
+    padding-bottom: 20px;
+}
+.invoice-box table tr.top table td.title {
+    font-size: 45px;
+    line-height: 45px;
+    color:rgba(255,255,255,1);
+}
+.invoice-box table tr.information table td {
+    padding-bottom: 40px;
+}
+.invoice-box table tr.heading td {
+    background: rgba(255,255,255,1);
+    border-bottom: 1px solid rgba(255,255,255,1);;
+    font-weight: bold;
+}
+.invoice-box table tr.details td {
+    padding-bottom: 20px;
+}
+.invoice-box table tr.item td {
+    border-bottom: 1px solid rgba(255,255,255,1);;
+}
+.invoice-box table tr.item.last td {
+    border-bottom: none;
+}
+.invoice-box table tr.total td:nth-child(2) {
+    border-top: 2px solid rgba(255,255,255,1);;
+    font-weight: bold;
+}
+@media only screen and (max-width: 600px) {
+    .invoice-box table tr.top table td {
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+    .invoice-box table tr.information table td {
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+}

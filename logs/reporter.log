@@ -11853,3 +11853,2141 @@ Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 
 2021-07-31T06:26:37.544Z - debug: OData query on templates
 2021-07-31T06:27:14.772Z - debug: OData update on scripts
 2021-07-31T06:27:14.804Z - debug: OData query on scripts
+2021-08-01T01:15:07.438Z - info: Initializing jsreport@2.9.0 in development mode using configuration file: jsreport.config.json
+2021-08-01T01:15:07.440Z - info: Searching for available extensions in C:\Users\Personal\Documents\GitHub\jsreportATF\
+2021-08-01T01:15:07.449Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Personal\Documents\GitHub\jsreportATF\
+2021-08-01T01:15:07.634Z - info: Found 35 extensions
+2021-08-01T01:15:07.991Z - debug: Writing extension locations cache to C:\Users\Personal\AppData\Local\Temp\jsreport\core\locations.json
+2021-08-01T01:15:07.992Z - debug: Discovered 35 extensions
+2021-08-01T01:15:08.053Z - info: Setting dedicated-process (process based) strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2021-08-01T01:15:08.064Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2021-08-01T01:15:08.064Z - info: Using extension cli@2.2.4
+2021-08-01T01:15:08.070Z - info: Using extension debug@2.1.3
+2021-08-01T01:15:08.076Z - info: Using extension express@2.7.0
+2021-08-01T01:15:08.364Z - info: Using extension freeze@2.0.0
+2021-08-01T01:15:08.367Z - info: Using extension handlebars@2.1.0
+2021-08-01T01:15:08.372Z - info: Using extension import-export@2.0.0
+2021-08-01T01:15:08.497Z - info: Using extension jsrender@2.1.1
+2021-08-01T01:15:08.499Z - info: Using extension tags@2.4.0
+2021-08-01T01:15:08.504Z - info: Using extension templates@2.4.0
+2021-08-01T01:15:08.510Z - info: Using extension authorization@2.4.0
+2021-08-01T01:15:08.523Z - debug: Extension authorization@2.4.0 was disabled
+2021-08-01T01:15:08.524Z - info: Using extension base@2.0.2
+2021-08-01T01:15:08.526Z - info: Using extension browser-client@2.2.2
+2021-08-01T01:15:08.535Z - info: Using extension child-templates@1.4.0
+2021-08-01T01:15:08.544Z - info: Using extension chrome-pdf@1.8.0
+2021-08-01T01:15:08.715Z - debug: Chrome strategy is dedicated-process
+2021-08-01T01:15:08.715Z - info: Using extension data@2.3.0
+2021-08-01T01:15:08.719Z - info: Using extension docx@2.7.0
+2021-08-01T01:15:08.729Z - info: Using extension fs-store@2.8.0
+2021-08-01T01:15:08.981Z - info: Using extension licensing@2.2.2
+2021-08-01T01:15:08.994Z - info: Using extension pdf-utils@1.8.0
+2021-08-01T01:15:09.138Z - info: Using extension pptx@0.7.0
+2021-08-01T01:15:09.143Z - info: Using extension reports@2.4.0
+2021-08-01T01:15:09.153Z - info: Using extension static-pdf@0.4.0
+2021-08-01T01:15:09.161Z - info: Using extension studio@2.9.0
+2021-08-01T01:15:09.277Z - debug: studio request logs are enabled (flush interval: 2000)
+2021-08-01T01:15:09.279Z - info: Using extension text@2.0.0
+2021-08-01T01:15:09.281Z - info: Using extension version-control@1.5.0
+2021-08-01T01:15:09.436Z - info: Using extension assets@1.6.0
+2021-08-01T01:15:09.452Z - info: Using extension html-to-xlsx@2.7.0
+2021-08-01T01:15:10.148Z - info: html-to-xlsx detected chrome as available html engine
+2021-08-01T01:15:10.148Z - info: Using extension scheduling@2.4.0
+2021-08-01T01:15:10.223Z - info: Using extension scripts@2.5.0
+2021-08-01T01:15:10.227Z - info: Using extension studio-theme-dark@0.3.0
+2021-08-01T01:15:10.232Z - info: Using extension xlsx@2.4.0
+2021-08-01T01:15:10.563Z - info: Using extension public-templates@2.1.0
+2021-08-01T01:15:10.566Z - debug: Extension public-templates@2.1.0 was disabled
+2021-08-01T01:15:10.566Z - info: Using extension resources@2.1.0
+2021-08-01T01:15:10.590Z - info: Using extension sample-template@2.5.1
+2021-08-01T01:15:10.596Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2021-08-01T01:15:10.596Z - info: Using fs provider for template store.
+2021-08-01T01:15:10.605Z - info: fs store is persisting using fs
+2021-08-01T01:15:10.606Z - info: fs store sync is disabled
+2021-08-01T01:15:10.608Z - info: fs store underlying changes synchronization with studio is disabled
+2021-08-01T01:15:10.619Z - info: fs store is loading data
+2021-08-01T01:15:11.748Z - info: fs store is initialized successfully
+2021-08-01T01:15:11.778Z - debug: studio default theme is: light
+2021-08-01T01:15:11.803Z - info: Creating default express app.
+2021-08-01T01:15:11.915Z - info: jsreport server successfully started on http port: 5488
+2021-08-01T01:15:11.916Z - info: Verifying license key free
+2021-08-01T01:15:11.917Z - info: Using free license
+2021-08-01T01:15:11.922Z - info: reporter initialized
+2021-08-01T01:15:27.914Z - debug: OData query on templates
+2021-08-01T01:15:27.920Z - debug: OData query on folders
+2021-08-01T01:15:27.954Z - debug: OData query on tags
+2021-08-01T01:15:27.962Z - debug: OData query on data
+2021-08-01T01:15:28.108Z - debug: OData query on assets
+2021-08-01T01:15:28.141Z - debug: OData query on scripts
+2021-08-01T01:15:28.144Z - debug: OData query on xlsxTemplates
+2021-08-01T01:15:28.153Z - debug: OData query on schedules
+2021-08-01T01:15:28.192Z - debug: OData query on settings
+2021-08-01T01:15:28.827Z - debug: OData query on templates
+2021-08-01T01:15:28.945Z - debug: OData query on settings
+2021-08-01T01:16:05.822Z - debug: OData insert into folders
+2021-08-01T01:16:06.158Z - debug: OData query on folders
+2021-08-01T01:16:20.526Z - debug: OData insert into folders
+2021-08-01T01:16:20.995Z - debug: OData query on folders
+2021-08-01T01:59:49.893Z - debug: OData query on templates
+2021-08-01T01:59:56.992Z - debug: OData update on templates
+2021-08-01T01:59:57.021Z - debug: OData query on templates
+2021-08-01T02:00:04.775Z - debug: OData update on scripts
+2021-08-01T02:00:04.805Z - debug: OData query on scripts
+2021-08-01T02:00:09.971Z - debug: OData update on assets
+2021-08-01T02:00:10.000Z - debug: OData query on assets
+2021-08-01T02:00:13.761Z - debug: OData query on templates
+2021-08-01T02:00:23.380Z - debug: OData update on templates
+2021-08-01T02:00:23.419Z - debug: OData query on templates
+2021-08-01T02:00:28.508Z - debug: OData update on scripts
+2021-08-01T02:00:28.533Z - debug: OData query on scripts
+2021-08-01T02:00:32.566Z - debug: OData update on assets
+2021-08-01T02:00:32.591Z - debug: OData query on assets
+2021-08-01T04:15:31.945Z - debug: OData query on scripts
+2021-08-01T04:49:47.971Z - debug: OData update on scripts
+2021-08-01T04:49:47.993Z - debug: OData query on scripts
+2021-08-01T04:49:54.342Z - debug: OData update on scripts
+2021-08-01T04:49:54.366Z - debug: OData query on scripts
+2021-08-01T04:49:58.068Z - debug: OData query on templates
+2021-08-01T04:50:25.828Z - info: Starting rendering request 1 (user: null)
+2021-08-01T04:50:25.830Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T04:50:25.831Z - debug: Data item not defined for this template.
+2021-08-01T04:50:25.832Z - debug: Resources not defined for this template.
+2021-08-01T04:50:25.835Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T04:50:26.543Z - warn: Rendering request 1 finished with error in 713 ms
+2021-08-01T04:50:26.546Z - warn: Error when processing render request 1 Error while executing user script. query is not defined. Error on line 21:19.
+
+  19 | 
+  20 | var query1 = ["Select o.nombre, o.id_organizacion, o.fecha_fundacion, o.proposito ,c.nombre,c.apellido, c.telefono,c.email,c.doc_identidad from ec_organizacion o, ec_organizador_contacto c where o.id_organizacion = c.ec_organizacion_id_organizacion"];
+> 21 |   if (idorg!="0") query.push(" and o.id_organizacion = "+idorg+" or o.nombre like ('"+idorg+"%') ");
+     |                   ^
+  22 |   if (cedula!="0") query.push("and c.nombre like('"+idcon+"') or c.doc_identidad = "+idcon+"");
+  23 |   db.query(query1.join(' '), (err, result) => {
+  24 |     console.log(err);
+
+ ReferenceError: query is not defined
+    at Object.beforeRender (evaluate-user-script.js:21:19)
+    at Object.__runBefore (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-scripts\lib\scriptEvalChild.js:141:26)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:469:32)
+    at evaluate-user-script.js:37:1
+    at Script.runInContext (vm.js:143:18)
+    at VM.run (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib\main.js:219:62)
+    at run (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-core\lib\render\safeSandbox.js:171:19)
+    at scriptEvalChild (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-scripts\lib\scriptEvalChild.js:200:5)
+    at scriptExecModuleWrapper (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-core\lib\scriptExecModuleWrapper.js:29:26)
+    at process.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\script-manager\lib\worker-processes.js:66:36)
+2021-08-01T04:50:26.548Z - warn: Error during processing request at http://localhost:5488/api/report/FichaOrg
+2021-08-01T04:51:57.917Z - info: Starting rendering request 2 (user: null)
+2021-08-01T04:51:57.918Z - info: Rendering template { name: Expediente, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T04:51:57.919Z - debug: Data item not defined for this template.
+2021-08-01T04:51:57.919Z - debug: Resources not defined for this template.
+2021-08-01T04:51:57.920Z - debug: Base url not specified, skipping its injection.
+2021-08-01T04:51:57.925Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T04:51:57.926Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T04:51:58.217Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T04:51:58.220Z - debug: Executing recipe chrome-pdf
+2021-08-01T04:51:59.623Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T04:52:00.563Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/8ded9a83-abcf-4464-9360-2bc0b409554a-chrome-pdf.html
+2021-08-01T04:52:00.589Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/8ded9a83-abcf-4464-9360-2bc0b409554a-chrome-pdf.html
+2021-08-01T04:52:00.660Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T04:52:01.417Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T04:52:01.423Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T04:52:01.754Z - debug: Skipping storing report.
+2021-08-01T04:52:01.755Z - info: Rendering request 2 finished in 3838 ms
+2021-08-01T04:52:10.664Z - info: Starting rendering request 3 (user: null)
+2021-08-01T04:52:10.665Z - info: Rendering template { name: Expediente, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T04:52:10.669Z - debug: Data item not defined for this template.
+2021-08-01T04:52:10.669Z - debug: Resources not defined for this template.
+2021-08-01T04:52:10.670Z - debug: Base url not specified, skipping its injection.
+2021-08-01T04:52:10.673Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T04:52:10.673Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T04:52:10.895Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T04:52:10.897Z - debug: Executing recipe chrome-pdf
+2021-08-01T04:52:11.319Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T04:52:12.142Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/e05e4159-1fae-4b23-93a2-a28786e44228-chrome-pdf.html
+2021-08-01T04:52:12.159Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/e05e4159-1fae-4b23-93a2-a28786e44228-chrome-pdf.html
+2021-08-01T04:52:12.165Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T04:52:12.840Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T04:52:12.842Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T04:52:13.060Z - debug: Skipping storing report.
+2021-08-01T04:52:13.061Z - info: Rendering request 3 finished in 2396 ms
+2021-08-01T04:52:13.771Z - debug: OData update on templates
+2021-08-01T04:52:13.788Z - debug: OData query on templates
+2021-08-01T04:52:21.004Z - info: Starting rendering request 4 (user: null)
+2021-08-01T04:52:21.006Z - info: Rendering template { name: Expediente, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T04:52:21.006Z - debug: Data item not defined for this template.
+2021-08-01T04:52:21.007Z - debug: Resources not defined for this template.
+2021-08-01T04:52:21.007Z - debug: Base url not specified, skipping its injection.
+2021-08-01T04:52:21.010Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T04:52:21.010Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T04:52:21.229Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T04:52:21.230Z - debug: Executing recipe chrome-pdf
+2021-08-01T04:52:21.467Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T04:52:21.604Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/63810021-41df-41ad-b6ff-2c11fce6a71c-chrome-pdf.html
+2021-08-01T04:52:21.620Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/63810021-41df-41ad-b6ff-2c11fce6a71c-chrome-pdf.html
+2021-08-01T04:52:21.628Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T04:52:22.047Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T04:52:22.050Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T04:52:22.266Z - debug: Skipping storing report.
+2021-08-01T04:52:22.267Z - info: Rendering request 4 finished in 1262 ms
+2021-08-01T04:52:40.576Z - debug: OData update on templates
+2021-08-01T04:52:40.597Z - debug: OData query on templates
+2021-08-01T04:52:41.418Z - info: Starting rendering request 5 (user: null)
+2021-08-01T04:52:41.419Z - info: Rendering template { name: Expediente, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T04:52:41.419Z - debug: Data item not defined for this template.
+2021-08-01T04:52:41.420Z - debug: Resources not defined for this template.
+2021-08-01T04:52:41.421Z - debug: Base url not specified, skipping its injection.
+2021-08-01T04:52:41.422Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T04:52:41.423Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T04:52:41.640Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T04:52:41.641Z - debug: Executing recipe chrome-pdf
+2021-08-01T04:52:41.900Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T04:52:41.993Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/77c08799-407a-424e-95cf-acbff3f2afac-chrome-pdf.html
+2021-08-01T04:52:42.018Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/77c08799-407a-424e-95cf-acbff3f2afac-chrome-pdf.html
+2021-08-01T04:52:42.018Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T04:53:06.455Z - info: Starting rendering request 6 (user: null)
+2021-08-01T04:53:06.456Z - info: Rendering template { name: Expediente, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T04:53:06.457Z - debug: Data item not defined for this template.
+2021-08-01T04:53:06.458Z - debug: Resources not defined for this template.
+2021-08-01T04:53:06.458Z - debug: Base url not specified, skipping its injection.
+2021-08-01T04:53:06.460Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T04:53:06.460Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T04:53:06.673Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T04:53:06.675Z - debug: Executing recipe chrome-pdf
+2021-08-01T04:53:07.019Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T04:53:07.150Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/908a83c6-89f9-4dae-b4a4-0855a99dd8cc-chrome-pdf.html
+2021-08-01T04:53:07.166Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/908a83c6-89f9-4dae-b4a4-0855a99dd8cc-chrome-pdf.html
+2021-08-01T04:53:07.171Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T04:53:08.117Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T04:53:08.121Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T04:53:08.448Z - debug: Skipping storing report.
+2021-08-01T04:53:08.448Z - info: Rendering request 6 finished in 1993 ms
+2021-08-01T04:53:15.141Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_CONNECTION_TIMED_OUT
+2021-08-01T04:53:15.142Z - debug: Failed to load resource: net::ERR_CONNECTION_TIMED_OUT
+2021-08-01T04:53:15.164Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T04:53:15.365Z - debug: Skipping storing report.
+2021-08-01T04:53:15.366Z - info: Rendering request 5 finished in 33948 ms
+2021-08-01T04:53:25.731Z - debug: OData update on templates
+2021-08-01T04:53:25.750Z - debug: OData query on templates
+2021-08-01T04:53:56.418Z - debug: OData update on templates
+2021-08-01T04:53:56.435Z - debug: OData query on templates
+2021-08-01T04:53:56.981Z - info: Starting rendering request 7 (user: null)
+2021-08-01T04:53:56.982Z - info: Rendering template { name: Expediente, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T04:53:56.983Z - debug: Data item not defined for this template.
+2021-08-01T04:53:56.983Z - debug: Resources not defined for this template.
+2021-08-01T04:53:56.984Z - debug: Base url not specified, skipping its injection.
+2021-08-01T04:53:56.985Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T04:53:56.985Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T04:53:57.200Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T04:53:57.201Z - debug: Executing recipe chrome-pdf
+2021-08-01T04:53:57.462Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T04:53:57.546Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/fb52d039-d176-498e-86fd-3a0f7a847add-chrome-pdf.html
+2021-08-01T04:53:57.561Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/fb52d039-d176-498e-86fd-3a0f7a847add-chrome-pdf.html
+2021-08-01T04:53:57.567Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T04:54:08.770Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T04:54:08.770Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T04:54:08.781Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T04:54:08.988Z - debug: Skipping storing report.
+2021-08-01T04:54:08.989Z - info: Rendering request 7 finished in 12007 ms
+2021-08-01T04:54:18.814Z - debug: OData update on templates
+2021-08-01T04:54:18.832Z - debug: OData query on templates
+2021-08-01T04:54:19.803Z - info: Starting rendering request 8 (user: null)
+2021-08-01T04:54:19.803Z - info: Rendering template { name: Expediente, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T04:54:19.804Z - debug: Data item not defined for this template.
+2021-08-01T04:54:19.804Z - debug: Resources not defined for this template.
+2021-08-01T04:54:19.806Z - debug: Base url not specified, skipping its injection.
+2021-08-01T04:54:19.808Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T04:54:19.809Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T04:54:20.021Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T04:54:20.023Z - debug: Executing recipe chrome-pdf
+2021-08-01T04:54:20.163Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T04:54:20.294Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/816d1f20-21ed-4934-a37b-65139665727b-chrome-pdf.html
+2021-08-01T04:54:20.309Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/816d1f20-21ed-4934-a37b-65139665727b-chrome-pdf.html
+2021-08-01T04:54:20.316Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T04:54:31.523Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T04:54:31.524Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T04:54:31.535Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T04:54:31.731Z - debug: Skipping storing report.
+2021-08-01T04:54:31.731Z - info: Rendering request 8 finished in 11929 ms
+2021-08-01T04:54:45.491Z - debug: OData update on templates
+2021-08-01T04:54:45.511Z - debug: OData query on templates
+2021-08-01T04:54:54.173Z - debug: OData query on scripts
+2021-08-01T04:54:55.337Z - debug: OData query on assets
+2021-08-01T04:55:59.830Z - info: Starting rendering request 9 (user: null)
+2021-08-01T04:55:59.832Z - info: Rendering template { name: Expediente, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T04:55:59.833Z - debug: Data item not defined for this template.
+2021-08-01T04:55:59.833Z - debug: Resources not defined for this template.
+2021-08-01T04:55:59.834Z - debug: Base url not specified, skipping its injection.
+2021-08-01T04:55:59.835Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T04:55:59.836Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T04:56:00.060Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T04:56:00.063Z - debug: Executing recipe chrome-pdf
+2021-08-01T04:56:00.343Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T04:56:00.428Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/b88afb90-1628-43ea-83dd-cc95890b94fb-chrome-pdf.html
+2021-08-01T04:56:00.443Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/b88afb90-1628-43ea-83dd-cc95890b94fb-chrome-pdf.html
+2021-08-01T04:56:00.448Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T04:56:01.133Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T04:56:01.135Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T04:56:01.501Z - debug: Skipping storing report.
+2021-08-01T04:56:01.501Z - info: Rendering request 9 finished in 1672 ms
+2021-08-01T04:56:11.943Z - debug: OData update on templates
+2021-08-01T04:56:11.961Z - debug: OData query on templates
+2021-08-01T04:59:35.171Z - debug: OData update on templates
+2021-08-01T04:59:35.194Z - debug: OData query on templates
+2021-08-01T05:26:21.449Z - debug: OData update on scripts
+2021-08-01T05:26:21.471Z - debug: OData query on scripts
+2021-08-01T05:29:04.260Z - info: Starting rendering request 10 (user: null)
+2021-08-01T05:29:04.261Z - warn: Rendering request 10 finished with error in 1 ms
+2021-08-01T05:29:04.262Z - warn: Error when processing render request 10 Unable to find specified template or user doesnt have permissions to read it: FcihaOrg Error: Unable to find specified template or user doesnt have permissions to read it: FcihaOrg
+    at module.exports (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-core\lib\reporter.js:332:12)
+    at AsyncFunction.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-templates\lib\templates.js:134:20)
+2021-08-01T05:29:04.264Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-08-01T05:29:37.141Z - info: Starting rendering request 11 (user: null)
+2021-08-01T05:29:37.142Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T05:29:37.142Z - debug: Inline data specified.
+2021-08-01T05:29:37.143Z - debug: Resources not defined for this template.
+2021-08-01T05:29:37.143Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T05:29:37.970Z - debug: null
+2021-08-01T05:29:37.971Z - debug: Base url not specified, skipping its injection.
+2021-08-01T05:29:37.976Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T05:29:37.978Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T05:29:38.312Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T05:29:38.313Z - debug: Executing recipe chrome-pdf
+2021-08-01T05:29:40.302Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T05:29:41.028Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/a6713319-3458-4cdb-9e39-1ed83368f7ed-chrome-pdf.html
+2021-08-01T05:29:41.046Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/a6713319-3458-4cdb-9e39-1ed83368f7ed-chrome-pdf.html
+2021-08-01T05:29:41.053Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T05:29:52.676Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T05:29:52.679Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T05:29:52.990Z - debug: Skipping storing report.
+2021-08-01T05:29:52.991Z - info: Rendering request 11 finished in 15851 ms
+2021-08-01T05:31:12.581Z - info: Starting rendering request 12 (user: null)
+2021-08-01T05:31:12.582Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T05:31:12.582Z - debug: Inline data specified.
+2021-08-01T05:31:12.583Z - debug: Resources not defined for this template.
+2021-08-01T05:31:12.583Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T05:31:13.114Z - debug: null
+2021-08-01T05:31:13.114Z - debug: Base url not specified, skipping its injection.
+2021-08-01T05:31:13.116Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T05:31:13.117Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T05:31:13.330Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T05:31:13.332Z - debug: Executing recipe chrome-pdf
+2021-08-01T05:31:14.026Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T05:31:14.132Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/7e7bf4cb-d795-4054-8db0-5eda67211cc0-chrome-pdf.html
+2021-08-01T05:31:14.152Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/7e7bf4cb-d795-4054-8db0-5eda67211cc0-chrome-pdf.html
+2021-08-01T05:31:14.159Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T05:31:14.813Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T05:31:14.817Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T05:31:15.044Z - debug: Skipping storing report.
+2021-08-01T05:31:15.046Z - info: Rendering request 12 finished in 2465 ms
+2021-08-01T05:31:37.776Z - debug: OData update on templates
+2021-08-01T05:31:37.806Z - debug: OData query on templates
+2021-08-01T05:31:43.770Z - info: Starting rendering request 13 (user: null)
+2021-08-01T05:31:43.771Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T05:31:43.771Z - debug: Inline data specified.
+2021-08-01T05:31:43.772Z - debug: Resources not defined for this template.
+2021-08-01T05:31:43.772Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T05:31:44.288Z - debug: null
+2021-08-01T05:31:44.288Z - debug: Base url not specified, skipping its injection.
+2021-08-01T05:31:44.290Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T05:31:44.291Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T05:31:44.515Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T05:31:44.516Z - debug: Executing recipe html
+2021-08-01T05:31:44.517Z - debug: Skipping storing report.
+2021-08-01T05:31:44.517Z - info: Rendering request 13 finished in 747 ms
+2021-08-01T05:31:48.610Z - info: Starting rendering request 14 (user: null)
+2021-08-01T05:31:48.611Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T05:31:48.612Z - debug: Inline data specified.
+2021-08-01T05:31:48.613Z - debug: Resources not defined for this template.
+2021-08-01T05:31:48.613Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T05:31:49.128Z - debug: null
+2021-08-01T05:31:49.129Z - debug: Base url not specified, skipping its injection.
+2021-08-01T05:31:49.131Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T05:31:49.131Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T05:31:49.350Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T05:31:49.351Z - debug: Executing recipe html
+2021-08-01T05:31:49.351Z - debug: Skipping storing report.
+2021-08-01T05:31:49.352Z - info: Rendering request 14 finished in 742 ms
+2021-08-01T05:32:21.627Z - info: Starting rendering request 15 (user: null)
+2021-08-01T05:32:21.628Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T05:32:21.628Z - debug: Inline data specified.
+2021-08-01T05:32:21.629Z - debug: Resources not defined for this template.
+2021-08-01T05:32:21.630Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T05:32:22.150Z - debug: null
+2021-08-01T05:32:22.150Z - debug: Base url not specified, skipping its injection.
+2021-08-01T05:32:22.152Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T05:32:22.153Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T05:32:22.366Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T05:32:22.367Z - debug: Executing recipe html
+2021-08-01T05:32:22.368Z - debug: Skipping storing report.
+2021-08-01T05:32:22.368Z - info: Rendering request 15 finished in 742 ms
+2021-08-01T05:32:45.612Z - info: Starting rendering request 16 (user: null)
+2021-08-01T05:32:45.613Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T05:32:45.613Z - debug: Inline data specified.
+2021-08-01T05:32:45.614Z - debug: Resources not defined for this template.
+2021-08-01T05:32:45.614Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T05:32:46.137Z - debug: null
+2021-08-01T05:32:46.138Z - debug: Base url not specified, skipping its injection.
+2021-08-01T05:32:46.140Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T05:32:46.141Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T05:32:46.357Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T05:32:46.358Z - debug: Executing recipe html
+2021-08-01T05:32:46.358Z - debug: Skipping storing report.
+2021-08-01T05:32:46.359Z - info: Rendering request 16 finished in 747 ms
+2021-08-01T06:13:41.926Z - info: Starting rendering request 17 (user: null)
+2021-08-01T06:13:41.927Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T06:13:41.929Z - debug: Inline data specified.
+2021-08-01T06:13:41.929Z - debug: Resources not defined for this template.
+2021-08-01T06:13:41.931Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T06:13:42.455Z - debug: null
+2021-08-01T06:13:42.456Z - debug: Base url not specified, skipping its injection.
+2021-08-01T06:13:42.460Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T06:13:42.460Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T06:13:42.678Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T06:13:42.679Z - debug: Executing recipe html
+2021-08-01T06:13:42.680Z - debug: Skipping storing report.
+2021-08-01T06:13:42.681Z - info: Rendering request 17 finished in 756 ms
+2021-08-01T06:13:47.167Z - info: Starting rendering request 18 (user: null)
+2021-08-01T06:13:47.167Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T06:13:47.168Z - debug: Inline data specified.
+2021-08-01T06:13:47.168Z - debug: Resources not defined for this template.
+2021-08-01T06:13:47.169Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T06:13:47.722Z - debug: null
+2021-08-01T06:13:47.722Z - debug: Base url not specified, skipping its injection.
+2021-08-01T06:13:47.724Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T06:13:47.725Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T06:13:47.965Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T06:13:47.966Z - debug: Executing recipe html
+2021-08-01T06:13:47.966Z - debug: Skipping storing report.
+2021-08-01T06:13:47.967Z - info: Rendering request 18 finished in 800 ms
+2021-08-01T06:13:57.792Z - info: Starting rendering request 19 (user: null)
+2021-08-01T06:13:57.792Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T06:13:57.793Z - debug: Inline data specified.
+2021-08-01T06:13:57.793Z - debug: Resources not defined for this template.
+2021-08-01T06:13:57.795Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T06:13:58.320Z - debug: null
+2021-08-01T06:13:58.320Z - debug: Base url not specified, skipping its injection.
+2021-08-01T06:13:58.322Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T06:13:58.322Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T06:13:58.591Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T06:13:58.594Z - debug: Executing recipe html
+2021-08-01T06:13:58.594Z - debug: Skipping storing report.
+2021-08-01T06:13:58.595Z - info: Rendering request 19 finished in 803 ms
+2021-08-01T06:14:04.127Z - info: Starting rendering request 20 (user: null)
+2021-08-01T06:14:04.127Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T06:14:04.128Z - debug: Inline data specified.
+2021-08-01T06:14:04.129Z - debug: Resources not defined for this template.
+2021-08-01T06:14:04.130Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T06:14:04.726Z - debug: null
+2021-08-01T06:14:04.730Z - debug: Base url not specified, skipping its injection.
+2021-08-01T06:14:04.744Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T06:14:04.749Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T06:14:04.976Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T06:14:04.978Z - debug: Executing recipe html
+2021-08-01T06:14:04.978Z - debug: Skipping storing report.
+2021-08-01T06:14:04.979Z - info: Rendering request 20 finished in 853 ms
+2021-08-01T06:14:11.639Z - info: Starting rendering request 21 (user: null)
+2021-08-01T06:14:11.640Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T06:14:11.642Z - debug: Inline data specified.
+2021-08-01T06:14:11.642Z - debug: Resources not defined for this template.
+2021-08-01T06:14:11.643Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T06:14:12.276Z - debug: null
+2021-08-01T06:14:12.277Z - debug: Base url not specified, skipping its injection.
+2021-08-01T06:14:12.279Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T06:14:12.280Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T06:14:12.495Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T06:14:12.496Z - debug: Executing recipe html
+2021-08-01T06:14:12.496Z - debug: Skipping storing report.
+2021-08-01T06:14:12.497Z - info: Rendering request 21 finished in 858 ms
+2021-08-01T06:14:32.621Z - info: Starting rendering request 22 (user: null)
+2021-08-01T06:14:32.622Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T06:14:32.622Z - debug: Inline data specified.
+2021-08-01T06:14:32.623Z - debug: Resources not defined for this template.
+2021-08-01T06:14:32.623Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T06:14:33.263Z - debug: null
+2021-08-01T06:14:33.263Z - debug: Base url not specified, skipping its injection.
+2021-08-01T06:14:33.265Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T06:14:33.265Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T06:14:33.482Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T06:14:33.483Z - debug: Executing recipe chrome-pdf
+2021-08-01T06:14:33.664Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T06:14:33.796Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/bea80b2a-5164-47cd-8b84-f869465103c6-chrome-pdf.html
+2021-08-01T06:14:33.814Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/bea80b2a-5164-47cd-8b84-f869465103c6-chrome-pdf.html
+2021-08-01T06:14:33.822Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T06:14:45.921Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T06:14:45.922Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T06:14:45.945Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T06:14:46.608Z - debug: Skipping storing report.
+2021-08-01T06:14:46.609Z - info: Rendering request 22 finished in 13988 ms
+2021-08-01T06:27:38.183Z - debug: OData query on scripts
+2021-08-01T06:28:02.250Z - debug: OData query on assets
+2021-08-01T06:28:05.543Z - debug: OData update on assets
+2021-08-01T06:28:05.563Z - debug: OData query on assets
+2021-08-01T06:30:05.195Z - debug: OData update on templates
+2021-08-01T06:30:05.217Z - debug: OData query on templates
+2021-08-01T06:30:28.123Z - debug: OData update on templates
+2021-08-01T06:30:28.162Z - debug: OData query on templates
+2021-08-01T06:30:32.508Z - info: Starting rendering request 23 (user: null)
+2021-08-01T06:30:32.510Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T06:30:32.510Z - debug: Data item not defined for this template.
+2021-08-01T06:30:32.511Z - debug: Resources not defined for this template.
+2021-08-01T06:30:32.511Z - debug: Base url not specified, skipping its injection.
+2021-08-01T06:30:32.513Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T06:30:32.513Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T06:30:32.763Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T06:30:32.764Z - debug: Executing recipe chrome-pdf
+2021-08-01T06:30:33.122Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T06:30:33.226Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/54ec0bc4-895b-4bcb-828a-5ae30e15a3c4-chrome-pdf.html
+2021-08-01T06:30:33.244Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/54ec0bc4-895b-4bcb-828a-5ae30e15a3c4-chrome-pdf.html
+2021-08-01T06:30:33.244Z - debug: Page request: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png
+2021-08-01T06:30:33.245Z - warn: Page request failed: GET (image) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/icons8_law_200px.png, failure: net::ERR_FILE_NOT_FOUND
+2021-08-01T06:30:33.245Z - debug: Failed to load resource: net::ERR_FILE_NOT_FOUND
+2021-08-01T06:30:33.284Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T06:30:33.519Z - debug: Skipping storing report.
+2021-08-01T06:30:33.520Z - info: Rendering request 23 finished in 1011 ms
+2021-08-01T06:31:00.458Z - debug: OData update on templates
+2021-08-01T06:31:00.483Z - debug: OData query on templates
+2021-08-01T06:31:01.696Z - info: Starting rendering request 24 (user: null)
+2021-08-01T06:31:01.696Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T06:31:01.697Z - debug: Data item not defined for this template.
+2021-08-01T06:31:01.697Z - debug: Resources not defined for this template.
+2021-08-01T06:31:01.698Z - debug: Base url not specified, skipping its injection.
+2021-08-01T06:31:01.701Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T06:31:01.701Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T06:31:01.932Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T06:31:01.932Z - debug: Executing recipe chrome-pdf
+2021-08-01T06:31:02.099Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T06:31:02.266Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/cbf3b291-ea5e-48f0-b8ae-2421df808201-chrome-pdf.html
+2021-08-01T06:31:02.284Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/cbf3b291-ea5e-48f0-b8ae-2421df808201-chrome-pdf.html
+2021-08-01T06:31:02.287Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T06:31:03.420Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NETWORK_CHANGED
+2021-08-01T06:31:03.420Z - debug: Failed to load resource: net::ERR_NETWORK_CHANGED
+2021-08-01T06:31:03.439Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T06:31:03.680Z - debug: Skipping storing report.
+2021-08-01T06:31:03.680Z - info: Rendering request 24 finished in 1985 ms
+2021-08-01T06:31:12.156Z - debug: OData update on templates
+2021-08-01T06:31:12.185Z - debug: OData query on templates
+2021-08-01T06:31:27.886Z - debug: OData update on templates
+2021-08-01T06:31:27.921Z - debug: OData query on templates
+2021-08-01T06:31:29.497Z - info: Starting rendering request 25 (user: null)
+2021-08-01T06:31:29.498Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T06:31:29.498Z - debug: Data item not defined for this template.
+2021-08-01T06:31:29.499Z - debug: Resources not defined for this template.
+2021-08-01T06:31:29.499Z - debug: Base url not specified, skipping its injection.
+2021-08-01T06:31:29.501Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T06:31:29.501Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T06:31:29.724Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T06:31:29.725Z - debug: Executing recipe chrome-pdf
+2021-08-01T06:31:29.927Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T06:31:30.063Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/c61f96ab-0d5f-4460-84fe-7e1a2d6cecca-chrome-pdf.html
+2021-08-01T06:31:30.080Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/c61f96ab-0d5f-4460-84fe-7e1a2d6cecca-chrome-pdf.html
+2021-08-01T06:31:30.083Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T06:31:30.142Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T06:31:30.143Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T06:31:30.155Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T06:31:30.465Z - debug: Skipping storing report.
+2021-08-01T06:31:30.466Z - info: Rendering request 25 finished in 969 ms
+2021-08-01T06:31:47.098Z - debug: OData update on templates
+2021-08-01T06:31:47.130Z - debug: OData query on templates
+2021-08-01T06:31:50.253Z - debug: OData update on templates
+2021-08-01T06:31:50.272Z - debug: OData query on templates
+2021-08-01T06:32:14.122Z - debug: OData update on templates
+2021-08-01T06:32:14.155Z - debug: OData query on templates
+2021-08-01T06:32:15.207Z - info: Starting rendering request 26 (user: null)
+2021-08-01T06:32:15.208Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T06:32:15.209Z - debug: Data item not defined for this template.
+2021-08-01T06:32:15.209Z - debug: Resources not defined for this template.
+2021-08-01T06:32:15.210Z - debug: Base url not specified, skipping its injection.
+2021-08-01T06:32:15.212Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T06:32:15.212Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T06:32:15.438Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T06:32:15.439Z - debug: Executing recipe chrome-pdf
+2021-08-01T06:32:15.599Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T06:32:15.733Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/e85717be-ae12-42f9-93c4-3f323f4f3238-chrome-pdf.html
+2021-08-01T06:32:15.752Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/e85717be-ae12-42f9-93c4-3f323f4f3238-chrome-pdf.html
+2021-08-01T06:32:15.753Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T06:32:27.853Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T06:32:27.853Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T06:32:27.868Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T06:32:28.092Z - debug: Skipping storing report.
+2021-08-01T06:32:28.093Z - info: Rendering request 26 finished in 12885 ms
+2021-08-01T07:09:34.271Z - debug: OData query on scripts
+2021-08-01T07:09:35.142Z - debug: OData query on templates
+2021-08-01T07:09:38.709Z - debug: OData query on assets
+2021-08-01T07:44:04.654Z - info: Starting rendering request 27 (user: null)
+2021-08-01T07:44:04.655Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T07:44:04.656Z - debug: Inline data specified.
+2021-08-01T07:44:04.657Z - debug: Resources not defined for this template.
+2021-08-01T07:44:04.658Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T07:44:05.197Z - debug: null
+2021-08-01T07:44:05.198Z - debug: Base url not specified, skipping its injection.
+2021-08-01T07:44:05.201Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T07:44:05.202Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T07:44:05.417Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T07:44:05.418Z - debug: Executing recipe html
+2021-08-01T07:44:05.418Z - debug: Skipping storing report.
+2021-08-01T07:44:05.419Z - info: Rendering request 27 finished in 766 ms
+2021-08-01T07:54:50.675Z - debug: OData update on templates
+2021-08-01T07:54:50.706Z - debug: OData query on templates
+2021-08-01T07:54:51.701Z - info: Starting rendering request 28 (user: null)
+2021-08-01T07:54:51.702Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T07:54:51.703Z - debug: Data item not defined for this template.
+2021-08-01T07:54:51.703Z - debug: Resources not defined for this template.
+2021-08-01T07:54:51.704Z - debug: Base url not specified, skipping its injection.
+2021-08-01T07:54:51.705Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T07:54:51.706Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T07:54:51.946Z - warn: Rendering request 28 finished with error in 245 ms
+2021-08-01T07:54:51.948Z - warn: Error when processing render request 28 Error while executing templating engine. Missing helper: "nombre_apellido" Error: Missing helper: "nombre_apellido"
+    at Object.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at Object.wrapper (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\internal\wrapHelper.js:15:19)
+    at Object.eval [as main] (eval at createFunctionContext (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:262:23), <anonymous>:11:120)
+    at main (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:208:32)
+    at ret (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:212:12)
+    at ret (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:519:21)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:33:20
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:469:32)
+    at evaluate-template-engine.js:1:64
+    at Script.runInContext (vm.js:143:18)
+2021-08-01T07:54:51.949Z - warn: Error during processing request at http://localhost:5488/api/report/Eventos
+2021-08-01T07:55:15.128Z - debug: OData update on templates
+2021-08-01T07:55:15.162Z - debug: OData query on templates
+2021-08-01T07:55:15.978Z - info: Starting rendering request 29 (user: null)
+2021-08-01T07:55:15.979Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T07:55:15.980Z - debug: Data item not defined for this template.
+2021-08-01T07:55:15.980Z - debug: Resources not defined for this template.
+2021-08-01T07:55:15.981Z - debug: Base url not specified, skipping its injection.
+2021-08-01T07:55:15.982Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T07:55:15.984Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T07:55:16.217Z - warn: Rendering request 29 finished with error in 239 ms
+2021-08-01T07:55:16.219Z - warn: Error when processing render request 29 Error while executing templating engine. Missing helper: "nombre_apellido" Error: Missing helper: "nombre_apellido"
+    at Object.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at Object.wrapper (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\internal\wrapHelper.js:15:19)
+    at Object.eval [as main] (eval at createFunctionContext (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:262:23), <anonymous>:11:120)
+    at main (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:208:32)
+    at ret (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\runtime.js:212:12)
+    at ret (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:519:21)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:33:20
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:469:32)
+    at evaluate-template-engine.js:1:64
+    at Script.runInContext (vm.js:143:18)
+2021-08-01T07:55:16.220Z - warn: Error during processing request at http://localhost:5488/api/report/Eventos
+2021-08-01T07:55:29.608Z - debug: OData update on templates
+2021-08-01T07:55:29.645Z - debug: OData query on templates
+2021-08-01T07:55:30.651Z - info: Starting rendering request 30 (user: null)
+2021-08-01T07:55:30.652Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T07:55:30.653Z - debug: Data item not defined for this template.
+2021-08-01T07:55:30.653Z - debug: Resources not defined for this template.
+2021-08-01T07:55:30.655Z - debug: Base url not specified, skipping its injection.
+2021-08-01T07:55:30.657Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T07:55:30.659Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T07:55:30.898Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T07:55:30.899Z - debug: Executing recipe chrome-pdf
+2021-08-01T07:55:31.191Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T07:55:31.289Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/70015297-0f99-4d22-aa27-7a6242c9a162-chrome-pdf.html
+2021-08-01T07:55:31.309Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/70015297-0f99-4d22-aa27-7a6242c9a162-chrome-pdf.html
+2021-08-01T07:55:31.315Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:55:31.849Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:55:31.852Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T07:55:32.126Z - debug: Skipping storing report.
+2021-08-01T07:55:32.126Z - info: Rendering request 30 finished in 1475 ms
+2021-08-01T07:55:48.066Z - debug: OData update on templates
+2021-08-01T07:55:48.091Z - debug: OData query on templates
+2021-08-01T07:55:49.127Z - info: Starting rendering request 31 (user: null)
+2021-08-01T07:55:49.127Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T07:55:49.128Z - debug: Data item not defined for this template.
+2021-08-01T07:55:49.129Z - debug: Resources not defined for this template.
+2021-08-01T07:55:49.129Z - debug: Base url not specified, skipping its injection.
+2021-08-01T07:55:49.131Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T07:55:49.131Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T07:55:49.362Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T07:55:49.363Z - debug: Executing recipe chrome-pdf
+2021-08-01T07:55:49.632Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T07:55:49.726Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/847bf3db-8447-4617-bc52-5e795cf3fe92-chrome-pdf.html
+2021-08-01T07:55:49.747Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/847bf3db-8447-4617-bc52-5e795cf3fe92-chrome-pdf.html
+2021-08-01T07:55:49.748Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:55:50.265Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:55:50.268Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T07:55:50.608Z - debug: Skipping storing report.
+2021-08-01T07:55:50.609Z - info: Rendering request 31 finished in 1483 ms
+2021-08-01T07:55:58.570Z - debug: OData update on templates
+2021-08-01T07:55:58.598Z - debug: OData query on templates
+2021-08-01T07:56:00.525Z - info: Starting rendering request 32 (user: null)
+2021-08-01T07:56:00.525Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T07:56:00.526Z - debug: Data item not defined for this template.
+2021-08-01T07:56:00.527Z - debug: Resources not defined for this template.
+2021-08-01T07:56:00.528Z - debug: Base url not specified, skipping its injection.
+2021-08-01T07:56:00.530Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T07:56:00.531Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T07:56:00.771Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T07:56:00.772Z - debug: Executing recipe chrome-pdf
+2021-08-01T07:56:01.108Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T07:56:01.226Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/be6ede0d-ed43-4d26-ae19-cd69d044e961-chrome-pdf.html
+2021-08-01T07:56:01.247Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/be6ede0d-ed43-4d26-ae19-cd69d044e961-chrome-pdf.html
+2021-08-01T07:56:01.254Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:56:02.050Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:56:02.053Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T07:56:02.417Z - debug: Skipping storing report.
+2021-08-01T07:56:02.418Z - info: Rendering request 32 finished in 1894 ms
+2021-08-01T07:56:08.776Z - debug: OData update on templates
+2021-08-01T07:56:08.800Z - debug: OData query on templates
+2021-08-01T07:56:09.615Z - info: Starting rendering request 33 (user: null)
+2021-08-01T07:56:09.650Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T07:56:09.651Z - debug: Data item not defined for this template.
+2021-08-01T07:56:09.652Z - debug: Resources not defined for this template.
+2021-08-01T07:56:09.652Z - debug: Base url not specified, skipping its injection.
+2021-08-01T07:56:09.654Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T07:56:09.654Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T07:56:09.881Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T07:56:09.882Z - debug: Executing recipe chrome-pdf
+2021-08-01T07:56:10.168Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T07:56:10.283Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/5abf822e-e5f2-49ab-a37e-3640c4b123b5-chrome-pdf.html
+2021-08-01T07:56:10.302Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/5abf822e-e5f2-49ab-a37e-3640c4b123b5-chrome-pdf.html
+2021-08-01T07:56:10.307Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:56:10.769Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:56:10.773Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T07:56:11.119Z - debug: Skipping storing report.
+2021-08-01T07:56:11.120Z - info: Rendering request 33 finished in 1505 ms
+2021-08-01T07:56:19.550Z - debug: OData update on templates
+2021-08-01T07:56:19.585Z - debug: OData query on templates
+2021-08-01T07:56:20.383Z - info: Starting rendering request 34 (user: null)
+2021-08-01T07:56:20.385Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T07:56:20.385Z - debug: Data item not defined for this template.
+2021-08-01T07:56:20.386Z - debug: Resources not defined for this template.
+2021-08-01T07:56:20.387Z - debug: Base url not specified, skipping its injection.
+2021-08-01T07:56:20.389Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T07:56:20.389Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T07:56:20.616Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T07:56:20.617Z - debug: Executing recipe chrome-pdf
+2021-08-01T07:56:20.797Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T07:56:20.952Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/951e2fff-786f-4457-9a91-c15fbf2b5c90-chrome-pdf.html
+2021-08-01T07:56:20.970Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/951e2fff-786f-4457-9a91-c15fbf2b5c90-chrome-pdf.html
+2021-08-01T07:56:20.977Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:56:21.338Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:56:21.341Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T07:56:21.608Z - debug: Skipping storing report.
+2021-08-01T07:56:21.609Z - info: Rendering request 34 finished in 1225 ms
+2021-08-01T07:56:54.380Z - debug: OData update on assets
+2021-08-01T07:56:54.410Z - debug: OData query on assets
+2021-08-01T07:56:56.584Z - info: Starting rendering request 35 (user: null)
+2021-08-01T07:56:56.585Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T07:56:56.585Z - debug: Data item not defined for this template.
+2021-08-01T07:56:56.585Z - debug: Resources not defined for this template.
+2021-08-01T07:56:56.587Z - debug: Base url not specified, skipping its injection.
+2021-08-01T07:56:56.588Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T07:56:56.589Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T07:56:56.834Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T07:56:56.835Z - debug: Executing recipe chrome-pdf
+2021-08-01T07:56:57.118Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T07:56:57.231Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/26c0eede-83b5-4062-bfa8-354f77ac8abc-chrome-pdf.html
+2021-08-01T07:56:57.263Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/26c0eede-83b5-4062-bfa8-354f77ac8abc-chrome-pdf.html
+2021-08-01T07:56:57.264Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:56:57.705Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:56:57.708Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T07:56:57.918Z - debug: Skipping storing report.
+2021-08-01T07:56:57.918Z - info: Rendering request 35 finished in 1334 ms
+2021-08-01T07:57:36.535Z - info: Starting rendering request 36 (user: null)
+2021-08-01T07:57:36.538Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T07:57:36.539Z - debug: Data item not defined for this template.
+2021-08-01T07:57:36.539Z - debug: Resources not defined for this template.
+2021-08-01T07:57:36.540Z - debug: Base url not specified, skipping its injection.
+2021-08-01T07:57:36.543Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T07:57:36.543Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T07:57:36.789Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T07:57:36.791Z - debug: Executing recipe chrome-pdf
+2021-08-01T07:57:36.979Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T07:57:37.096Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/8fa16ba9-e3ec-4de1-bb51-b47d15a4c265-chrome-pdf.html
+2021-08-01T07:57:37.118Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/8fa16ba9-e3ec-4de1-bb51-b47d15a4c265-chrome-pdf.html
+2021-08-01T07:57:37.118Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:57:37.764Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:57:37.766Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T07:57:38.156Z - debug: Skipping storing report.
+2021-08-01T07:57:38.157Z - info: Rendering request 36 finished in 1623 ms
+2021-08-01T07:58:48.035Z - debug: OData update on templates
+2021-08-01T07:58:48.062Z - debug: OData query on templates
+2021-08-01T07:59:04.757Z - info: Starting rendering request 37 (user: null)
+2021-08-01T07:59:04.758Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T07:59:04.759Z - debug: Data item not defined for this template.
+2021-08-01T07:59:04.759Z - debug: Resources not defined for this template.
+2021-08-01T07:59:04.760Z - debug: Base url not specified, skipping its injection.
+2021-08-01T07:59:04.761Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T07:59:04.762Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T07:59:04.997Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T07:59:04.998Z - debug: Executing recipe chrome-pdf
+2021-08-01T07:59:05.192Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T07:59:05.349Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/36bbe592-88b2-49d1-937f-aa58e7a6f31f-chrome-pdf.html
+2021-08-01T07:59:05.371Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/36bbe592-88b2-49d1-937f-aa58e7a6f31f-chrome-pdf.html
+2021-08-01T07:59:05.372Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:59:05.813Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:59:05.816Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T07:59:06.158Z - debug: Skipping storing report.
+2021-08-01T07:59:06.159Z - info: Rendering request 37 finished in 1401 ms
+2021-08-01T07:59:22.681Z - debug: OData update on templates
+2021-08-01T07:59:22.711Z - debug: OData query on templates
+2021-08-01T07:59:23.788Z - info: Starting rendering request 38 (user: null)
+2021-08-01T07:59:23.789Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T07:59:23.789Z - debug: Data item not defined for this template.
+2021-08-01T07:59:23.790Z - debug: Resources not defined for this template.
+2021-08-01T07:59:23.790Z - debug: Base url not specified, skipping its injection.
+2021-08-01T07:59:23.792Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T07:59:23.792Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T07:59:24.032Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T07:59:24.032Z - debug: Executing recipe chrome-pdf
+2021-08-01T07:59:24.200Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T07:59:24.346Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/46fe6ff5-773c-479f-bc99-801f9d607f71-chrome-pdf.html
+2021-08-01T07:59:24.366Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/46fe6ff5-773c-479f-bc99-801f9d607f71-chrome-pdf.html
+2021-08-01T07:59:24.367Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:59:24.934Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:59:24.938Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T07:59:25.261Z - debug: Skipping storing report.
+2021-08-01T07:59:25.261Z - info: Rendering request 38 finished in 1473 ms
+2021-08-01T07:59:49.753Z - info: Starting rendering request 39 (user: null)
+2021-08-01T07:59:49.754Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T07:59:49.755Z - debug: Data item not defined for this template.
+2021-08-01T07:59:49.755Z - debug: Resources not defined for this template.
+2021-08-01T07:59:49.756Z - debug: Base url not specified, skipping its injection.
+2021-08-01T07:59:49.758Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T07:59:49.758Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T07:59:49.996Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T07:59:49.997Z - debug: Executing recipe chrome-pdf
+2021-08-01T07:59:50.269Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T07:59:50.367Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/9c261de4-bead-460a-a52b-a81afc9651a3-chrome-pdf.html
+2021-08-01T07:59:50.388Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/9c261de4-bead-460a-a52b-a81afc9651a3-chrome-pdf.html
+2021-08-01T07:59:50.393Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:59:50.826Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T07:59:50.828Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T07:59:51.198Z - debug: Skipping storing report.
+2021-08-01T07:59:51.198Z - info: Rendering request 39 finished in 1446 ms
+2021-08-01T08:00:14.185Z - debug: OData update on templates
+2021-08-01T08:00:14.205Z - debug: OData query on templates
+2021-08-01T08:00:18.161Z - info: Starting rendering request 40 (user: null)
+2021-08-01T08:00:18.163Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T08:00:18.163Z - debug: Data item not defined for this template.
+2021-08-01T08:00:18.163Z - debug: Resources not defined for this template.
+2021-08-01T08:00:18.164Z - debug: Base url not specified, skipping its injection.
+2021-08-01T08:00:18.165Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T08:00:18.166Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T08:00:18.387Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T08:00:18.388Z - debug: Executing recipe chrome-pdf
+2021-08-01T08:00:18.540Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T08:00:18.670Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/f3c50810-6699-426d-8769-def3ee85b70c-chrome-pdf.html
+2021-08-01T08:00:18.681Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/f3c50810-6699-426d-8769-def3ee85b70c-chrome-pdf.html
+2021-08-01T08:00:18.688Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:00:19.147Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:00:19.151Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T08:00:19.498Z - debug: Skipping storing report.
+2021-08-01T08:00:19.498Z - info: Rendering request 40 finished in 1337 ms
+2021-08-01T08:08:56.226Z - debug: OData update on assets
+2021-08-01T08:08:56.251Z - debug: OData query on assets
+2021-08-01T08:08:57.261Z - info: Starting rendering request 41 (user: null)
+2021-08-01T08:08:57.262Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T08:08:57.263Z - debug: Data item not defined for this template.
+2021-08-01T08:08:57.263Z - debug: Resources not defined for this template.
+2021-08-01T08:08:57.264Z - debug: Base url not specified, skipping its injection.
+2021-08-01T08:08:57.265Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T08:08:57.265Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T08:08:57.494Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T08:08:57.495Z - debug: Executing recipe chrome-pdf
+2021-08-01T08:08:57.775Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T08:08:57.876Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/13dec7b6-56b2-4fa1-b268-52910084e1c4-chrome-pdf.html
+2021-08-01T08:08:57.893Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/13dec7b6-56b2-4fa1-b268-52910084e1c4-chrome-pdf.html
+2021-08-01T08:08:57.899Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:08:59.041Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:08:59.044Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T08:08:59.429Z - debug: Skipping storing report.
+2021-08-01T08:08:59.430Z - info: Rendering request 41 finished in 2168 ms
+2021-08-01T08:09:08.723Z - debug: OData update on assets
+2021-08-01T08:09:08.747Z - debug: OData query on assets
+2021-08-01T08:09:09.950Z - info: Starting rendering request 42 (user: null)
+2021-08-01T08:09:09.951Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T08:09:09.951Z - debug: Data item not defined for this template.
+2021-08-01T08:09:09.951Z - debug: Resources not defined for this template.
+2021-08-01T08:09:09.952Z - debug: Base url not specified, skipping its injection.
+2021-08-01T08:09:09.955Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T08:09:09.955Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T08:09:10.180Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T08:09:10.181Z - debug: Executing recipe chrome-pdf
+2021-08-01T08:09:10.372Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T08:09:10.515Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/39fc1c23-3f32-423a-9482-337182e8979d-chrome-pdf.html
+2021-08-01T08:09:10.541Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/39fc1c23-3f32-423a-9482-337182e8979d-chrome-pdf.html
+2021-08-01T08:09:10.542Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:09:11.469Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:09:11.474Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T08:09:11.819Z - debug: Skipping storing report.
+2021-08-01T08:09:11.819Z - info: Rendering request 42 finished in 1870 ms
+2021-08-01T08:09:40.074Z - debug: OData update on assets
+2021-08-01T08:09:40.099Z - debug: OData query on assets
+2021-08-01T08:09:40.478Z - info: Starting rendering request 43 (user: null)
+2021-08-01T08:09:40.479Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T08:09:40.480Z - debug: Data item not defined for this template.
+2021-08-01T08:09:40.481Z - debug: Resources not defined for this template.
+2021-08-01T08:09:40.481Z - debug: Base url not specified, skipping its injection.
+2021-08-01T08:09:40.483Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T08:09:40.484Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T08:09:40.725Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T08:09:40.726Z - debug: Executing recipe chrome-pdf
+2021-08-01T08:09:41.004Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T08:09:41.109Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/8df1e382-be36-4360-9163-74382a7937ac-chrome-pdf.html
+2021-08-01T08:09:41.127Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/8df1e382-be36-4360-9163-74382a7937ac-chrome-pdf.html
+2021-08-01T08:09:41.134Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:09:42.753Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:09:42.757Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T08:09:43.092Z - debug: Skipping storing report.
+2021-08-01T08:09:43.093Z - info: Rendering request 43 finished in 2615 ms
+2021-08-01T08:09:47.516Z - debug: OData update on assets
+2021-08-01T08:09:47.540Z - debug: OData query on assets
+2021-08-01T08:09:48.341Z - info: Starting rendering request 44 (user: null)
+2021-08-01T08:09:48.342Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T08:09:48.343Z - debug: Data item not defined for this template.
+2021-08-01T08:09:48.343Z - debug: Resources not defined for this template.
+2021-08-01T08:09:48.343Z - debug: Base url not specified, skipping its injection.
+2021-08-01T08:09:48.345Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T08:09:48.345Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T08:09:48.580Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T08:09:48.581Z - debug: Executing recipe chrome-pdf
+2021-08-01T08:09:48.856Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T08:09:48.956Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/ce94f66a-ee2d-4019-8600-4bbfa44c5f71-chrome-pdf.html
+2021-08-01T08:09:48.973Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/ce94f66a-ee2d-4019-8600-4bbfa44c5f71-chrome-pdf.html
+2021-08-01T08:09:48.979Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:09:49.338Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:09:49.341Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T08:09:49.678Z - debug: Skipping storing report.
+2021-08-01T08:09:49.678Z - info: Rendering request 44 finished in 1337 ms
+2021-08-01T08:09:56.732Z - debug: OData update on assets
+2021-08-01T08:09:56.752Z - debug: OData query on assets
+2021-08-01T08:09:57.521Z - info: Starting rendering request 45 (user: null)
+2021-08-01T08:09:57.522Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T08:09:57.523Z - debug: Data item not defined for this template.
+2021-08-01T08:09:57.523Z - debug: Resources not defined for this template.
+2021-08-01T08:09:57.524Z - debug: Base url not specified, skipping its injection.
+2021-08-01T08:09:57.526Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T08:09:57.526Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T08:09:57.746Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T08:09:57.747Z - debug: Executing recipe chrome-pdf
+2021-08-01T08:09:58.125Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T08:09:58.234Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/c62ac149-ff77-4119-a473-90ad4bf960e7-chrome-pdf.html
+2021-08-01T08:09:58.289Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/c62ac149-ff77-4119-a473-90ad4bf960e7-chrome-pdf.html
+2021-08-01T08:09:58.290Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:10:09.494Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T08:10:09.495Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T08:10:09.534Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T08:10:09.859Z - debug: Skipping storing report.
+2021-08-01T08:10:09.860Z - info: Rendering request 45 finished in 12339 ms
+2021-08-01T08:10:11.129Z - debug: OData update on assets
+2021-08-01T08:10:11.147Z - debug: OData query on assets
+2021-08-01T08:10:12.679Z - info: Starting rendering request 46 (user: null)
+2021-08-01T08:10:12.681Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T08:10:12.681Z - debug: Data item not defined for this template.
+2021-08-01T08:10:12.682Z - debug: Resources not defined for this template.
+2021-08-01T08:10:12.682Z - debug: Base url not specified, skipping its injection.
+2021-08-01T08:10:12.684Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T08:10:12.684Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T08:10:12.913Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T08:10:12.914Z - debug: Executing recipe chrome-pdf
+2021-08-01T08:10:13.061Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T08:10:13.203Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/3a674947-2061-418b-afeb-be8e61930e40-chrome-pdf.html
+2021-08-01T08:10:13.223Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/3a674947-2061-418b-afeb-be8e61930e40-chrome-pdf.html
+2021-08-01T08:10:13.224Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:11:09.629Z - debug: OData update on templates
+2021-08-01T08:11:09.648Z - debug: OData query on templates
+2021-08-01T08:11:10.636Z - info: Starting rendering request 47 (user: null)
+2021-08-01T08:11:10.637Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T08:11:10.638Z - debug: Data item not defined for this template.
+2021-08-01T08:11:10.638Z - debug: Resources not defined for this template.
+2021-08-01T08:11:10.639Z - debug: Base url not specified, skipping its injection.
+2021-08-01T08:11:10.641Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T08:11:10.642Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T08:11:10.911Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T08:11:10.911Z - debug: Executing recipe chrome-pdf
+2021-08-01T08:11:11.192Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T08:11:11.291Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/a3f908da-4dfc-49ea-a2c3-f5405d3400dc-chrome-pdf.html
+2021-08-01T08:11:11.307Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/a3f908da-4dfc-49ea-a2c3-f5405d3400dc-chrome-pdf.html
+2021-08-01T08:11:11.311Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:11:12.963Z - error: Rendering request 46 finished with error in 60284 ms
+2021-08-01T08:11:12.964Z - error: Error when processing render request 46 Timeout Error: pdf generation not completed after 59762ms Error: Timeout Error: pdf generation not completed after 59762ms
+    at Timeout.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-chrome-pdf\lib\conversion.js:274:19)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+2021-08-01T08:11:12.964Z - error: Error during processing request at http://localhost:5488/api/report/Eventos
+2021-08-01T08:11:14.921Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:11:14.924Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T08:11:15.233Z - debug: Skipping storing report.
+2021-08-01T08:11:15.233Z - info: Rendering request 47 finished in 4597 ms
+2021-08-01T08:11:48.641Z - debug: OData query on scripts
+2021-08-01T08:11:49.303Z - debug: OData query on templates
+2021-08-01T08:12:31.486Z - debug: OData update on templates
+2021-08-01T08:12:31.512Z - debug: OData query on templates
+2021-08-01T08:12:48.435Z - debug: OData update on templates
+2021-08-01T08:12:48.460Z - debug: OData query on templates
+2021-08-01T08:12:49.065Z - info: Starting rendering request 48 (user: null)
+2021-08-01T08:12:49.065Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T08:12:49.066Z - debug: Data item not defined for this template.
+2021-08-01T08:12:49.066Z - debug: Resources not defined for this template.
+2021-08-01T08:12:49.067Z - debug: Base url not specified, skipping its injection.
+2021-08-01T08:12:49.071Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T08:12:49.071Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T08:12:49.312Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T08:12:49.313Z - debug: Executing recipe chrome-pdf
+2021-08-01T08:12:49.573Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T08:12:49.672Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/5bcff47d-aa80-4435-9c91-7a725433c430-chrome-pdf.html
+2021-08-01T08:12:49.689Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/5bcff47d-aa80-4435-9c91-7a725433c430-chrome-pdf.html
+2021-08-01T08:12:49.693Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:12:55.759Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T08:12:55.759Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T08:12:55.773Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T08:12:56.041Z - debug: Skipping storing report.
+2021-08-01T08:12:56.043Z - info: Rendering request 48 finished in 6977 ms
+2021-08-01T08:13:23.276Z - debug: OData update on templates
+2021-08-01T08:13:23.300Z - debug: OData query on templates
+2021-08-01T08:13:33.115Z - debug: OData update on templates
+2021-08-01T08:13:33.137Z - debug: OData query on templates
+2021-08-01T08:13:33.863Z - info: Starting rendering request 49 (user: null)
+2021-08-01T08:13:33.866Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T08:13:33.867Z - debug: Data item not defined for this template.
+2021-08-01T08:13:33.867Z - debug: Resources not defined for this template.
+2021-08-01T08:13:33.867Z - debug: Base url not specified, skipping its injection.
+2021-08-01T08:13:33.869Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T08:13:33.869Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T08:13:34.102Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T08:13:34.103Z - debug: Executing recipe chrome-pdf
+2021-08-01T08:13:34.257Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T08:13:34.402Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/9a82cb32-6d8a-4261-8d97-bfdb28a8c0fa-chrome-pdf.html
+2021-08-01T08:13:34.416Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/9a82cb32-6d8a-4261-8d97-bfdb28a8c0fa-chrome-pdf.html
+2021-08-01T08:13:34.416Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T08:13:45.601Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T08:13:45.602Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T08:13:45.615Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T08:13:45.917Z - debug: Skipping storing report.
+2021-08-01T08:13:45.917Z - info: Rendering request 49 finished in 12055 ms
+2021-08-01T20:22:40.061Z - info: Starting rendering request 50 (user: null)
+2021-08-01T20:22:40.062Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T20:22:40.063Z - debug: Data item not defined for this template.
+2021-08-01T20:22:40.063Z - debug: Resources not defined for this template.
+2021-08-01T20:22:40.066Z - debug: Base url not specified, skipping its injection.
+2021-08-01T20:22:40.070Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T20:22:40.071Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T20:22:40.312Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T20:22:40.313Z - debug: Executing recipe chrome-pdf
+2021-08-01T20:22:40.914Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T20:22:41.007Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/f213485a-61e8-4565-9882-54b291608750-chrome-pdf.html
+2021-08-01T20:22:41.023Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/f213485a-61e8-4565-9882-54b291608750-chrome-pdf.html
+2021-08-01T20:22:41.029Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T20:22:42.813Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T20:22:42.816Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T20:22:43.256Z - debug: Skipping storing report.
+2021-08-01T20:22:43.256Z - info: Rendering request 50 finished in 3198 ms
+2021-08-01T20:24:55.091Z - debug: OData update on templates
+2021-08-01T20:24:55.121Z - debug: OData query on templates
+2021-08-01T20:24:56.334Z - info: Starting rendering request 51 (user: null)
+2021-08-01T20:24:56.334Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T20:24:56.335Z - debug: Data item not defined for this template.
+2021-08-01T20:24:56.335Z - debug: Resources not defined for this template.
+2021-08-01T20:24:56.336Z - debug: Base url not specified, skipping its injection.
+2021-08-01T20:24:56.338Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T20:24:56.338Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T20:24:56.572Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T20:24:56.573Z - debug: Executing recipe chrome-pdf
+2021-08-01T20:24:56.751Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T20:24:56.918Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/c5173be5-51d0-45d9-89f4-9772818a2193-chrome-pdf.html
+2021-08-01T20:24:56.935Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/c5173be5-51d0-45d9-89f4-9772818a2193-chrome-pdf.html
+2021-08-01T20:24:56.942Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T20:24:58.339Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T20:24:58.341Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T20:24:58.725Z - debug: Skipping storing report.
+2021-08-01T20:24:58.726Z - info: Rendering request 51 finished in 2392 ms
+2021-08-01T20:30:05.184Z - debug: OData update on templates
+2021-08-01T20:30:05.253Z - debug: OData query on templates
+2021-08-01T20:30:05.886Z - info: Starting rendering request 52 (user: null)
+2021-08-01T20:30:05.887Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T20:30:05.887Z - debug: Data item not defined for this template.
+2021-08-01T20:30:05.887Z - debug: Resources not defined for this template.
+2021-08-01T20:30:05.888Z - debug: Base url not specified, skipping its injection.
+2021-08-01T20:30:05.889Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T20:30:05.890Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T20:30:06.114Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T20:30:06.114Z - debug: Executing recipe chrome-pdf
+2021-08-01T20:30:06.357Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T20:30:06.444Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/1dd1fdc6-5de6-48bf-9e92-00590ad28403-chrome-pdf.html
+2021-08-01T20:30:06.460Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/1dd1fdc6-5de6-48bf-9e92-00590ad28403-chrome-pdf.html
+2021-08-01T20:30:06.463Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T20:30:12.884Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T20:30:12.888Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T20:30:13.238Z - debug: Skipping storing report.
+2021-08-01T20:30:13.239Z - info: Rendering request 52 finished in 7354 ms
+2021-08-01T21:51:08.895Z - debug: OData update on templates
+2021-08-01T21:51:08.942Z - debug: OData query on templates
+2021-08-01T21:51:09.272Z - info: Starting rendering request 53 (user: null)
+2021-08-01T21:51:09.274Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: true }
+2021-08-01T21:51:09.275Z - debug: Data item not defined for this template.
+2021-08-01T21:51:09.275Z - debug: Resources not defined for this template.
+2021-08-01T21:51:09.275Z - debug: Base url not specified, skipping its injection.
+2021-08-01T21:51:09.278Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T21:51:09.279Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T21:51:09.532Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T21:51:09.532Z - debug: Executing recipe chrome-pdf
+2021-08-01T21:51:09.838Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T21:51:09.935Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/9f953e12-16c8-4d8b-8462-8983540cc1b6-chrome-pdf.html
+2021-08-01T21:51:09.953Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/9f953e12-16c8-4d8b-8462-8983540cc1b6-chrome-pdf.html
+2021-08-01T21:51:09.957Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T21:51:11.495Z - debug: Page request finished: GET (image) 200 https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T21:51:11.502Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T21:51:11.972Z - debug: Skipping storing report.
+2021-08-01T21:51:11.973Z - info: Rendering request 53 finished in 2700 ms
+2021-08-01T21:56:23.548Z - debug: OData update on templates
+2021-08-01T21:56:23.582Z - debug: OData query on templates
+2021-08-01T22:17:55.472Z - debug: OData update on scripts
+2021-08-01T22:17:55.502Z - debug: OData query on scripts
+2021-08-01T23:22:30.623Z - info: Starting rendering request 54 (user: null)
+2021-08-01T23:22:30.624Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:22:30.624Z - debug: Inline data specified.
+2021-08-01T23:22:30.625Z - debug: Resources not defined for this template.
+2021-08-01T23:22:30.625Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:22:30.627Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T23:22:30.628Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:22:30.870Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:22:30.871Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:22:31.182Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:22:31.273Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/0946d4e9-064f-4c84-a745-67fd3e65f3e4-chrome-pdf.html
+2021-08-01T23:22:31.288Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/0946d4e9-064f-4c84-a745-67fd3e65f3e4-chrome-pdf.html
+2021-08-01T23:22:31.292Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:22:33.280Z - info: Starting rendering request 55 (user: null)
+2021-08-01T23:22:33.281Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:22:33.282Z - debug: Inline data specified.
+2021-08-01T23:22:33.282Z - debug: Resources not defined for this template.
+2021-08-01T23:22:33.283Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:22:33.286Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T23:22:33.286Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:22:33.524Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:22:33.525Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:22:33.815Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:22:33.955Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/d673f963-0ef7-414d-a09f-721960bd0662-chrome-pdf.html
+2021-08-01T23:22:33.974Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/d673f963-0ef7-414d-a09f-721960bd0662-chrome-pdf.html
+2021-08-01T23:22:33.983Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:22:43.421Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:22:43.422Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:22:43.423Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:22:43.423Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:22:43.439Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:22:43.440Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:22:43.877Z - debug: Skipping storing report.
+2021-08-01T23:22:43.877Z - info: Rendering request 54 finished in 13256 ms
+2021-08-01T23:22:43.880Z - debug: Skipping storing report.
+2021-08-01T23:22:43.880Z - info: Rendering request 55 finished in 10600 ms
+2021-08-01T23:23:12.517Z - debug: OData update on templates
+2021-08-01T23:23:12.571Z - debug: OData query on templates
+2021-08-01T23:24:32.025Z - info: Starting rendering request 56 (user: null)
+2021-08-01T23:24:32.026Z - info: Rendering template { name: Eventos, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:24:32.027Z - debug: Inline data specified.
+2021-08-01T23:24:32.027Z - debug: Resources not defined for this template.
+2021-08-01T23:24:32.029Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:24:32.630Z - warn: Rendering request 56 finished with error in 605 ms
+2021-08-01T23:24:32.631Z - warn: Error when processing render request 56 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:31:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:74:13
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+2021-08-01T23:24:32.632Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-08-01T23:25:25.155Z - debug: OData update on scripts
+2021-08-01T23:25:25.193Z - debug: OData query on scripts
+2021-08-01T23:25:35.557Z - info: Starting rendering request 57 (user: null)
+2021-08-01T23:25:35.558Z - info: Rendering template { name: Eventos, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:25:35.558Z - debug: Inline data specified.
+2021-08-01T23:25:35.559Z - debug: Resources not defined for this template.
+2021-08-01T23:25:35.559Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:25:36.161Z - warn: Rendering request 57 finished with error in 604 ms
+2021-08-01T23:25:36.163Z - warn: Error when processing render request 57 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:31:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-08-01T23:25:36.163Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-08-01T23:25:40.817Z - info: Starting rendering request 58 (user: null)
+2021-08-01T23:25:40.818Z - info: Rendering template { name: Eventos, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:25:40.819Z - debug: Inline data specified.
+2021-08-01T23:25:40.819Z - debug: Resources not defined for this template.
+2021-08-01T23:25:40.820Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:25:41.425Z - warn: Rendering request 58 finished with error in 607 ms
+2021-08-01T23:25:41.426Z - warn: Error when processing render request 58 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:31:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-08-01T23:25:41.427Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-08-01T23:25:58.041Z - info: Starting rendering request 59 (user: null)
+2021-08-01T23:25:58.041Z - info: Rendering template { name: Eventos, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:25:58.042Z - debug: Inline data specified.
+2021-08-01T23:25:58.042Z - debug: Resources not defined for this template.
+2021-08-01T23:25:58.043Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:25:58.586Z - warn: Rendering request 59 finished with error in 545 ms
+2021-08-01T23:25:58.587Z - warn: Error when processing render request 59 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:31:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-08-01T23:25:58.588Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-08-01T23:26:40.767Z - debug: OData update on scripts
+2021-08-01T23:26:40.795Z - debug: OData query on scripts
+2021-08-01T23:26:57.466Z - info: Starting rendering request 60 (user: null)
+2021-08-01T23:26:57.467Z - info: Rendering template { name: Eventos, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:26:57.467Z - debug: Inline data specified.
+2021-08-01T23:26:57.467Z - debug: Resources not defined for this template.
+2021-08-01T23:26:57.469Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:26:58.017Z - warn: Rendering request 60 finished with error in 551 ms
+2021-08-01T23:26:58.019Z - warn: Error when processing render request 60 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:30:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-08-01T23:26:58.019Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-08-01T23:27:48.719Z - debug: OData update on scripts
+2021-08-01T23:27:48.761Z - debug: OData query on scripts
+2021-08-01T23:27:57.480Z - info: Starting rendering request 61 (user: null)
+2021-08-01T23:27:57.481Z - info: Rendering template { name: Eventos, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:27:57.481Z - debug: Inline data specified.
+2021-08-01T23:27:57.481Z - debug: Resources not defined for this template.
+2021-08-01T23:27:57.482Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:27:58.053Z - debug: null
+2021-08-01T23:27:58.054Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:27:58.055Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T23:27:58.056Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:27:58.292Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:27:58.293Z - debug: Executing recipe html
+2021-08-01T23:27:58.293Z - debug: Skipping storing report.
+2021-08-01T23:27:58.294Z - info: Rendering request 61 finished in 813 ms
+2021-08-01T23:28:25.654Z - debug: OData update on scripts
+2021-08-01T23:28:25.683Z - debug: OData query on scripts
+2021-08-01T23:31:05.430Z - debug: OData update on templates
+2021-08-01T23:31:05.466Z - debug: OData query on templates
+2021-08-01T23:31:06.200Z - info: Starting rendering request 62 (user: null)
+2021-08-01T23:31:06.201Z - info: Rendering template { name: Eventos, recipe: html, engine: handlebars, preview: true }
+2021-08-01T23:31:06.201Z - debug: Data item not defined for this template.
+2021-08-01T23:31:06.202Z - debug: Resources not defined for this template.
+2021-08-01T23:31:06.202Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:31:07.133Z - warn: Rendering request 62 finished with error in 934 ms
+2021-08-01T23:31:07.134Z - warn: Error when processing render request 62 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:30:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-08-01T23:31:07.135Z - warn: Error during processing request at http://localhost:5488/api/report/Eventos
+2021-08-01T23:31:11.297Z - info: Starting rendering request 63 (user: null)
+2021-08-01T23:31:11.298Z - info: Rendering template { name: Eventos, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:31:11.298Z - debug: Inline data specified.
+2021-08-01T23:31:11.299Z - debug: Resources not defined for this template.
+2021-08-01T23:31:11.299Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:31:11.831Z - debug: null
+2021-08-01T23:31:11.831Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:31:11.833Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T23:31:11.833Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:31:12.065Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:31:12.066Z - debug: Executing recipe html
+2021-08-01T23:31:12.066Z - debug: Skipping storing report.
+2021-08-01T23:31:12.066Z - info: Rendering request 63 finished in 769 ms
+2021-08-01T23:32:49.744Z - info: Starting rendering request 64 (user: null)
+2021-08-01T23:32:49.744Z - info: Rendering template { name: Eventos, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:32:49.745Z - debug: Inline data specified.
+2021-08-01T23:32:49.745Z - debug: Resources not defined for this template.
+2021-08-01T23:32:49.746Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:32:50.270Z - debug: null
+2021-08-01T23:32:50.270Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:32:50.273Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T23:32:50.274Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:32:50.487Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:32:50.487Z - debug: Executing recipe html
+2021-08-01T23:32:50.488Z - debug: Skipping storing report.
+2021-08-01T23:32:50.488Z - info: Rendering request 64 finished in 744 ms
+2021-08-01T23:32:55.384Z - info: Starting rendering request 65 (user: null)
+2021-08-01T23:32:55.385Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:32:55.385Z - debug: Inline data specified.
+2021-08-01T23:32:55.385Z - debug: Resources not defined for this template.
+2021-08-01T23:32:55.386Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:32:55.904Z - debug: null
+2021-08-01T23:32:55.905Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:32:55.907Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T23:32:55.907Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:32:56.126Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:32:56.127Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:32:56.371Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:32:56.462Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/ccdee5bd-f9c7-4515-96c2-e8dc886d8e78-chrome-pdf.html
+2021-08-01T23:32:56.479Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/ccdee5bd-f9c7-4515-96c2-e8dc886d8e78-chrome-pdf.html
+2021-08-01T23:32:56.483Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:32:56.538Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_INTERNET_DISCONNECTED
+2021-08-01T23:32:56.539Z - debug: Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+2021-08-01T23:32:56.559Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:32:56.870Z - debug: Skipping storing report.
+2021-08-01T23:32:56.870Z - info: Rendering request 65 finished in 1486 ms
+2021-08-01T23:33:15.639Z - debug: OData update on templates
+2021-08-01T23:33:15.670Z - debug: OData query on templates
+2021-08-01T23:33:52.859Z - debug: OData update on scripts
+2021-08-01T23:33:52.887Z - debug: OData query on scripts
+2021-08-01T23:33:58.974Z - debug: OData update on scripts
+2021-08-01T23:33:59.030Z - debug: OData query on scripts
+2021-08-01T23:34:04.946Z - info: Starting rendering request 66 (user: null)
+2021-08-01T23:34:04.947Z - info: Rendering template { name: Eventos, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:34:04.947Z - debug: Inline data specified.
+2021-08-01T23:34:04.948Z - debug: Resources not defined for this template.
+2021-08-01T23:34:04.948Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:34:05.535Z - debug: null
+2021-08-01T23:34:05.536Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:34:05.538Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T23:34:05.538Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:34:05.834Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:34:05.835Z - debug: Executing recipe html
+2021-08-01T23:34:05.835Z - debug: Skipping storing report.
+2021-08-01T23:34:05.836Z - info: Rendering request 66 finished in 890 ms
+2021-08-01T23:34:12.617Z - info: Starting rendering request 67 (user: null)
+2021-08-01T23:34:12.617Z - info: Rendering template { name: Eventos, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:34:12.618Z - debug: Inline data specified.
+2021-08-01T23:34:12.618Z - debug: Resources not defined for this template.
+2021-08-01T23:34:12.619Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:34:13.218Z - debug: null
+2021-08-01T23:34:13.219Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:34:13.221Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T23:34:13.222Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:34:13.448Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:34:13.449Z - debug: Executing recipe html
+2021-08-01T23:34:13.449Z - debug: Skipping storing report.
+2021-08-01T23:34:13.450Z - info: Rendering request 67 finished in 834 ms
+2021-08-01T23:34:50.331Z - info: Starting rendering request 68 (user: null)
+2021-08-01T23:34:50.331Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:34:50.332Z - debug: Inline data specified.
+2021-08-01T23:34:50.332Z - debug: Resources not defined for this template.
+2021-08-01T23:34:50.332Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:34:50.924Z - debug: null
+2021-08-01T23:34:50.925Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:34:50.931Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T23:34:50.932Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:34:51.154Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:34:51.155Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:34:51.434Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:34:51.521Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/15bc101a-b8a8-496e-a7dc-4071222e40b1-chrome-pdf.html
+2021-08-01T23:34:51.537Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/15bc101a-b8a8-496e-a7dc-4071222e40b1-chrome-pdf.html
+2021-08-01T23:34:51.541Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:34:55.495Z - info: Starting rendering request 69 (user: null)
+2021-08-01T23:34:55.496Z - info: Rendering template { name: Eventos, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:34:55.496Z - debug: Inline data specified.
+2021-08-01T23:34:55.497Z - debug: Resources not defined for this template.
+2021-08-01T23:34:55.497Z - debug: Executing script Eventos_script using dedicated-process strategy
+2021-08-01T23:34:56.015Z - debug: null
+2021-08-01T23:34:56.015Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:34:56.017Z - debug: Replaced assets ["Eventos_styles.css"]
+2021-08-01T23:34:56.018Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:34:56.233Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:34:56.235Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:34:56.511Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:34:56.601Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/d8ba7df8-ff19-48fc-8c1d-ba6d76bcc1f5-chrome-pdf.html
+2021-08-01T23:34:56.656Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/d8ba7df8-ff19-48fc-8c1d-ba6d76bcc1f5-chrome-pdf.html
+2021-08-01T23:34:56.657Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:35:03.652Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:35:03.653Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:35:03.654Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:35:03.654Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:35:03.670Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:35:03.671Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:35:04.238Z - debug: Skipping storing report.
+2021-08-01T23:35:04.239Z - info: Rendering request 68 finished in 13907 ms
+2021-08-01T23:35:04.239Z - debug: Skipping storing report.
+2021-08-01T23:35:04.241Z - info: Rendering request 69 finished in 8746 ms
+2021-08-01T23:35:30.354Z - info: Starting rendering request 70 (user: null)
+2021-08-01T23:35:30.355Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:35:30.356Z - debug: Inline data specified.
+2021-08-01T23:35:30.356Z - debug: Resources not defined for this template.
+2021-08-01T23:35:30.357Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:35:30.957Z - warn: Rendering request 70 finished with error in 598 ms
+2021-08-01T23:35:30.964Z - warn: Error when processing render request 70 Error while executing user script. query is not defined. Error on line 21:19.
+
+  19 | 
+  20 | var query1 = ["Select o.nombre, o.id_organizacion, o.fecha_fundacion, o.proposito ,c.nombre,c.apellido, c.telefono,c.email,c.doc_identidad from ec_organizacion o, ec_organizador_contacto c where o.id_organizacion = c.ec_organizacion_id_organizacion"];
+> 21 |   if (idorg!="0") query.push(" and o.id_organizacion = "+idorg+" or o.nombre like ('"+idorg+"%') ");
+     |                   ^
+  22 |   if (cedula!="0") query.push("and c.nombre like('"+idcon+"') or c.doc_identidad = "+idcon+"");
+  23 |   db.query(query1.join(' '), (err, result) => {
+  24 |     console.log(err);
+
+ ReferenceError: query is not defined
+    at Object.beforeRender (evaluate-user-script.js:21:19)
+    at Object.__runBefore (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-scripts\lib\scriptEvalChild.js:141:26)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:469:32)
+    at evaluate-user-script.js:37:1
+    at Script.runInContext (vm.js:143:18)
+    at VM.run (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib\main.js:219:62)
+    at run (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-core\lib\render\safeSandbox.js:171:19)
+    at scriptEvalChild (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-scripts\lib\scriptEvalChild.js:200:5)
+    at scriptExecModuleWrapper (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-core\lib\scriptExecModuleWrapper.js:29:26)
+    at process.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\script-manager\lib\worker-processes.js:66:36)
+2021-08-01T23:35:30.964Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-08-01T23:36:14.922Z - debug: OData update on scripts
+2021-08-01T23:36:14.951Z - debug: OData query on scripts
+2021-08-01T23:36:17.703Z - info: Starting rendering request 71 (user: null)
+2021-08-01T23:36:17.704Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:36:17.705Z - debug: Inline data specified.
+2021-08-01T23:36:17.705Z - debug: Resources not defined for this template.
+2021-08-01T23:36:17.706Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:36:18.219Z - debug: null
+2021-08-01T23:36:18.220Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:36:18.222Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:36:18.223Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:36:18.451Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:36:18.452Z - debug: Executing recipe html
+2021-08-01T23:36:18.452Z - debug: Skipping storing report.
+2021-08-01T23:36:18.453Z - info: Rendering request 71 finished in 749 ms
+2021-08-01T23:36:20.301Z - info: Starting rendering request 72 (user: null)
+2021-08-01T23:36:20.303Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:36:20.304Z - debug: Inline data specified.
+2021-08-01T23:36:20.305Z - debug: Resources not defined for this template.
+2021-08-01T23:36:20.305Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:36:20.871Z - debug: null
+2021-08-01T23:36:20.872Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:36:20.874Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:36:20.874Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:36:21.146Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:36:21.151Z - debug: Executing recipe html
+2021-08-01T23:36:21.151Z - debug: Skipping storing report.
+2021-08-01T23:36:21.152Z - info: Rendering request 72 finished in 850 ms
+2021-08-01T23:36:23.943Z - info: Starting rendering request 73 (user: null)
+2021-08-01T23:36:23.944Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:36:23.944Z - debug: Inline data specified.
+2021-08-01T23:36:23.945Z - debug: Resources not defined for this template.
+2021-08-01T23:36:23.945Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:36:24.778Z - debug: null
+2021-08-01T23:36:24.779Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:36:24.781Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:36:24.782Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:36:25.111Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:36:25.121Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:36:25.456Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:36:25.554Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/81d4fee9-fab8-4e49-8d73-7b1b2428799d-chrome-pdf.html
+2021-08-01T23:36:25.571Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/81d4fee9-fab8-4e49-8d73-7b1b2428799d-chrome-pdf.html
+2021-08-01T23:36:25.576Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:36:37.682Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:36:37.683Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:36:37.700Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:36:38.055Z - debug: Skipping storing report.
+2021-08-01T23:36:38.055Z - info: Rendering request 73 finished in 14113 ms
+2021-08-01T23:39:21.086Z - info: Starting rendering request 74 (user: null)
+2021-08-01T23:39:21.087Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:39:21.087Z - debug: Inline data specified.
+2021-08-01T23:39:21.088Z - debug: Resources not defined for this template.
+2021-08-01T23:39:21.088Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:39:21.606Z - debug: null
+2021-08-01T23:39:21.607Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:39:21.609Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:39:21.610Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:39:21.829Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:39:21.830Z - debug: Executing recipe html
+2021-08-01T23:39:21.830Z - debug: Skipping storing report.
+2021-08-01T23:39:21.830Z - info: Rendering request 74 finished in 744 ms
+2021-08-01T23:39:24.469Z - info: Starting rendering request 75 (user: null)
+2021-08-01T23:39:24.470Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:39:24.470Z - debug: Inline data specified.
+2021-08-01T23:39:24.470Z - debug: Resources not defined for this template.
+2021-08-01T23:39:24.471Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:39:24.998Z - debug: null
+2021-08-01T23:39:24.998Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:39:25.000Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:39:25.000Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:39:25.211Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:39:25.212Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:39:25.483Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:39:25.567Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/322a6266-ef30-4715-a7b9-aa354df0ee14-chrome-pdf.html
+2021-08-01T23:39:25.583Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/322a6266-ef30-4715-a7b9-aa354df0ee14-chrome-pdf.html
+2021-08-01T23:39:25.588Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:39:25.646Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:39:25.646Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:39:25.655Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:39:25.956Z - debug: Skipping storing report.
+2021-08-01T23:39:25.956Z - info: Rendering request 75 finished in 1487 ms
+2021-08-01T23:39:30.342Z - info: Starting rendering request 76 (user: null)
+2021-08-01T23:39:30.343Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:39:30.344Z - debug: Inline data specified.
+2021-08-01T23:39:30.344Z - debug: Resources not defined for this template.
+2021-08-01T23:39:30.345Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:39:30.861Z - debug: null
+2021-08-01T23:39:30.861Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:39:30.863Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:39:30.864Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:39:31.074Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:39:31.075Z - debug: Executing recipe html
+2021-08-01T23:39:31.076Z - debug: Skipping storing report.
+2021-08-01T23:39:31.076Z - info: Rendering request 76 finished in 735 ms
+2021-08-01T23:43:03.343Z - debug: OData update on scripts
+2021-08-01T23:43:03.367Z - debug: OData query on scripts
+2021-08-01T23:43:05.094Z - info: Starting rendering request 77 (user: null)
+2021-08-01T23:43:05.095Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:43:05.096Z - debug: Inline data specified.
+2021-08-01T23:43:05.096Z - debug: Resources not defined for this template.
+2021-08-01T23:43:05.097Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:43:05.615Z - debug: null
+2021-08-01T23:43:05.616Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:43:05.618Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:43:05.618Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:43:05.829Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:43:05.831Z - debug: Executing recipe html
+2021-08-01T23:43:05.831Z - debug: Skipping storing report.
+2021-08-01T23:43:05.832Z - info: Rendering request 77 finished in 738 ms
+2021-08-01T23:43:12.774Z - info: Starting rendering request 78 (user: null)
+2021-08-01T23:43:12.775Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:43:12.775Z - debug: Inline data specified.
+2021-08-01T23:43:12.775Z - debug: Resources not defined for this template.
+2021-08-01T23:43:12.776Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:43:13.281Z - debug: null
+2021-08-01T23:43:13.282Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:43:13.284Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:43:13.285Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:43:13.492Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:43:13.493Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:43:13.822Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:43:13.924Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/fb628eeb-188f-429f-9fa7-62c60214ddf5-chrome-pdf.html
+2021-08-01T23:43:13.943Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/fb628eeb-188f-429f-9fa7-62c60214ddf5-chrome-pdf.html
+2021-08-01T23:43:13.947Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:43:26.032Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:43:26.032Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:43:26.121Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:43:26.427Z - debug: Skipping storing report.
+2021-08-01T23:43:26.427Z - info: Rendering request 78 finished in 13653 ms
+2021-08-01T23:45:46.698Z - debug: OData update on scripts
+2021-08-01T23:45:46.723Z - debug: OData query on scripts
+2021-08-01T23:46:06.992Z - debug: OData update on templates
+2021-08-01T23:46:07.016Z - debug: OData query on templates
+2021-08-01T23:46:19.142Z - debug: OData update on templates
+2021-08-01T23:46:19.162Z - debug: OData query on templates
+2021-08-01T23:46:49.221Z - debug: OData update on templates
+2021-08-01T23:46:49.243Z - debug: OData query on templates
+2021-08-01T23:46:52.038Z - info: Starting rendering request 79 (user: null)
+2021-08-01T23:46:52.039Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:46:52.040Z - debug: Inline data specified.
+2021-08-01T23:46:52.040Z - debug: Resources not defined for this template.
+2021-08-01T23:46:52.041Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:46:52.553Z - debug: null
+2021-08-01T23:46:52.554Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:46:52.556Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:46:52.556Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:46:52.768Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:46:52.769Z - debug: Executing recipe html
+2021-08-01T23:46:52.769Z - debug: Skipping storing report.
+2021-08-01T23:46:52.770Z - info: Rendering request 79 finished in 732 ms
+2021-08-01T23:46:55.732Z - info: Starting rendering request 80 (user: null)
+2021-08-01T23:46:55.733Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:46:55.733Z - debug: Inline data specified.
+2021-08-01T23:46:55.734Z - debug: Resources not defined for this template.
+2021-08-01T23:46:55.735Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:46:56.235Z - debug: null
+2021-08-01T23:46:56.236Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:46:56.238Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:46:56.239Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:46:56.451Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:46:56.452Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:46:56.700Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:46:56.789Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/be509629-1f84-44f2-a91e-343306bd8a12-chrome-pdf.html
+2021-08-01T23:46:56.806Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/be509629-1f84-44f2-a91e-343306bd8a12-chrome-pdf.html
+2021-08-01T23:46:56.811Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:47:02.860Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:47:02.860Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:47:02.871Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:47:03.104Z - debug: Skipping storing report.
+2021-08-01T23:47:03.104Z - info: Rendering request 80 finished in 7373 ms
+2021-08-01T23:49:42.019Z - debug: OData update on scripts
+2021-08-01T23:49:42.045Z - debug: OData query on scripts
+2021-08-01T23:49:53.517Z - debug: OData update on scripts
+2021-08-01T23:49:53.544Z - debug: OData query on scripts
+2021-08-01T23:49:55.295Z - info: Starting rendering request 81 (user: null)
+2021-08-01T23:49:55.295Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:49:55.296Z - debug: Inline data specified.
+2021-08-01T23:49:55.296Z - debug: Resources not defined for this template.
+2021-08-01T23:49:55.297Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:49:55.811Z - debug: null
+2021-08-01T23:49:55.812Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:49:55.813Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:49:55.814Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:49:56.028Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:49:56.030Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:49:56.281Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:49:56.371Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/d2b3cd69-e43e-442a-854a-895fab39209b-chrome-pdf.html
+2021-08-01T23:49:56.386Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/d2b3cd69-e43e-442a-854a-895fab39209b-chrome-pdf.html
+2021-08-01T23:49:56.394Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:49:57.204Z - info: Starting rendering request 82 (user: null)
+2021-08-01T23:49:57.204Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:49:57.205Z - debug: Inline data specified.
+2021-08-01T23:49:57.205Z - debug: Resources not defined for this template.
+2021-08-01T23:49:57.206Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:49:57.722Z - debug: null
+2021-08-01T23:49:57.722Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:49:57.724Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:49:57.724Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:49:57.941Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:49:57.943Z - debug: Executing recipe html
+2021-08-01T23:49:57.943Z - debug: Skipping storing report.
+2021-08-01T23:49:57.944Z - info: Rendering request 82 finished in 740 ms
+2021-08-01T23:50:06.248Z - info: Starting rendering request 83 (user: null)
+2021-08-01T23:50:06.249Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:50:06.250Z - debug: Inline data specified.
+2021-08-01T23:50:06.250Z - debug: Resources not defined for this template.
+2021-08-01T23:50:06.251Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:50:06.814Z - debug: null
+2021-08-01T23:50:06.815Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:50:06.817Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:50:06.817Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:50:07.043Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:50:07.044Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:50:07.312Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:50:07.418Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/788691ad-803b-45ca-a2f5-aa2b6eb33763-chrome-pdf.html
+2021-08-01T23:50:07.440Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/788691ad-803b-45ca-a2f5-aa2b6eb33763-chrome-pdf.html
+2021-08-01T23:50:07.447Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:50:08.482Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:50:08.482Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:50:08.484Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:50:08.484Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:50:08.500Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:50:08.501Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:50:08.896Z - debug: Skipping storing report.
+2021-08-01T23:50:08.897Z - info: Rendering request 81 finished in 13603 ms
+2021-08-01T23:50:09.005Z - debug: Skipping storing report.
+2021-08-01T23:50:09.006Z - info: Rendering request 83 finished in 2758 ms
+2021-08-01T23:50:23.992Z - info: Starting rendering request 84 (user: null)
+2021-08-01T23:50:23.993Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:50:23.994Z - debug: Inline data specified.
+2021-08-01T23:50:23.994Z - debug: Resources not defined for this template.
+2021-08-01T23:50:23.995Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:50:24.504Z - debug: null
+2021-08-01T23:50:24.505Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:50:24.506Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:50:24.506Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:50:24.723Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:50:24.725Z - debug: Executing recipe html
+2021-08-01T23:50:24.725Z - debug: Skipping storing report.
+2021-08-01T23:50:24.725Z - info: Rendering request 84 finished in 734 ms
+2021-08-01T23:51:22.915Z - info: Starting rendering request 85 (user: null)
+2021-08-01T23:51:22.915Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:51:22.916Z - debug: Inline data specified.
+2021-08-01T23:51:22.916Z - debug: Resources not defined for this template.
+2021-08-01T23:51:22.917Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:51:23.430Z - debug: null
+2021-08-01T23:51:23.431Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:51:23.433Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:51:23.433Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:51:23.646Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:51:23.647Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:51:23.913Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:51:24.001Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/39821a4c-3653-4408-8e92-a71f1ae0e6e4-chrome-pdf.html
+2021-08-01T23:51:24.016Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/39821a4c-3653-4408-8e92-a71f1ae0e6e4-chrome-pdf.html
+2021-08-01T23:51:24.022Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:51:24.075Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:51:24.075Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:51:24.087Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:51:24.342Z - debug: Skipping storing report.
+2021-08-01T23:51:24.342Z - info: Rendering request 85 finished in 1428 ms
+2021-08-01T23:51:39.641Z - info: Starting rendering request 86 (user: null)
+2021-08-01T23:51:39.646Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:51:39.647Z - debug: Inline data specified.
+2021-08-01T23:51:39.648Z - debug: Resources not defined for this template.
+2021-08-01T23:51:39.649Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:51:40.179Z - debug: null
+2021-08-01T23:51:40.179Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:51:40.182Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:51:40.183Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:51:40.395Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:51:40.397Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:51:40.652Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:51:40.750Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/404425b8-60d4-4c13-9ec7-5c469726adfa-chrome-pdf.html
+2021-08-01T23:51:40.765Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/404425b8-60d4-4c13-9ec7-5c469726adfa-chrome-pdf.html
+2021-08-01T23:51:40.771Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:51:45.140Z - info: Starting rendering request 87 (user: null)
+2021-08-01T23:51:45.140Z - info: Rendering template { name: FichaOrg, recipe: chrome-pdf, engine: handlebars, preview: false }
+2021-08-01T23:51:45.141Z - debug: Inline data specified.
+2021-08-01T23:51:45.141Z - debug: Resources not defined for this template.
+2021-08-01T23:51:45.142Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:51:45.663Z - debug: null
+2021-08-01T23:51:45.664Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:51:45.666Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:51:45.666Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:51:45.892Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:51:45.893Z - debug: Executing recipe chrome-pdf
+2021-08-01T23:51:46.249Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2021-08-01T23:51:46.346Z - debug: Page request: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/0b10746a-3f9a-4090-94d2-7e622cdc9f29-chrome-pdf.html
+2021-08-01T23:51:46.374Z - debug: Page request finished: GET (document) file:///C:/Users/Personal/AppData/Local/Temp/jsreport/autocleanup/0b10746a-3f9a-4090-94d2-7e622cdc9f29-chrome-pdf.html
+2021-08-01T23:51:46.377Z - debug: Page request: GET (image) https://img.icons8.com/plasticine/100/000000/law.png
+2021-08-01T23:51:46.437Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:51:46.437Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:51:46.439Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:51:46.704Z - debug: Skipping storing report.
+2021-08-01T23:51:46.704Z - info: Rendering request 87 finished in 1565 ms
+2021-08-01T23:51:46.825Z - warn: Page request failed: GET (image) https://img.icons8.com/plasticine/100/000000/law.png, failure: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:51:46.826Z - debug: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2021-08-01T23:51:46.839Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2021-08-01T23:51:47.138Z - debug: Skipping storing report.
+2021-08-01T23:51:47.139Z - info: Rendering request 86 finished in 7511 ms
+2021-08-01T23:52:58.510Z - debug: OData update on templates
+2021-08-01T23:52:58.550Z - debug: OData query on templates
+2021-08-01T23:53:01.474Z - info: Starting rendering request 88 (user: null)
+2021-08-01T23:53:01.475Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:53:01.476Z - debug: Inline data specified.
+2021-08-01T23:53:01.476Z - debug: Resources not defined for this template.
+2021-08-01T23:53:01.477Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:53:01.976Z - debug: null
+2021-08-01T23:53:01.976Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:53:01.978Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:53:01.978Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:53:02.195Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:53:02.196Z - debug: Executing recipe html
+2021-08-01T23:53:02.197Z - debug: Skipping storing report.
+2021-08-01T23:53:02.197Z - info: Rendering request 88 finished in 723 ms
+2021-08-01T23:53:54.687Z - debug: OData update on scripts
+2021-08-01T23:53:54.715Z - debug: OData query on scripts
+2021-08-01T23:53:58.612Z - info: Starting rendering request 89 (user: null)
+2021-08-01T23:53:58.613Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: true }
+2021-08-01T23:53:58.613Z - debug: Data item not defined for this template.
+2021-08-01T23:53:58.614Z - debug: Resources not defined for this template.
+2021-08-01T23:53:58.614Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:53:59.132Z - debug: null
+2021-08-01T23:53:59.132Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:53:59.134Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:53:59.135Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:53:59.358Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:53:59.359Z - debug: Executing recipe html
+2021-08-01T23:53:59.359Z - debug: Skipping storing report.
+2021-08-01T23:53:59.360Z - info: Rendering request 89 finished in 747 ms
+2021-08-01T23:54:48.149Z - debug: OData update on scripts
+2021-08-01T23:54:48.189Z - debug: OData query on scripts
+2021-08-01T23:55:03.033Z - info: Starting rendering request 90 (user: null)
+2021-08-01T23:55:03.034Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: true }
+2021-08-01T23:55:03.035Z - debug: Data item not defined for this template.
+2021-08-01T23:55:03.035Z - debug: Resources not defined for this template.
+2021-08-01T23:55:03.036Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:55:03.550Z - warn: Rendering request 90 finished with error in 517 ms
+2021-08-01T23:55:03.553Z - warn: Error when processing render request 90 data is not defined
+logs:
++0      Starting rendering request 90 (user: null)
++1      Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: true }
++1      Data item not defined for this template.
++2      Resources not defined for this template.
++2      Executing script fichaOrg_script using dedicated-process strategy
++517    Rendering request 90 finished with error in 517 ms ReferenceError: data is not defined
+    at Proxy.<anonymous> (evaluate-user-script.js:30:17)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleReadyForQuery (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:129:12)
+    at Connection.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:266:19)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-08-01T23:55:03.553Z - warn: Error during processing request at http://localhost:5488/api/report/FichaOrg
+2021-08-01T23:55:10.661Z - info: Starting rendering request 91 (user: null)
+2021-08-01T23:55:10.662Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: true }
+2021-08-01T23:55:10.662Z - debug: Data item not defined for this template.
+2021-08-01T23:55:10.663Z - debug: Resources not defined for this template.
+2021-08-01T23:55:10.664Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:55:11.177Z - warn: Rendering request 91 finished with error in 516 ms
+2021-08-01T23:55:11.178Z - warn: Error when processing render request 91 data is not defined ReferenceError: data is not defined
+    at Proxy.<anonymous> (evaluate-user-script.js:30:17)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleReadyForQuery (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:129:12)
+    at Connection.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:266:19)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-08-01T23:55:11.179Z - warn: Error during processing request at http://localhost:5488/api/report/FichaOrg
+2021-08-01T23:55:21.709Z - debug: OData update on scripts
+2021-08-01T23:55:21.731Z - debug: OData query on scripts
+2021-08-01T23:55:23.551Z - info: Starting rendering request 92 (user: null)
+2021-08-01T23:55:23.551Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: true }
+2021-08-01T23:55:23.552Z - debug: Data item not defined for this template.
+2021-08-01T23:55:23.552Z - debug: Resources not defined for this template.
+2021-08-01T23:55:23.552Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:55:24.061Z - warn: Rendering request 92 finished with error in 511 ms
+2021-08-01T23:55:24.063Z - warn: Error when processing render request 92 data is not defined
+logs:
++0      Starting rendering request 92 (user: null)
++1      Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: true }
++2      Data item not defined for this template.
++2      Resources not defined for this template.
++2      Executing script fichaOrg_script using dedicated-process strategy
++511    Rendering request 92 finished with error in 511 ms ReferenceError: data is not defined
+    at Proxy.<anonymous> (evaluate-user-script.js:29:17)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleReadyForQuery (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:129:12)
+    at Connection.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:266:19)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-08-01T23:55:24.064Z - warn: Error during processing request at http://localhost:5488/api/report/FichaOrg
+2021-08-01T23:55:52.323Z - info: Starting rendering request 93 (user: null)
+2021-08-01T23:55:52.323Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: true }
+2021-08-01T23:55:52.324Z - debug: Data item not defined for this template.
+2021-08-01T23:55:52.324Z - debug: Resources not defined for this template.
+2021-08-01T23:55:52.324Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:55:52.837Z - warn: Rendering request 93 finished with error in 515 ms
+2021-08-01T23:55:52.839Z - warn: Error when processing render request 93 data is not defined ReferenceError: data is not defined
+    at Proxy.<anonymous> (evaluate-user-script.js:29:17)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleReadyForQuery (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:129:12)
+    at Connection.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:266:19)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-08-01T23:55:52.839Z - warn: Error during processing request at http://localhost:5488/api/report/FichaOrg
+2021-08-01T23:56:11.576Z - info: Starting rendering request 94 (user: null)
+2021-08-01T23:56:11.577Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: true }
+2021-08-01T23:56:11.577Z - debug: Data item not defined for this template.
+2021-08-01T23:56:11.578Z - debug: Resources not defined for this template.
+2021-08-01T23:56:11.578Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:56:12.089Z - debug: null
+2021-08-01T23:56:12.090Z - debug: [
+  {
+    org: 'Museo Nacional del Prado',
+    id_organizacion: '1',
+    fecha_fundacion: 1819-11-19T04:27:44.000Z,
+    proposito: 'Museo',
+    nombre: 'nombre',
+    apellido: 'apellido',
+    telefono: '2312413',
+    email: 'qweqwesda@asdasd.com',
+    doc_identidad: '123'
+  }
+]
+2021-08-01T23:56:12.091Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:56:12.094Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:56:12.095Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:56:12.315Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:56:12.315Z - debug: Executing recipe html
+2021-08-01T23:56:12.316Z - debug: Skipping storing report.
+2021-08-01T23:56:12.316Z - info: Rendering request 94 finished in 741 ms
+2021-08-01T23:56:23.394Z - info: Starting rendering request 95 (user: null)
+2021-08-01T23:56:23.395Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: true }
+2021-08-01T23:56:23.395Z - debug: Data item not defined for this template.
+2021-08-01T23:56:23.395Z - debug: Resources not defined for this template.
+2021-08-01T23:56:23.396Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:56:23.915Z - debug: null
+2021-08-01T23:56:23.916Z - debug: [
+  {
+    org: 'Museo Nacional del Prado',
+    id_organizacion: '1',
+    fecha_fundacion: 1819-11-19T04:27:44.000Z,
+    proposito: 'Museo',
+    nombre: 'nombre',
+    apellido: 'apellido',
+    telefono: '2312413',
+    email: 'qweqwesda@asdasd.com',
+    doc_identidad: '123'
+  }
+]
+2021-08-01T23:56:23.917Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:56:23.919Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:56:23.920Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:56:24.138Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:56:24.139Z - debug: Executing recipe html
+2021-08-01T23:56:24.140Z - debug: Skipping storing report.
+2021-08-01T23:56:24.140Z - info: Rendering request 95 finished in 747 ms
+2021-08-01T23:56:52.286Z - debug: OData update on templates
+2021-08-01T23:56:52.322Z - debug: OData query on templates
+2021-08-01T23:56:53.552Z - info: Starting rendering request 96 (user: null)
+2021-08-01T23:56:53.553Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: true }
+2021-08-01T23:56:53.554Z - debug: Data item not defined for this template.
+2021-08-01T23:56:53.554Z - debug: Resources not defined for this template.
+2021-08-01T23:56:53.555Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:56:54.066Z - debug: null
+2021-08-01T23:56:54.067Z - debug: [
+  {
+    org: 'Museo Nacional del Prado',
+    id_organizacion: '1',
+    fecha_fundacion: 1819-11-19T04:27:44.000Z,
+    proposito: 'Museo',
+    nombre: 'nombre',
+    apellido: 'apellido',
+    telefono: '2312413',
+    email: 'qweqwesda@asdasd.com',
+    doc_identidad: '123'
+  }
+]
+2021-08-01T23:56:54.067Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:56:54.069Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:56:54.069Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:56:54.323Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:56:54.325Z - debug: Executing recipe html
+2021-08-01T23:56:54.325Z - debug: Skipping storing report.
+2021-08-01T23:56:54.325Z - info: Rendering request 96 finished in 773 ms
+2021-08-01T23:57:00.997Z - debug: OData update on templates
+2021-08-01T23:57:01.019Z - debug: OData query on templates
+2021-08-01T23:57:02.162Z - info: Starting rendering request 97 (user: null)
+2021-08-01T23:57:02.163Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: true }
+2021-08-01T23:57:02.164Z - debug: Data item not defined for this template.
+2021-08-01T23:57:02.164Z - debug: Resources not defined for this template.
+2021-08-01T23:57:02.165Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:57:02.686Z - debug: null
+2021-08-01T23:57:02.688Z - debug: [
+  {
+    org: 'Museo Nacional del Prado',
+    id_organizacion: '1',
+    fecha_fundacion: 1819-11-19T04:27:44.000Z,
+    proposito: 'Museo',
+    nombre: 'nombre',
+    apellido: 'apellido',
+    telefono: '2312413',
+    email: 'qweqwesda@asdasd.com',
+    doc_identidad: '123'
+  }
+]
+2021-08-01T23:57:02.689Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:57:02.691Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:57:02.692Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:57:02.911Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:57:02.912Z - debug: Executing recipe html
+2021-08-01T23:57:02.912Z - debug: Skipping storing report.
+2021-08-01T23:57:02.913Z - info: Rendering request 97 finished in 750 ms
+2021-08-01T23:58:12.484Z - debug: OData update on templates
+2021-08-01T23:58:12.519Z - debug: OData query on templates
+2021-08-01T23:58:13.956Z - debug: OData update on templates
+2021-08-01T23:58:13.974Z - debug: OData query on templates
+2021-08-01T23:58:15.323Z - debug: OData update on templates
+2021-08-01T23:58:15.341Z - debug: OData query on templates
+2021-08-01T23:58:16.273Z - info: Starting rendering request 98 (user: null)
+2021-08-01T23:58:16.274Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: true }
+2021-08-01T23:58:16.275Z - debug: Data item not defined for this template.
+2021-08-01T23:58:16.275Z - debug: Resources not defined for this template.
+2021-08-01T23:58:16.275Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:58:16.795Z - debug: null
+2021-08-01T23:58:16.796Z - debug: [
+  {
+    org: 'Museo Nacional del Prado',
+    id_organizacion: '1',
+    fecha_fundacion: 1819-11-19T04:27:44.000Z,
+    proposito: 'Museo',
+    nombre: 'nombre',
+    apellido: 'apellido',
+    telefono: '2312413',
+    email: 'qweqwesda@asdasd.com',
+    doc_identidad: '123'
+  }
+]
+2021-08-01T23:58:16.797Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:58:16.799Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:58:16.800Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:58:17.022Z - warn: Rendering request 98 finished with error in 748 ms
+2021-08-01T23:58:17.024Z - warn: Error when processing render request 98 Error while executing templating engine. each doesn't match rows - 838:3 Error: each doesn't match rows - 838:3
+    at validateClose (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\helpers.js:28:11)
+    at Object.prepareBlock (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\helpers.js:142:5)
+    at Object.anonymous (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:65:33)
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:367:48)
+    at parseWithoutProcessing (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:33)
+    at HandlebarsEnvironment.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:52:13)
+    at compileInput (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:508:19)
+    at ret (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:517:18)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:33:20
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:469:32)
+2021-08-01T23:58:17.025Z - warn: Error during processing request at http://localhost:5488/api/report/FichaOrg
+2021-08-01T23:59:07.728Z - debug: OData update on templates
+2021-08-01T23:59:07.783Z - debug: OData query on templates
+2021-08-01T23:59:08.497Z - info: Starting rendering request 99 (user: null)
+2021-08-01T23:59:08.497Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: true }
+2021-08-01T23:59:08.498Z - debug: Data item not defined for this template.
+2021-08-01T23:59:08.498Z - debug: Resources not defined for this template.
+2021-08-01T23:59:08.499Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:59:09.010Z - debug: null
+2021-08-01T23:59:09.011Z - debug: [
+  {
+    org: 'Museo Nacional del Prado',
+    id_organizacion: '1',
+    fecha_fundacion: 1819-11-19T04:27:44.000Z,
+    proposito: 'Museo',
+    nombre: 'nombre',
+    apellido: 'apellido',
+    telefono: '2312413',
+    email: 'qweqwesda@asdasd.com',
+    doc_identidad: '123'
+  }
+]
+2021-08-01T23:59:09.012Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:59:09.013Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:59:09.014Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:59:09.232Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:59:09.233Z - debug: Executing recipe html
+2021-08-01T23:59:09.234Z - debug: Skipping storing report.
+2021-08-01T23:59:09.234Z - info: Rendering request 99 finished in 738 ms
+2021-08-01T23:59:43.281Z - debug: OData update on scripts
+2021-08-01T23:59:43.308Z - debug: OData query on scripts
+2021-08-01T23:59:46.792Z - info: Starting rendering request 100 (user: null)
+2021-08-01T23:59:46.793Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-01T23:59:46.794Z - debug: Inline data specified.
+2021-08-01T23:59:46.794Z - debug: Resources not defined for this template.
+2021-08-01T23:59:46.795Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-01T23:59:47.295Z - debug: null
+2021-08-01T23:59:47.296Z - debug: Base url not specified, skipping its injection.
+2021-08-01T23:59:47.299Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-01T23:59:47.299Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-01T23:59:47.514Z - debug: Compiled template not found in the cache, compiling
+2021-08-01T23:59:47.515Z - debug: Executing recipe html
+2021-08-01T23:59:47.516Z - debug: Skipping storing report.
+2021-08-01T23:59:47.516Z - info: Rendering request 100 finished in 724 ms
+2021-08-02T00:00:04.321Z - info: Starting rendering request 101 (user: null)
+2021-08-02T00:00:04.321Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-02T00:00:04.322Z - debug: Inline data specified.
+2021-08-02T00:00:04.322Z - debug: Resources not defined for this template.
+2021-08-02T00:00:04.323Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-02T00:00:04.828Z - debug: null
+2021-08-02T00:00:04.829Z - debug: Base url not specified, skipping its injection.
+2021-08-02T00:00:04.830Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-02T00:00:04.831Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-02T00:00:05.049Z - debug: Compiled template not found in the cache, compiling
+2021-08-02T00:00:05.049Z - debug: Executing recipe html
+2021-08-02T00:00:05.050Z - debug: Skipping storing report.
+2021-08-02T00:00:05.050Z - info: Rendering request 101 finished in 730 ms
+2021-08-02T00:11:16.049Z - debug: OData update on scripts
+2021-08-02T00:11:16.072Z - debug: OData query on scripts
+2021-08-02T00:11:41.044Z - debug: OData update on scripts
+2021-08-02T00:11:41.074Z - debug: OData query on scripts
+2021-08-02T00:11:45.452Z - debug: OData update on scripts
+2021-08-02T00:11:45.472Z - debug: OData query on scripts
+2021-08-02T00:12:04.097Z - info: Starting rendering request 102 (user: null)
+2021-08-02T00:12:04.098Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-02T00:12:04.098Z - debug: Inline data specified.
+2021-08-02T00:12:04.099Z - debug: Resources not defined for this template.
+2021-08-02T00:12:04.099Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-02T00:12:04.623Z - debug: null
+2021-08-02T00:12:04.624Z - debug: Base url not specified, skipping its injection.
+2021-08-02T00:12:04.626Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-02T00:12:04.626Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-02T00:12:04.859Z - debug: Compiled template not found in the cache, compiling
+2021-08-02T00:12:04.860Z - debug: Executing recipe html
+2021-08-02T00:12:04.861Z - debug: Skipping storing report.
+2021-08-02T00:12:04.861Z - info: Rendering request 102 finished in 764 ms
+2021-08-02T00:12:10.472Z - info: Starting rendering request 103 (user: null)
+2021-08-02T00:12:10.474Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-02T00:12:10.475Z - debug: Inline data specified.
+2021-08-02T00:12:10.475Z - debug: Resources not defined for this template.
+2021-08-02T00:12:10.476Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-02T00:12:11.056Z - debug: null
+2021-08-02T00:12:11.057Z - debug: Base url not specified, skipping its injection.
+2021-08-02T00:12:11.058Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-02T00:12:11.059Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-02T00:12:11.277Z - debug: Compiled template not found in the cache, compiling
+2021-08-02T00:12:11.278Z - debug: Executing recipe html
+2021-08-02T00:12:11.278Z - debug: Skipping storing report.
+2021-08-02T00:12:11.279Z - info: Rendering request 103 finished in 808 ms
+2021-08-02T00:12:14.143Z - info: Starting rendering request 104 (user: null)
+2021-08-02T00:12:14.144Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-02T00:12:14.145Z - debug: Inline data specified.
+2021-08-02T00:12:14.145Z - debug: Resources not defined for this template.
+2021-08-02T00:12:14.146Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-02T00:12:14.670Z - debug: null
+2021-08-02T00:12:14.671Z - debug: Base url not specified, skipping its injection.
+2021-08-02T00:12:14.673Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-02T00:12:14.673Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-02T00:12:14.899Z - debug: Compiled template not found in the cache, compiling
+2021-08-02T00:12:14.900Z - debug: Executing recipe html
+2021-08-02T00:12:14.900Z - debug: Skipping storing report.
+2021-08-02T00:12:14.901Z - info: Rendering request 104 finished in 758 ms
+2021-08-02T00:12:16.424Z - info: Starting rendering request 105 (user: null)
+2021-08-02T00:12:16.425Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-02T00:12:16.426Z - debug: Inline data specified.
+2021-08-02T00:12:16.426Z - debug: Resources not defined for this template.
+2021-08-02T00:12:16.427Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-02T00:12:16.940Z - debug: null
+2021-08-02T00:12:16.941Z - debug: Base url not specified, skipping its injection.
+2021-08-02T00:12:16.942Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-02T00:12:16.943Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-02T00:12:17.163Z - debug: Compiled template not found in the cache, compiling
+2021-08-02T00:12:17.164Z - debug: Executing recipe html
+2021-08-02T00:12:17.165Z - debug: Skipping storing report.
+2021-08-02T00:12:17.165Z - info: Rendering request 105 finished in 741 ms
+2021-08-02T00:12:19.731Z - info: Starting rendering request 106 (user: null)
+2021-08-02T00:12:19.732Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-02T00:12:19.732Z - debug: Inline data specified.
+2021-08-02T00:12:19.732Z - debug: Resources not defined for this template.
+2021-08-02T00:12:19.733Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-02T00:12:20.246Z - debug: null
+2021-08-02T00:12:20.246Z - debug: Base url not specified, skipping its injection.
+2021-08-02T00:12:20.248Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-02T00:12:20.248Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-02T00:12:20.491Z - debug: Compiled template not found in the cache, compiling
+2021-08-02T00:12:20.492Z - debug: Executing recipe html
+2021-08-02T00:12:20.492Z - debug: Skipping storing report.
+2021-08-02T00:12:20.493Z - info: Rendering request 106 finished in 761 ms
+2021-08-02T00:14:42.015Z - info: Starting rendering request 107 (user: null)
+2021-08-02T00:14:42.016Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-02T00:14:42.016Z - debug: Inline data specified.
+2021-08-02T00:14:42.017Z - debug: Resources not defined for this template.
+2021-08-02T00:14:42.017Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-02T00:14:42.545Z - warn: Rendering request 107 finished with error in 529 ms
+2021-08-02T00:14:42.546Z - warn: Error when processing render request 107 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:26:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-08-02T00:14:42.547Z - warn: Error during processing request at http://localhost:5488/api/report
+2021-08-02T00:14:57.710Z - info: Starting rendering request 108 (user: null)
+2021-08-02T00:14:57.711Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-02T00:14:57.712Z - debug: Inline data specified.
+2021-08-02T00:14:57.712Z - debug: Resources not defined for this template.
+2021-08-02T00:14:57.713Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-02T00:14:58.226Z - debug: null
+2021-08-02T00:14:58.226Z - debug: Base url not specified, skipping its injection.
+2021-08-02T00:14:58.228Z - debug: Replaced assets ["fichaOrg_styles.css"]
+2021-08-02T00:14:58.228Z - debug: Rendering engine handlebars using dedicated-process strategy
+2021-08-02T00:14:58.443Z - debug: Compiled template not found in the cache, compiling
+2021-08-02T00:14:58.444Z - debug: Executing recipe html
+2021-08-02T00:14:58.445Z - debug: Skipping storing report.
+2021-08-02T00:14:58.445Z - info: Rendering request 108 finished in 735 ms
+2021-08-02T00:15:03.933Z - info: Starting rendering request 109 (user: null)
+2021-08-02T00:15:03.934Z - info: Rendering template { name: FichaOrg, recipe: html, engine: handlebars, preview: false }
+2021-08-02T00:15:03.935Z - debug: Inline data specified.
+2021-08-02T00:15:03.935Z - debug: Resources not defined for this template.
+2021-08-02T00:15:03.936Z - debug: Executing script fichaOrg_script using dedicated-process strategy
+2021-08-02T00:15:04.446Z - warn: Rendering request 109 finished with error in 512 ms
+2021-08-02T00:15:04.447Z - warn: Error when processing render request 109 Cannot read property 'rows' of undefined TypeError: Cannot read property 'rows' of undefined
+    at Proxy.<anonymous> (evaluate-user-script.js:26:20)
+    at Object.base.apply (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\vm2\lib/contextify.js:166:34)
+    at Query.handleError (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\query.js:146:19)
+    at Connection.connectedErrorMessageHandler (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\client.js:233:17)
+    at Connection.emit (events.js:315:20)
+    at C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg\lib\connection.js:109:10
+    at Parser.parse (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\parser.js:40:17)
+    at Socket.<anonymous> (C:\Users\Personal\Documents\GitHub\jsreportATF\node_modules\pg-protocol\dist\index.js:8:42)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+2021-08-02T00:15:04.448Z - warn: Error during processing request at http://localhost:5488/api/report

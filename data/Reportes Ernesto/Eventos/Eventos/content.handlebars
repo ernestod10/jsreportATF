@@ -1,0 +1,114 @@
+<style>
+ {#asset Eventos_styles.css @encoding=utf8}
+ </style>
+<body>
+<div id="Artboard__2">
+	<div id="Group_79">
+		<svg class="Rectangle_91">
+			<rect id="Rectangle_91" rx="55" ry="55" x="0" y="0" width="655" height="876">
+			</rect>
+		</svg>
+		<div id="Group_78">
+			<img id="icons8_law_200px"  src="https://img.icons8.com/plasticine/100/000000/law.png">
+				
+			<div id="Group_83">
+				<div id="Group_82">
+					<div id="Group_80">
+						<div id="Group_77">
+							<div id="Lista_De_eventos_Por_tienda">
+								<span>Lista De eventos Por tienda</span>
+							</div>
+							<div id="Eventos">
+								<span></span>
+							</div>
+							<div id="Group_76">
+								<div id="Group_75">
+									<div id="Group_57">
+										<svg class="Rectangle_79">
+											<rect id="Rectangle_79" rx="0" ry="0" x="0" y="0" width="212" height="50">
+											</rect>
+										</svg>
+										<div id="Nombre_Tienda">
+											<span>Nombre Tienda</span>
+										</div>
+									</div>
+									<div id="Group_60">
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="Group_81">
+					<div id="Group_66">
+						<svg class="Rectangle_90">
+							<rect id="Rectangle_90" rx="0" ry="0" x="0" y="0" width="391" height="50">
+							</rect>
+						</svg>
+						<div id="ID1">
+							<span>{{Tienda}}</span>
+						</div>
+						
+					</div>
+				
+				
+				</div>
+				<div class="invoice-box">
+            <table cellpadding="0" cellspacing="0">
+                <tr class="top">
+                    <td colspan="4">
+                        <table>
+                            <tr>
+                                
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr class="information ">
+                    <td colspan="4 ">
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td>
+                                    &nbsp;<br>
+                                   &nbsp;<br>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr class="heading ">
+                    <td>
+                        Estatus 
+                    </td>
+					<td>
+                        Fecha Inicio  
+                    </td>
+					<td>
+                        Tipo Puja  
+                    </td>
+
+                </tr>
+               {{#each rows}}
+                <tr class="item">
+                    <td>
+                        {{Estatus}}
+                    </td>
+
+                    <td>
+                       {{Fecha_inicio}}
+                    </td>
+					<td>
+                       {{Tipo}}
+                    </td>
+				
+
+                </tr>
+               {{/each}}
+            </table>
+        </div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
