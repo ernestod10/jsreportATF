@@ -5,7 +5,11 @@
  </style>
  </head>
 <body>
+	{{#each rows}}
+<GridItem>
+	<div class="flip-card-container" style="--hue: 220">
 <div id="Artboard__1">
+
 	<div id="Group_79">
 		<svg class="Rectangle_91">
 			<rect id="Rectangle_91" rx="55" ry="55" x="0" y="0" width="618" height="854">
@@ -13,7 +17,7 @@
 		</svg>
 		<div id="Group_78">
 			<img id="icons8_law_200px" src="https://img.icons8.com/plasticine/100/000000/law.png" >
-{{#each rows}}				
+				
 			<div id="Group_77">
 				<div id="Ficha_Tienda">
 					<span>Ficha Tienda</span>
@@ -190,8 +194,12 @@
 				</div>
 			</div>
 		</div>
-		{{/each}}
+	
 	</div>
+
 </div>
+	</div>
+	</GridItem>
+	{{/each}}
 </body>
 </html>

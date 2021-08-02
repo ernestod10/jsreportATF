@@ -820,3 +820,17 @@
 		font-size: 30px;
 		color: rgba(0,0,0,1);
 	}
+	.flip-card-container {
+  --hue: 150;
+  --primary: hsl(var(--hue), 50%, 50%);
+  --white-1: hsl(0, 0%, 90%);
+  --white-2: hsl(0, 0%, 80%);
+  --dark: hsl(var(--hue), 25%, 10%);
+  --grey: hsl(0, 0%, 50%);
+
+ width: 310px;
+  height: 1000px;
+  margin: 40px;
+
+  perspective: 1000px;
+}
